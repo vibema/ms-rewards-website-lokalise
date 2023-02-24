@@ -1,0 +1,48 @@
+pl:
+    user:
+        header:
+            label: 'MYSPORTS REWARDS'
+            title: 'ZDOBYWAJ NAGRODY ZA KAŻDĄ AKTYWNOŚĆ'
+            p: 'MySports Rewards to apka motywująca do bycia w ruchu. MySports Rewards nagradza Cię za każdą aktywność sportową. Szybko i bezpośrednio. Niezależnie od tego, czy spacerujesz z psem, jeździsz rowerem do pracy, czy lubisz treningi w objekach sportowych.'
+        benefits-header:
+            title: 'DLACZEGO MYSPORTS REWARDS CI SIĘ OPŁACI'
+            p: ''
+        benefits:
+            -
+                title: 'Zbieraj Activity Points'
+                p: 'Z każdą aktywnością zyskujesz cenne punkty aktywności. Czy to w pojedynkę, z przyjaciółmi, z kolegami lub z pracodawcą.'
+            -
+                title: 'Rejestruj wszystkie aktywności'
+                p: 'Regularnie chodzisz na spacery lub przejażdżki rowerowe? Lubisz jogę lub uczęszczasz do szkoły tańca? MySports Rewards wspiera każdy rodzaj aktywności sportowej i pomoże Ci pokonać wewnętrznego lenia.'
+            -
+                title: 'Zgarniaj nagrody'
+                p: 'Chcesz za swoją aktywność otrzymywać atrakcyjne nagrody? Przekonaj swego pracodawcę do MySports Rewards.'
+        app-headline:
+            title: 'TWOJA APKA MYSPORTS&nbsp;REWARDS'
+        app:
+            -
+                p: 'Zestawienie aktywności znajdziesz zawsze na <strong>pulpicie</strong>. Dzięki temu zawsze szybko zorientujesz się w realizacji swoich dziennych i tygodniowych celów.'
+            -
+                p: 'W zakładce <strong>Osiągnięcia</strong> sprawdzisz zdobyte punkty aktywności, tygodniowy, miesięczny i ogólny bilans, a także liczbę dni, w których osiągnąłeś postawione cele.'
+            -
+                p: 'W <strong>Wyzwaniach</strong> możesz przejrzeć wszystkie wyzwania indywidualne i zespołowe, do udziału w których MySports Rewards App będzie Cię regularnie zapraszać.'
+        examples:
+            -
+                title: WYZWANIA
+                p: 'Zbieraj Activity Points w szczytnym celu, a my wesprzemy akcję dobroczynną lub fundację.'
+            -
+                title: 'CIESZ SIĘ Z NAGRÓD'
+                p: 'Przekonaj pracodawcę i zdobywaj punkty premiowe na nagrody o wartości do 200 zł miesięcznie (4.000 STARS)* za realizację celów związanych z aktywnością fizyczną.'
+            -
+                title: 'ŚCIGAJ SIĘ Z PRZYJACIÓŁMI'
+                p: 'Wybierz do 30 znajomych do aktywnego współzawodnictwa. Możecie porównywać na bieżąco swoją aktywność i w ten wzajemnie się motywować do większego ruchu.'
+        testimonials:
+            -
+                quote: 'Fajna apka, której udaje się wyciągnąć mnie na zewnątrz, mimo złej pogody. Dzięki temu udaje mi się pokonać "ostatnią milę" po swoje nagrody!'
+            -
+                quote: 'Aplikacja MySports Rewads motywuje, jest fajną rozrywką, wspiera zdrowie i daje dobre uczucie, że stale coś osiągamy.'
+            -
+                quote: 'Jestem mile zaskoczony tym, jak łatwo aplikacji MySports Rewards udaje się zmotywować mnie do regularnej aktywności.'
+        cta:
+            title: 'BĄDŹ AKTYWNY I POBIERZ APLIKACJĘ JUŻ TERAZ'
+            p: 'Czy chciałbyś zacząć regularnie się ruszać i zrobić coś dla swojej kondycji i samopoczucia? Skorzystaj z apki MySports Rewards!'
