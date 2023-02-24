@@ -19,8 +19,7 @@ pl:
                     button: 'Zostań sponsorem'
                 -
                     label: ''
-            targetgroup3:
-                button: ''
+                    button: ''
         footer:
             title: 'BĄDŹ AKTYWNY I POBIERZ APLIKACJĘ JUŻ TERAZ'
             p: 'Czy chciałbyś zacząć więcej się ruszać, zrobić coś dla swojej kondycji i lepszego samopoczucia? Skorzystaj z apki MySports Rewards!'
