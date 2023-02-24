@@ -1,0 +1,48 @@
+en:
+    user:
+        header:
+            label: 'MYSPORTS REWARDS'
+            title: 'GET REWARDED FOR EVERY ACTIVITY'
+            p: 'MySports Rewards is an app that motivates you to be on the move. MySports Rewards rewards you for every sports activity. Quickly and directly. Whether you''re walking the dog, biking to work, or prefer to workout at sports facilities.'
+        benefits-header:
+            title: 'WHY MYSPORTS REWARDS PAYS OFF FOR YOU'
+            p: ''
+        benefits:
+            -
+                title: 'Earn Activity Points'
+                p: 'With each activity you gain valuable Activity Points. Whether alone, with friends, with colleagues or with your employer.'
+            -
+                title: 'Track any kind of activity'
+                p: 'Do you regularly go for walks or bike rides? You like yoga or attend a dance school? MySports Rewards supports any type of sport activity and helps overcome your inner sloth.'
+            -
+                title: 'Secure rewards and vouchers'
+                p: 'You want to have your activities additionally rewarded with attractive rewards and vouchers? Convince your employer of MySports Rewards.'
+        app-headline:
+            title: 'YOUR<br>MYSPORTS REWARDS APP'
+        app:
+            -
+                p: 'Activity status is displayed on your <strong>dashboard</strong>. This way you''ll always be able to keep track of your daily and weekly goals.'
+            -
+                p: 'In <strong>Achievements</strong> tab you will find your Activity Points, your weekly, monthly and overall balance, as well as the number of days you have achieved the goals.'
+            -
+                p: 'Under the <strong>Challenges</strong> tab, you can view all the individual and team challenges that the MySports Rewards App regularly motivates you to participate in.'
+        examples:
+            -
+                title: Challenges
+                p: 'Collect Activity Points for a worthy cause and we will support a charity or foundation.'
+            -
+                title: 'Get rewarded'
+                p: 'Convince your employer and get rewarded with up to 5,000 STARS /€50* monthly for achieving physical activity goals.'
+            -
+                title: 'COMPARE YOURSELF WITH FRIENDS'
+                p: 'Select up to 30 friends for active competition. You can compare your activity on a regular basis and thus motivate each other to move more.'
+        testimonials:
+            -
+                quote: 'A smart app that manages to get me outside despite bad weather so I take the final steps for my reward!'
+            -
+                quote: 'The app motivates, is fun, keeps you healthy and gives you the good feeling of having achieved something.'
+            -
+                quote: 'I am pleasantly surprised at how easily the MySports Rewards app manages to motivate me to engage in regular activity.'
+        cta:
+            title: 'GET ACTIVE NOW AND DOWNLOAD THE APP'
+            p: 'Would you also like to move more and do something for your fitness and well-being? Take advantage of the MySports Rewards app now!'

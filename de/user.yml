@@ -3,48 +3,46 @@ de:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'Lass dich für jede Aktivität belohnen'
-            p: 'MySports Rewards ist deine Motivations-App für mehr Bewegung. Für jede sportliche Aktivität belohnt dich MySports Rewards. Schnell und direkt. Ob beim Spazierengehen mit dem Hund, beim Fahrradfahren zur Arbeit oder beim Besuch einer Sporteinrichtung deiner Wahl.'
-            button: 'App laden'
+            p: 'MySports Rewards ist deine Motivations-App für mehr Bewegung und Wohlbefinden. Für jede sportliche Aktivität belohnt dich MySports Rewards. Schnell und direkt. Ob bei Spazierengehen mit dem Hund, beim Fahrradfahren zur Arbeit oder beim Besuch einer Sporteinrichtung deiner Wahl.'
         benefits-header:
-            title: Warum sich MySports Rewards für dich auszahlt
-            p: MySports Rewards motiviert dich Tag für Tag zu mehr Bewegung sowie Gesundheit und hält starke Vorteile für dich bereit, wetten?
+            title: 'Warum sich MySports Rewards für dich auszahlt'
+            p: 'MySports Rewards motiviert dich Tag für Tag zu mehr Bewegung sowie Gesundheit und hält starke Vorteile für dich bereit, wetten?'
         benefits:
-              -
-                  title: Sammle Activity Points
-                  p: Mit jeder Aktivität sammelst du wertvolle Activity Points. Ob alleine, mit Freunden, mit Kollegen oder mit deinem Arbeitgeber.
-              -
-                  title: Tracke jede Art von Aktivität
-                  p: Du gehst regelmäßig spazieren und fährst Fahrrad? Du machst gern Yoga? Du besuchst eine Tanzschule? MySports Rewards fördert jede Art der sportlichen Aktivität und hilft dir dabei, deinen Schweinehund zu überwinden.
-              -
-                  title: Sichere dir Prämien und Gutscheine
-                  p: Du möchtest deine Aktivitäten zusätzlich mit attraktiven Prämien und Gutscheinen belohnt haben? Überzeuge deinen Arbeitgeber von MySports Rewards.
+            -
+                title: 'Sammle Activity Points'
+                p: 'Mit jeder Aktivität sammelst du wertvolle Activity Points. Ob alleine, mit Freunden, mit Kollegen oder mit deinem Arbeitgeber.'
+            -
+                title: 'Tracke jede Art von Aktivität'
+                p: 'Du gehst regelmäßig spazieren und fährst Fahrrad? Du machst gern Yoga? Du besuchst eine Tanzschule? MySports Rewards fördert jede Art der sportlichen Aktivität und hilft dir dabei, deinen Schweinehund zu überwinden.'
+            -
+                title: 'Sichere dir Prämien und Gutscheine'
+                p: 'Du möchtest deine Aktivitäten zusätzlich mit attraktiven Prämien und Gutscheinen belohnt haben? Überzeuge deinen Arbeitgeber von MySports Rewards.'
         app-headline:
-            title: Deine<br>MySports Rewards App
+            title: 'Deine<br>MySports Rewards App'
         app:
-              -
-                  p: Auf deinem <strong>Dashboard</strong> wird dir dein Aktivitätsstatus angezeigt. So behältst du jederzeit deine Tages- und Wochenziele im Blick.
-              -
-                  p: Unter <strong>Erfolge</strong> findest du deine Activity Points, Wochen-, Monats- und Gesamtbilanz sowie deine Tages- und Check-in-basierten Ziele.
-              -
-                  p: Unter <strong>Challenges</strong> kannst du dir alle Einzel- und Teamchallenges anzeigen lassen, zu denen dich MySports Rewards App regelmäßig motiviert.
+            -
+                p: 'Auf deinem <strong>Dashboard</strong> wird dir dein Aktivitätsstatus angezeigt. So behältst du jederzeit deine Tages- und Wochenziele im Blick.'
+            -
+                p: 'Unter <strong>Erfolge</strong> findest du deine Activity Points, Wochen-, Monats- und Gesamtbilanz sowie deine Tages- und Check-in-basierten Ziele.'
+            -
+                p: 'Unter <strong>Challenges</strong> kannst du dir alle Einzel- und Teamchallenges anzeigen lassen, zu denen dich MySports Rewards App regelmäßig motiviert.'
         examples:
-              -
-                  title: Challenges
-                  p: Sammle Activity Points für einen guten Zweck und wir spenden für eine nachhaltige Aktion oder Stiftung.
-              -
-                  title: Lass dich belohnen
-                  p: Überzeuge deinen Arbeitgeber und lass dich für erreichte Bewegungsziele mit bis zu 5.000 STARS /50€* monatlich belohnen.
-              -
-                  title: Vergleich dich mit Freunden
-                  p: Markiere bis zu 30 Freunde um ihre Aktivität direkt im Startscreen im Vergleich mit dir zu sehen. So könnt ihr euch gegenseitig zu mehr Bewegung anspornen.
+            -
+                title: Challenges
+                p: 'Sammle Activity Points für einen guten Zweck und wir spenden für eine nachhaltige Aktion oder Stiftung.'
+            -
+                title: 'Lass dich belohnen'
+                p: 'Überzeuge deinen Arbeitgeber und lass dich für erreichte Bewegungsziele mit bis zu 5.000 STARS /50€* monatlich belohnen.'
+            -
+                title: 'Vergleich dich mit Freunden'
+                p: 'Markiere bis zu 30 Freunde um ihre Aktivität direkt im Startscreen im Vergleich mit dir zu sehen. So könnt ihr euch gegenseitig zu mehr Bewegung anspornen.'
         testimonials:
-              -
-                  quote: Eine smarte App, die es schafft, mich trotz schlechtem Wetter nach draußen zu bekommen, damit ich die letzten Schritte für meine Belohnung
-              -
-                  quote: Die App motiviert, macht Spaß, hält gesund und gibt das gute Gefühl, etwas erreicht zu haben.
-              -
-                  quote: Ich bin positiv überrascht, wie leicht die MySports Rewards App es schafft, mich zu regelmäßigen Aktivitäten zu motivieren.
+            -
+                quote: 'Eine smarte App, die es schafft, mich trotz schlechtem Wetter nach draußen zu bekommen, damit ich die letzten Schritte für meine Belohnung'
+            -
+                quote: 'Die App motiviert, macht Spaß, hält gesund und gibt das gute Gefühl, etwas erreicht zu haben.'
+            -
+                quote: 'Ich bin positiv überrascht, wie leicht die MySports Rewards App es schafft, mich zu regelmäßigen Aktivitäten zu motivieren.'
         cta:
-            title: Jetzt aktiv werden und App downloaden
-            p: Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App.
-            button: App laden
+            title: 'Jetzt aktiv werden und App downloaden'
+            p: 'Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App.'
