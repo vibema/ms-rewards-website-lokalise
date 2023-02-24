@@ -1,0 +1,24 @@
+en:
+    home:
+        header:
+            label: 'MYSPORTS REWARDS'
+            title: 'YOUR MOTIVATION APP FOR MORE MOVEMENT'
+            p: 'Whether you''re walking, cycling or doing any other sporting activity, MySports Rewards encourages you to be more active and healthy - with a reward system that''s fun to use. It''s never been easier to get moving. Join now, whether alone, with friends, in a team or through your employer.'
+            button: 'Find out more'
+        content:
+            title: 'ACTIVITY THAT PAYS OFF FOR ALL'
+            user:
+                label: 'For you'
+                button: 'Here we go'
+            company:
+                label: 'For employers'
+                button: 'Motivate employees'
+            sponsor:
+                label: 'For sponsors'
+                button: 'Become a sponsor'
+            association:
+                label: ''
+                button: ''
+        footer:
+            title: 'GET ACTIVE NOW AND DOWNLOAD THE APP'
+            p: 'Would you also like to move more and do something for your fitness and well-being? Take advantage of the MySports Rewards app now!'

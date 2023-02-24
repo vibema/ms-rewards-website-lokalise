@@ -1,0 +1,24 @@
+pl:
+    home:
+        header:
+            label: 'MYSPORTS REWARDS'
+            title: 'TWOJA APKA MOTYWUJĄCA DO WIĘKSZEJ AKTYWNOŚCI'
+            p: 'Niezależnie od tego, czy spacerujesz, jeździsz na rowerze lub preferujesz inną aktywność sportową, MySports Rewards motywuje Cię do większej aktywności i bycia zdrowym. Dzięki systemowi nagród,  bycie w ruchu nigdy nie było prostsze. Dołącz do nas już teraz, czy to sam, z przyjaciółmi, w zespole lub za pośrednictwem pracodawcy.'
+            button: 'Dowiedz się wiecej'
+        content:
+            title: 'AKTYWNOŚĆ, KTÓRA OPŁACA SIĘ WSZYSTKIM'
+            user:
+                label: 'Dla Ciebie'
+                button: 'Wchodzę w to'
+            company:
+                label: 'Dla pracodawców'
+                button: 'Zmotywuj pracowników'
+            sponsor:
+                label: 'Dla sponsorów'
+                button: 'Zostań sponsorem'
+            association:
+                label: ''
+                button: ''
+        footer:
+            title: 'BĄDŹ AKTYWNY I POBIERZ APLIKACJĘ JUŻ TERAZ'
+            p: 'Czy chciałbyś zacząć więcej się ruszać, zrobić coś dla swojej kondycji i lepszego samopoczucia? Skorzystaj z apki MySports Rewards!'
