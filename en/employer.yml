@@ -1,0 +1,68 @@
+en:
+    employer:
+        header:
+            label: 'MYSPORTS REWARDS'
+            title: 'YOUR BENEFIT PROGRAM FOR ALL EMPLOYEES'
+            p: 'Do you want to improve resilience and spirit in your team all at once? And enhance your employer brand? MySports Rewards is a activity-based program full of benefits that motivates employees to be fitter, promotes health and rewards every active day.'
+            button: ''
+            link: ''
+            disrupter: 'Test without risk!'
+        benefits-header:
+            title: 'WHY MYSPORTS REWARDS PAYS OFF FOR YOU AS AN EMPLOYER'
+        benefits:
+            -
+                title: '100% benefits, 0 efforts'
+                p: 'As an employer, you don''t have to worry about a thing. MySports Rewards sets sports goals, handles communication with your employees and provides rewards.'
+            -
+                title: 'It motivates the whole team'
+                p: 'MySports Rewards motivates everyone. Not just the sports machines among your employees. Every movement is rewarded - whether it''s walking the dog, swimming, biking or going to the gym.'
+            -
+                title: 'Promotes commitment and team spirit'
+                p: 'Many companies achieve employee engagement as high as 80%. Become one of them. With high engagement, you will strengthen team spirit as well as employee retention and your employer brand.'
+            -
+                title: 'Attractive rewards'
+                p: 'Every employee participating in the MySports Rewards program is rewarded with Activity Points and bonus points (STARS) worth up to 50€ per month, which can be exchanged for attractive vouchers and prizes.'
+        portal:
+            title: 'EVERYTHING AT A GLANCE:&#58;YOUR EMPLOYER PORTAL'
+            p: 'In the employer portal, you can see how active your employees group have become in sports. The trend statistics give you an overview of the performance of the entire team. Naturally, the privacy of all participants is protected.'
+        preise:
+            hl: 'CHOOSE BETWEEN FOUR ATTRACTIVE PACKAGES'
+            p: 'You decide what suits your team best. Depending on the package you choose, your employees can earn more bonus points (STARS) and redeem them faster for rewards and vouchers. Everyone manages own STARS in the personal wallet of his/her MySports Rewards app.'
+            small: 'incl. 2.50 € platform fee'
+            extra: 'Service packages, net, monthly, per participant'
+            button: ''
+        pakete:
+            -
+                size: S
+                preis: '10.89 €'
+                benefit-one: 'Material prizes up to 10 € (gross)'
+                benefit-two: ''
+            -
+                size: M
+                preis: '19.30 €'
+                benefit-one: 'Material prizes up to 23 € (gross)'
+                benefit-two: ''
+            -
+                size: L
+                preis: '27.70 €'
+                benefit-one: 'Material prizes up to 35 € (gross)'
+                benefit-two: ''
+            -
+                size: XL
+                preis: 36.11€
+                benefit-one: ''
+                benefit-two: ''
+        testimonials-header:
+            title: 'HOW OTHER COMPANIES SCORE WITH MYSPORTS REWARDS'
+            p: 'These companies already make use of the MySports Rewards to build employee resilience and strengthen their employer brand.'
+        testimonials:
+            -
+                quote: 'A clever application that makes it easier for us to achieve our goals - exactly to our taste! In the meantime, the whole team joined the program and we cheer each other on. After a few months, it''s clear: we are actually more active.'
+            -
+                quote: 'I am positively surprised that so many employees are motivated to exercise regularly thanks to MySports Rewards. There are twice as many participating as I expected when I decided to introduce MySports Rewards.'
+            -
+                quote: 'MySports Rewards is easy to integrate into the daily routine of almost all employees. Actually all interests are addressed, no one is at a disadvantage, young and also older colleagues can equally earn their STARS through sports activity.'
+        footer:
+            title: 'YOUR COMPANY WOULD ALSO LIKE TO BENEFIT FROM MYSPORTS REWARDS'
+            p: 'Learn more and book a non-binding appointment now.'
+            button: 'Contact us now'

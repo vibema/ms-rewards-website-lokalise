@@ -26,46 +26,43 @@ de:
             title: 'Alles auf einen Blick&#58; Dein Arbeitgeber-Portal'
             p: 'Im Arbeitgeber-Portal siehst du, wie sportlich aktiv deine Mitarbeitenden geworden sind. Die Trend-Statistiken geben dir einen Überblick über die Performance des gesamten Teams. Natürlich unter Wahrung der Privatsphäre aller Teilnehmer.'
         preise:
-            hl: Wähle zwischen vier attraktiven Leistungspaketen
-            p: Welches Paket am besten zu deinem Unternehmen passt, bestimmst du. Die Prämien und Gutscheine, die dein Team durch sportliche Bewegung verdient, werden deinen Mitarbeitenden in der MySports App als Stars angezeigt.
-            small: inkl. 2,50€ Plattform Gebühr
-            extra: Leistungspakete, netto, monatlich, je Teilnehmer
-            button: Jetzt kostenfrei testen
+            hl: 'Wähle zwischen vier attraktiven Leistungspaketen'
+            p: 'Welches Paket am besten zu deinem Unternehmen passt, bestimmst du. Die Prämien und Gutscheine, die dein Team durch sportliche Bewegung verdient, werden deinen Mitarbeitenden in der MySports App als Stars angezeigt.'
+            small: 'inkl. 2,50€ Plattform Gebühr'
+            extra: 'Leistungspakete, netto, monatlich, je Teilnehmer'
+            button: 'Jetzt kostenfrei testen'
         pakete:
             -
-                size: 'S'
+                size: S
                 preis: '10,89€'
                 benefit-one: 'inkl. Sachpreise bis zu 10€ (brutto)'
                 benefit-two: 'Äquivalent in STARS 1000'
             -
-                size: 'M'
+                size: M
                 preis: '19,30€'
                 benefit-one: 'inkl. Sachpreise bis zu 23€ (brutto)'
                 benefit-two: 'Äquivalent in STARS 2300'
             -
-                size: 'L'
+                size: L
                 preis: '27,70€'
                 benefit-one: 'inkl. Sachpreise bis zu 35€ (brutto)'
                 benefit-two: 'Äquivalent in STARS 3500'
             -
-                size: 'XL'
+                size: XL
                 preis: '36,11€'
                 benefit-one: 'inkl. Sachpreise bis zu 50€ (brutto)'
                 benefit-two: 'Äquivalent in STARS 5000'
-
         testimonials-header:
-            title: So punkten andere Unternehmen mit MySports Rewards
-            p: Diese Unternehmen nehmen bereits am MySports Rewards Corporate Programm teil, um die Resilienz ihrer Mitarbeiter zu fördern und ihre Arbeitgebermarke zu stärken.
+            title: 'So punkten andere Unternehmen mit MySports Rewards'
+            p: 'Diese Unternehmen nehmen bereits am MySports Rewards Corporate Programm teil, um die Resilienz ihrer Mitarbeiter zu fördern und ihre Arbeitgebermarke zu stärken.'
         testimonials:
             -
-                quote: Eine smarte App, die uns das Erreichen unserer Ziele vereinfacht – genau unser Geschmack! Mittlerweile macht das gesamte Team mit und wir heizen uns gegenseitig an. Nach mehreren Monaten ist klar&#58; Wir bewegen uns tatsächlich dauerhaft mehr.
+                quote: 'Eine smarte App, die uns das Erreichen unserer Ziele vereinfacht – genau unser Geschmack! Mittlerweile macht das gesamte Team mit und wir heizen uns gegenseitig an. Nach mehreren Monaten ist klar&#58; Wir bewegen uns tatsächlich dauerhaft mehr.'
             -
-                quote: Ich bin positiv überrascht, dass so viele Mitarbeiter*innen mit MySports Rewards zu regelmäßigem Sporttreiben motiviert werden. Es machen doppelt so viele Kolleg*innen mit, wie von mir erwartet, als ich mich für MySports Rewards entschieden habe.
+                quote: 'Ich bin positiv überrascht, dass so viele Mitarbeiter*innen mit MySports Rewards zu regelmäßigem Sporttreiben motiviert werden. Es machen doppelt so viele Kolleg*innen mit, wie von mir erwartet, als ich mich für MySports Rewards entschieden habe.'
             -
-                quote: MySports Rewards ist leichtgängig in den Alltag fast aller Mitarbeiter einzubinden. Es werden eigentlich alle Interessen angesprochen, keiner ist im Nachteil, junge und auch ältere Kolleg:innen können gleichermaßen ihre STARS durch sportliche Aktivität verdienen.
-
+                quote: 'MySports Rewards ist leichtgängig in den Alltag fast aller Mitarbeiter einzubinden. Es werden eigentlich alle Interessen angesprochen, keiner ist im Nachteil, junge und auch ältere Kolleg:innen können gleichermaßen ihre STARS durch sportliche Aktivität verdienen.'
         footer:
-            title: Dein Unternehmen möchte auch von MySports Rewards profitieren?
-            p: Lass dich jetzt beraten und buche einen unverbindlichen Termin.
-            button: Jetzt beraten lassen
-
+            title: 'Dein Unternehmen möchte auch von MySports Rewards profitieren?'
+            p: 'Lass dich jetzt beraten und buche einen unverbindlichen Termin.'
+            button: 'Jetzt beraten lassen'
