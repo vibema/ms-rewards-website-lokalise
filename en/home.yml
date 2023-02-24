@@ -7,17 +7,19 @@ en:
             button: 'Find out more'
         content:
             title: 'ACTIVITY THAT PAYS OFF FOR ALL'
-            user:
-                label: 'For you'
-                button: 'Here we go'
-            company:
-                label: 'For employers'
-                button: 'Motivate employees'
-            sponsor:
-                label: 'For sponsors'
-                button: 'Become a sponsor'
-            association:
-                label: ''
+            targetgroup:
+                -
+                    label: 'For you'
+                    button: 'Here we go'
+                -
+                    label: 'For employers'
+                    button: 'Motivate employees'
+                -
+                    label: 'For sponsors'
+                    button: 'Become a sponsor'
+                -
+                    label: ''
+            targetgroup3:
                 button: ''
         footer:
             title: 'GET ACTIVE NOW AND DOWNLOAD THE APP'
