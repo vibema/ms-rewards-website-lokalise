@@ -1,0 +1,40 @@
+en:
+    sponsor:
+        header:
+            label: 'MYSPORTS REWARDS'
+            title: 'YOUR SPONSORING PROGRAM FOR HEALTH PROMOTION'
+            p: 'Health promotion has never been easier: The MySports Rewards sponsorship program offers you many opportunities to contribute your brand in a publicity-effective and sustainable way. Whether it''s through your own challenges, attractive product and service offers in our bonus shop, or check-in at defined locations.'
+            button: 'Contact us now'
+        benefits-header:
+            title: 'HOW MYSPORTS REWARD MAKES YOU A GREAT SPONSOR'
+        benefits:
+            -
+                title: 'Promotional message with high reception efficiency'
+                p: 'MySports Rewards users regularly use our app to check their sports progress and rewards. So your promotional activities will be highly visible and lead to a high-quality contact.'
+            -
+                title: 'Targeted and effective advertising'
+                p: 'With our localizable reach, you''ll advertise to your target audience environment without waste coverage. Since MySports Rewards users regularly open the app, you can look forward to promotionally effective measures.'
+            -
+                title: 'Exclusive visibility'
+                p: 'To support the authenticity of your brand, we only offer the opportunity to work with one brand from the same region/industry at a time . That way, you don''t have to worry about your competition.'
+            -
+                title: 'Data for CSR communication'
+                p: 'You will receive accurate data on the evaluation of the challenge organized on your behalf as soon as it is completed, so that you can use it to carry out corporate social responsibility communication.'
+        program:
+            title: 'MYSPORTS REWARDS - ONE PROGRAM, COUNTLESS OPPORTUNITIES'
+            p: 'Our sponsorship examples show how you can use the MySports Rewards sponsorship program to bring your brand into the public eye in a sustainable way. Get a non-binding consultation right now to check out your individual goals and opportunities.'
+        examples:
+            -
+                title: 'Social engagement'
+                p: 'Do something for the lack of exercise in society. For example, start a charity run with us and reward customers with your individual vouchers.'
+            -
+                title: Sustainability
+                p: 'If your brand involves sustainability, it''s perfect to combine this theme with sports challenges. Participants collect Activity Points, and you convert them into sustainable actions, such as planting trees, supporting organic farming or bio-diversity.'
+            -
+                title: 'Local initiative'
+                p: 'Are you a local player and want to give something back to your community? Support targeted clubs and sports ventures in your neighborhood to find more active participants.'
+        cta:
+            title: 'WOULD YOU ALSO LIKE TO BECOME A MYSPORTS REWARDS SPONSOR UNDER YOUR BRAND?'
+            p: 'Get an individual consultation now and book a non-binding appointment.'
+            button: 'Contact us now'
+            link: 'https://calendly.com/sportalliance/mysports'
