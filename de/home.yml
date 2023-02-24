@@ -7,17 +7,19 @@ de:
             button: 'Mehr erfahren'
         content:
             title: 'AKTIVITÄT, DIE SICH FÜR ALLE AUSZAHLT'
-            user:
-                label: 'Für dich'
-                button: 'Los geht''s'
-            company:
-                label: 'Für Arbeitgeber'
-                button: 'Mitarbeiter motivieren'
-            sponsor:
-                label: 'Für Sponsoren'
-                button: 'Sponsor werden'
-            association:
-                label: ''
+            targetgroup:
+                -
+                    label: 'Für dich'
+                    button: 'Los geht''s'
+                -
+                    label: 'Für Arbeitgeber'
+                    button: 'Mitarbeiter motivieren'
+                -
+                    label: 'Für Sponsoren'
+                    button: 'Sponsor werden'
+                -
+                    label: ''
+            targetgroup3:
                 button: Vereine
         footer:
             title: 'JETZT AKTIV WERDEN UND APP DOWNLOADEN'

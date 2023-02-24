@@ -7,17 +7,19 @@ pl:
             button: 'Dowiedz się wiecej'
         content:
             title: 'AKTYWNOŚĆ, KTÓRA OPŁACA SIĘ WSZYSTKIM'
-            user:
-                label: 'Dla Ciebie'
-                button: 'Wchodzę w to'
-            company:
-                label: 'Dla pracodawców'
-                button: 'Zmotywuj pracowników'
-            sponsor:
-                label: 'Dla sponsorów'
-                button: 'Zostań sponsorem'
-            association:
-                label: ''
+            targetgroup:
+                -
+                    label: 'Dla Ciebie'
+                    button: 'Wchodzę w to'
+                -
+                    label: 'Dla pracodawców'
+                    button: 'Zmotywuj pracowników'
+                -
+                    label: 'Dla sponsorów'
+                    button: 'Zostań sponsorem'
+                -
+                    label: ''
+            targetgroup3:
                 button: ''
         footer:
             title: 'BĄDŹ AKTYWNY I POBIERZ APLIKACJĘ JUŻ TERAZ'
