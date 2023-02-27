@@ -1,0 +1,42 @@
+de:
+    association:
+        header:
+            label: 'MYSPORTS REWARDS'
+            title: 'WERDE ALS VEREIN TEIL DES ALLTAGS DEINER MITGLIEDER'
+            p: 'Der Weg für mehr Aktivität in eurem Verein war noch nie so einfach. Mit MySport Rewards erreichst du deine Mitglieder jeden Tag. Richte deine Sportstätten ein und die Mitglieder können dort einchecken. Zusätzlich zählt auch außerhalb jeder Schritt und jede Fahrt mit dem Fahrrad zum Tagesziel. Als Verein lobt ihr Challenges aus und motiviert damit zusätzlich. Die Mitglieder werden es lieben und laden andere Mitglieder in ihr Team und werben zusätzlich im Freundeskreis.'
+            button: 'Für Vereine kostenlos registrieren'
+            link: 'https://www.try.rewards.mysports.com/sport-association/step1'
+        benefits-header:
+            title: "MYSPORTS REWARDS IST FÜR VEREINE GANZ EINFACH"
+        benefits:
+            -
+                title: 'Einfache Registrierung'
+                p: 'Vier einfache Schritte zum MySports Rewards Programm für deinen Verein. Danach in der App eure Sportstätten einrichten und in kürze das individuelle Profil des Vereins gestalten.'
+            -
+                title: 'Mitglieder einladen'
+                p: 'Direkt deine Mitglieder einladen. Entweder über einen QR-Code direkt ins Programm einladen oder per E-Mail den Link verschicken. Zusätzlich kann jedes Mitglied andere Mitglieder selbst einladen.'
+            -
+                title: 'Mitglieder motivieren'
+                p: 'Die erste Challenge ist direkt aktiv! Alle Teilnehmer können sich bei der Erreichung der meisten “Activity Points” messen. Die Gewinner können individuell vom Verein belohnt werden. Zusätzlich sind zwei direkte Push-Nachrichten pro Monat an alle  Mitglieder nach Absprache.'
+            -
+                title: 'Familie & Freunde einladen'
+                p: 'Lasst eure Mitglieder Freunde und Familie einladen, um Spass und Sichtbarkeit zu steigern.'
+        program:
+            title: 'MYSPORTS REWARDS SPEZIAL - EINFACHE MITGLIEDERGEWINNUNG'
+            p: 'Zusätzlich unterstützen wir dabei eure Sichtbarkeit zu steigern und neue Mitglieder zu begeistern.'
+
+        examples:
+            -
+                title: 'Öffentliche Challenges'
+                p: 'Gestalte in Absprache mit uns eine Public Challenge in deiner Stadt bei der jeder mitmachen kann. Nutze die "Teilen-Funktion" um möglichst viele Menschen zu erreichen.'
+            -
+                title: '1.000 EUR Kampagne für 0 EUR'
+                p: 'Durch den DOSB wird die Mitgliedergewinnung für 4.000 Vereine mit 1.000 EUR gefördert. MySports Rewards hat dafür die perfekte Social Media Kampagne im Angebot.'
+            -
+                title: 'Werbemittel-Paket'
+                p: 'Hol dir vorgefertigte Werbemittel zum einfachen selbst ausdrucken und Versand. Nutze deine eigene Werbepower im und um deinen verein.'
+        cta:
+            title: 'DU MÖCHTEST MIT DEINEM VEREIN AKTIV WERDEN?'
+            p: 'Probiere jetzt unverbindlichen was MySports Rewards für deinen Verein tun kann.'
+            button: 'Für Vereine kostenlos registrieren'
+            link: 'https://www.try.rewards.mysports.com/sport-association/step1'
