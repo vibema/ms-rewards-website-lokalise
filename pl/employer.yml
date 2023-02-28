@@ -4,7 +4,7 @@ pl:
             label: 'MYSPORTS REWARDS'
             title: 'TWÓJ PROGRAM KORZYŚCI DLA WSZYSTKICH PRACOWNIKÓW'
             p: 'Czy chcesz poprawić za jednym razem odporność i ducha w swoim zespole? I wzmocnić swoją markę pracodawcy? MySports Rewards to program pełen korzyści oparty na aktywności fizycznej, który motywuje pracowników do bardziej sportowego trybu życia, promuje ich zdrowie i nagradza każdy aktywny dzień.'
-            button: ''
+            button: 'Przetestuj teraz'
             link: ''
             disrupter: 'Przetestuj bez ryzyka!'
         benefits-header:
@@ -30,28 +30,28 @@ pl:
             p: 'Ty decydujesz, co najlepiej pasuje Twojemu zespołowi. W zależności od wybranego pakietu, Twoi pracownicy mogą zdobywać więcej punktów premiowych (STARS) i szybciej wymieniać je na nagrody. Wszyscy zarządzają swoimi STARS w własnym portfelu aplikacji MySports Rewards.'
             small: 'Nagrody o wartości do 50 zł'
             extra: 'Pakiety usług, netto, miesięcznie, za uczestnika'
-            button: ''
+            button: 'Przetestuj teraz'
         pakete:
             -
                 size: S
                 preis: '49,99 zł'
-                benefit-one: ''
-                benefit-two: ''
+                benefit-one: 'Nagrody do wartości 50 zł (brutto)'
+                benefit-two: 'Równowartość w STARS 1.000'
             -
                 size: M
                 preis: '94,99 zł'
-                benefit-one: ''
-                benefit-two: ''
+                benefit-one: 'Nagrody o wartości do 100 zł (brutto)'
+                benefit-two: 'Równowartość w STARS 2.000'
             -
                 size: L
                 preis: '139,99 zł'
-                benefit-one: ''
-                benefit-two: ''
+                benefit-one: 'Nagrody o wartości do 150 zł (brutto)'
+                benefit-two: 'Równowartość w STARS 3.000'
             -
                 size: XL
                 preis: '184,99 zł'
-                benefit-one: ''
-                benefit-two: ''
+                benefit-one: 'Nagrody o wartości do 200 zł (brutto)'
+                benefit-two: 'Równowartość w STARS 4.000'
         testimonials-header:
             title: 'JAK INNE FIRMY DOCENIAJĄ MYSPORTS REWARDS'
             p: 'Firmy te już wykorzystują MySports Rewards do budowania odporności pracowników i wzmacniania swojej marki pracodawcy.'
