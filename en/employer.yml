@@ -4,7 +4,7 @@ en:
             label: 'MYSPORTS REWARDS'
             title: 'YOUR BENEFIT PROGRAM FOR ALL EMPLOYEES'
             p: 'Do you want to improve resilience and spirit in your team all at once? And enhance your employer brand? MySports Rewards is a activity-based program full of benefits that motivates employees to be fitter, promotes health and rewards every active day.'
-            button: ''
+            button: 'Test now for free'
             link: ''
             disrupter: 'Test without risk!'
         benefits-header:
@@ -30,28 +30,28 @@ en:
             p: 'You decide what suits your team best. Depending on the package you choose, your employees can earn more bonus points (STARS) and redeem them faster for rewards and vouchers. Everyone manages own STARS in the personal wallet of his/her MySports Rewards app.'
             small: 'incl. 2.50 € platform fee'
             extra: 'Service packages, net, monthly, per participant'
-            button: ''
+            button: 'Test now for free'
         pakete:
             -
                 size: S
                 preis: '10.89 €'
-                benefit-one: 'Material prizes up to 10 € (gross)'
-                benefit-two: ''
+                benefit-one: 'Rewards up to 10 € (gross)'
+                benefit-two: 'Equivalent in STARS 1000'
             -
                 size: M
                 preis: '19.30 €'
-                benefit-one: 'Material prizes up to 23 € (gross)'
-                benefit-two: ''
+                benefit-one: 'Rewards up to 23 € (gross)'
+                benefit-two: 'Equivalent in STARS 2300'
             -
                 size: L
                 preis: '27.70 €'
-                benefit-one: 'Material prizes up to 35 € (gross)'
-                benefit-two: ''
+                benefit-one: 'Rewads up to 35 € (gross)'
+                benefit-two: 'Equivalent in STARS 3500'
             -
                 size: XL
                 preis: 36.11€
-                benefit-one: ''
-                benefit-two: ''
+                benefit-one: 'Rewards up to 50 € (gross)'
+                benefit-two: 'Equivalent in STARS 5000'
         testimonials-header:
             title: 'HOW OTHER COMPANIES SCORE WITH MYSPORTS REWARDS'
             p: 'These companies already make use of the MySports Rewards to build employee resilience and strengthen their employer brand.'

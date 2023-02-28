@@ -1,0 +1,41 @@
+pl:
+    association:
+        header:
+            label: ''
+            title: ''
+            p: ''
+            button: ''
+            link: ''
+        benefits-header:
+            title: ''
+        benefits:
+            -
+                title: ''
+                p: ''
+            -
+                title: ''
+                p: ''
+            -
+                title: ''
+                p: ''
+            -
+                title: ''
+                p: ''
+        program:
+            title: ''
+            p: ''
+        examples:
+            -
+                title: ''
+                p: ''
+            -
+                title: ''
+                p: ''
+            -
+                title: ''
+                p: ''
+        cta:
+            title: ''
+            p: ''
+            button: ''
+            link: ''

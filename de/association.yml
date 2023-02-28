@@ -7,7 +7,7 @@ de:
             button: 'Für Vereine kostenlos registrieren'
             link: 'https://www.try.rewards.mysports.com/sport-association/step1'
         benefits-header:
-            title: "MYSPORTS REWARDS IST FÜR VEREINE GANZ EINFACH"
+            title: 'MYSPORTS REWARDS IST FÜR VEREINE GANZ EINFACH'
         benefits:
             -
                 title: 'Einfache Registrierung'
@@ -24,7 +24,6 @@ de:
         program:
             title: 'MYSPORTS REWARDS SPEZIAL - EINFACHE MITGLIEDERGEWINNUNG'
             p: 'Zusätzlich unterstützen wir dabei eure Sichtbarkeit zu steigern und neue Mitglieder zu begeistern.'
-
         examples:
             -
                 title: 'Öffentliche Challenges'
@@ -33,7 +32,7 @@ de:
                 title: '1.000 EUR Kampagne für 0 EUR'
                 p: 'Durch den DOSB wird die Mitgliedergewinnung für 4.000 Vereine mit 1.000 EUR gefördert. MySports Rewards hat dafür die perfekte Social Media Kampagne im Angebot.'
             -
-                title: 'Werbemittel-Paket'
+                title: Werbemittel-Paket
                 p: 'Hol dir vorgefertigte Werbemittel zum einfachen selbst ausdrucken und Versand. Nutze deine eigene Werbepower im und um deinen verein.'
         cta:
             title: 'DU MÖCHTEST MIT DEINEM VEREIN AKTIV WERDEN?'
