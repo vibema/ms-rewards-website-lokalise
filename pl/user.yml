@@ -3,17 +3,17 @@ pl:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'ZDOBYWAJ NAGRODY ZA KAŻDĄ AKTYWNOŚĆ'
-            p: 'MySports Rewards to apka motywująca do bycia w ruchu. MySports Rewards nagradza Cię za każdą aktywność sportową. Szybko i bezpośrednio. Niezależnie od tego, czy spacerujesz z psem, jeździsz rowerem do pracy, czy lubisz treningi w obiektach sportowych.'
+            p: 'MySports Rewards to apka motywująca do bycia w ruchu. MySports Rewards nagradza Cię za każdą aktywność fizyczną. Szybko i bezpośrednio. Niezależnie od tego, czy spacerujesz z psem, jeździsz rowerem do pracy, czy lubisz trenować w obiektach sportowych.'
         benefits-header:
             title: 'DLACZEGO MYSPORTS REWARDS CI SIĘ OPŁACI'
-            p: 'MySports Rewards każdego dnia zmotywuje Cię do bycia bardziej aktywnym i zdrowszym, przy okazji oferuje Ci wspaniałe korzyści.'
+            p: 'MySports Rewards każdego dnia zmotywuje Cię do bycia bardziej aktywnym i zdrowszym, przy okazji oferuje wspaniałe korzyści.'
         benefits:
             -
                 title: 'Zbieraj Activity Points'
-                p: 'Z każdą aktywnością zyskujesz cenne punkty aktywności. Czy to w pojedynkę, z przyjaciółmi, z kolegami lub z pracodawcą.'
+                p: 'Z każdą aktywnością zyskujesz cenne Activity Points. Czy to w pojedynkę, z przyjaciółmi, z zespołem firmowym lub pracodawcą.'
             -
                 title: 'Rejestruj wszystkie aktywności'
-                p: 'Regularnie chodzisz na spacery lub przejażdżki rowerowe? Lubisz jogę lub uczęszczasz do szkoły tańca? MySports Rewards wspiera każdy rodzaj aktywności sportowej i pomoże Ci pokonać wewnętrznego lenia.'
+                p: 'Regularnie chodzisz na spacery lub przejażdżki rowerowe? Lubisz jogę, a może uczęszczasz do szkoły tańca? MySports Rewards wspiera wiele rodzajów aktywności i pomaga każdego dnia przezwyciężyć Ci wewnętrznego lenia.'
             -
                 title: 'Zgarniaj nagrody'
                 p: 'Chcesz za swoją aktywność otrzymywać atrakcyjne nagrody? Przekonaj swego pracodawcę do MySports Rewards.'
@@ -21,9 +21,9 @@ pl:
             title: 'TWOJA APKA MYSPORTS&nbsp;REWARDS'
         app:
             -
-                p: 'Zestawienie aktywności znajdziesz zawsze na <strong>pulpicie</strong>. Dzięki temu zawsze szybko zorientujesz się w realizacji swoich dziennych i tygodniowych celów.'
+                p: 'Swoje aktywności znajdziesz zawsze na <strong>pulpicie</strong>. Dzięki temu szybko zorientujesz się jak idzie Ci realizacja dziennych, tygodniowych i miesięcznych celów.'
             -
-                p: 'W zakładce <strong>Osiągnięcia</strong> sprawdzisz zdobyte punkty aktywności, tygodniowy, miesięczny i ogólny bilans, a także liczbę dni, w których osiągnąłeś postawione cele.'
+                p: 'W zakładce <strong>Osiągnięcia</strong> sprawdzisz zdobyte Activity Points, tygodniowy, miesięczny i ogólny bilans, a także liczbę dni, w których osiągnąłeś swoje cele.'
             -
                 p: 'W <strong>Wyzwaniach</strong> możesz przejrzeć wszystkie wyzwania indywidualne i zespołowe, do udziału w których MySports Rewards App będzie Cię regularnie zapraszać.'
         examples:
@@ -35,10 +35,10 @@ pl:
                 p: 'Przekonaj pracodawcę i zdobywaj punkty premiowe na nagrody o wartości do 200 zł miesięcznie (4.000 STARS)* za realizację celów związanych z aktywnością fizyczną.'
             -
                 title: 'ŚCIGAJ SIĘ Z PRZYJACIÓŁMI'
-                p: 'Wybierz do 30 znajomych do aktywnego współzawodnictwa. Możecie porównywać na bieżąco swoją aktywność i w ten wzajemnie się motywować do większego ruchu.'
+                p: 'Wybierz 30 znajomych do aktywnego współzawodnictwa. Możecie porównywać na bieżąco swoją aktywność i wzajemnie się motywować do większego ruchu.'
         testimonials:
             -
-                quote: 'Fajna apka, której udaje się wyciągnąć mnie na zewnątrz, mimo złej pogody. Dzięki temu udaje mi się pokonać "ostatnią milę" po swoje nagrody!'
+                quote: 'Fajna apka, które udaje się wyciągnąć mnie na zewnątrz, mimo złej pogody. Dzięki temu mogę pokonać "ostatnią milę" po swoje nagrody!'
             -
                 quote: 'Aplikacja MySports Rewads motywuje, jest fajną rozrywką, wspiera zdrowie i daje dobre uczucie, że stale coś osiągamy.'
             -

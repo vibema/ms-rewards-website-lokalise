@@ -3,26 +3,26 @@ pl:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'TWÓJ PROGRAM PROMOCJI ZDROWIA'
-            p: 'Promocja zdrowia nigdy nie była łatwiejsza: Program sponsorski MySports Rewards oferuje wiele możliwości wzmocnienia Twojej marki w sposób skuteczny i trwały. Czy to poprzez wyzwania organizowane w Twoim imieniu, atrakcyjne oferty produktów i usług w naszym sklepie z nagrodami, czy też zainteresowanie lokalnych uczestników z określonych miejsc.'
+            p: 'Promocja zdrowia nigdy nie była łatwiejsza: Program sponsorski MySports Rewards oferuje wiele możliwości wzmocnienia Twojej marki w sposób skuteczny i trwały. Czy to poprzez wyzwania organizowane w Twoim imieniu, atrakcyjne oferty produktów i usług w naszym sklepie z nagrodami, czy też zdobycie uwagi lokalnych uczestników z określonych miejsc.'
             button: 'Skontaktuj się z nami'
         benefits-header:
             title: 'JAK STANIESZ SIĘ WSPANIAŁYM SPONSOREM DZIĘKI MYSPORTS REWARD'
         benefits:
             -
-                title: 'Komunikat promocyjny z wysoką skutecznością odbioru'
-                p: 'Użytkownicy MySports Rewards regularnie używają naszej aplikacji, by sprawdzać swoje sportowe postępy oraz nagrody. Twoje działania promocyjne będą więc dobrze widoczne i doprowadzą do wysokiej jakości kontaktów.'
+                title: 'Wysoka jakość kontaktu'
+                p: 'Użytkownicy MySports Rewards regularnie sprawdzają w naszej aplikacji swoje postępy sportowe oraz nagrody. Twoja inicjatywa będzie więc dobrze widoczna i spotka się z wysokim zainteresowaniem.'
             -
-                title: 'Ukierunkowana i skuteczna reklama'
-                p: 'Dzięki konfigurowanemu zasięgowi, wypromujesz się w środowisku swoich docelowych odbiorców. Ponieważ użytkownicy MySports Rewards regularnie korzystają z aplikacji, możesz liczyć na skuteczne promocyjnie działania.'
+                title: 'Ukierunkowana i skuteczna promocja'
+                p: 'Dzięki konfigurowanemu zasięgowi, zaistniejesz w środowisku swoich docelowych odbiorców. Ponieważ użytkownicy MySports Rewards regularnie korzystają z aplikacji, możesz liczyć na skuteczność swoich działań.'
             -
                 title: 'Dostęp na wyłączność'
                 p: 'Aby wspierać autentyczność Twojej marki, oferujemy możliwość współpracy tylko z jedną marką z tego samego regionu/branży w danym czasie. Dzięki temu nie musisz się martwić o konkurencję.'
             -
                 title: 'Dane w komunikacji CSR'
-                p: 'Dokładne dane do oceny zorganizowanego w Twoim imieniu wyzwania otrzymasz zaraz po jego zakończeniu, tak abyś mógł sprawnie wykorzystać je na polu komunikacji z zakresu społecznej odpowiedzialności biznesu.'
+                p: 'Dane statystyczne, pomocne w ocenie efektów zorganizowanego w Twoim imieniu wyzwania, otrzymasz zaraz po jego zakończeniu. Będziesz mógł np. wykorzystać je na polu komunikacji z zakresu społecznej odpowiedzialności biznesu.'
         program:
             title: 'MYSPORTS REWARDS - JEDEN PROGRAM, NIEZLICZONE MOŻLIWOŚCI'
-            p: 'Nasze przykłady sponsoringu pokazują, jak możesz wykorzystać program sponsorski MySports Rewards, aby w trwały sposób wprowadzić swoją markę do szerokiej świadomości. Już teraz skorzystaj z niezobowiązującej konsultacji i sprawdź jakie zyskasz możliwości.'
+            p: 'Poniższe przykłady pokazują, jak możesz wykorzystać program sponsorski MySports Rewards, aby w trwały sposób wprowadzić swoją markę do szerokiej świadomości. Już teraz skorzystaj z niezobowiązującej konsultacji i sprawdź jakie zyskasz możliwości.'
         examples:
             -
                 title: 'Społeczne zaangażowanie'
@@ -34,7 +34,7 @@ pl:
                 title: 'Lokalna inicjatywa'
                 p: 'Jesteś lokalnym graczem i chcesz dać coś od siebie swojej społeczności? Prowadź ukierunkowane wsparcie klubów i sportowych przedsięwzięć w sądziedztwie, aby pozyskiwały więcej aktywnych uczestników.'
         cta:
-            title: 'CZY RÓWNIEŻ CHCIAŁBYŚ ZOSTAĆ SPONSOREM Z MYSPORTS REWARDS?'
+            title: 'CZY TEŻ CHCESZ ZOSTAĆ SPONSOREM Z MYSPORTS REWARDS?'
             p: 'Już teraz skorzystaj z indywidualnej konsultacji i umów się z nami na niezobowiązują rozmowę.'
             button: 'Skontaktuj się z nami'
             link: 'https://calendly.com/dariusz-szafranski/zapoznanie-sie-z-mysports-rewards'
