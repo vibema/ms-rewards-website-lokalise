@@ -21,7 +21,7 @@ de:
             title: 'Deine<br>MySports Rewards App'
         app:
             -
-                p: 'Auf deinem <strong>Dashboard</strong> wird dir dein Aktivitätsstatus angezeigt. So behältst du jederzeit deine Tages- und Wochenziele im Blick.'
+                p: 'Auf deinem <strong>Dashboard</strong> wird dir dein Aktivitätsstatus angezeigt. So behältst du jederzeit deine Tages-, Wochen-, und Monatsziele im Blick.'
             -
                 p: 'Unter <strong>Erfolge</strong> findest du deine Activity Points, Wochen-, Monats- und Gesamtbilanz sowie deine Tages- und Check-in-basierten Ziele.'
             -
