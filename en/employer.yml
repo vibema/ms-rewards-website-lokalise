@@ -34,24 +34,28 @@ en:
         pakete:
             -
                 size: S
-                preis: '10.89 €'
-                benefit-one: 'Rewards up to 10 € (gross)'
-                benefit-two: 'Equivalent in STARS 1000'
+                preis: €12.61
+                benefit-one: 'plus €3.50 platform fee'
+                benefit-two: 'Includes Reward non-cash prizes up to €10 (gross)'
+                benefit-three: 'Equivalent in STARS 1000'
             -
                 size: M
-                preis: '19.30 €'
+                preis: €22.27
                 benefit-one: 'Rewards up to 23 € (gross)'
-                benefit-two: 'Equivalent in STARS 2300'
+                benefit-two: 'Includes Reward non-cash prizes up to €23 (gross)'
+                benefit-three: 'Equivalent in STARS 2300'
             -
                 size: L
-                preis: '27.70 €'
-                benefit-one: 'Rewads up to 35 € (gross)'
-                benefit-two: 'Equivalent in STARS 3500'
+                preis: €31.09
+                benefit-one: 'plus €3.50 platform fee'
+                benefit-two: 'includes reward prizes up to 35€ (gross)'
+                benefit-three: 'Equivalent in STARS 3500'
             -
                 size: XL
-                preis: 36.11€
-                benefit-one: 'Rewards up to 50 € (gross)'
-                benefit-two: 'Equivalent in STARS 5000'
+                preis: '42,02€'
+                benefit-one: 'plus 3.50€ platform fee'
+                benefit-two: 'Rewards up to 50 € (gross)'
+                benefit-three: 'Equivalent in STARS 5000'
         testimonials-header:
             title: 'HOW OTHER COMPANIES SCORE WITH MYSPORTS REWARDS'
             p: 'These companies already make use of the MySports Rewards to build employee resilience and strengthen their employer brand.'
