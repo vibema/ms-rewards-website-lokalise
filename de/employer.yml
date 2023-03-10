@@ -34,24 +34,28 @@ de:
         pakete:
             -
                 size: S
-                preis: '10,89€'
-                benefit-one: 'inkl. Sachpreise bis zu 10€ (brutto)'
-                benefit-two: 'Äquivalent in STARS 1000'
+                preis: '12,61€'
+                benefit-one: 'zzgl. 3,50€ Plattformgebühr'
+                benefit-two: 'beinhaltet Reward Sachpreise bis zu 10€ (brutto)'
+                benefit-three: 'Entspricht 1.000 STARS'
             -
                 size: M
-                preis: '19,30€'
+                preis: '22,27€'
                 benefit-one: 'inkl. Sachpreise bis zu 23€ (brutto)'
-                benefit-two: 'Äquivalent in STARS 2300'
+                benefit-two: 'beinhaltet Reward Sachpreise bis zu 23€ (brutto)'
+                benefit-three: 'Entspricht 2.300 STARS'
             -
                 size: L
-                preis: '27,70€'
-                benefit-one: 'inkl. Sachpreise bis zu 35€ (brutto)'
-                benefit-two: 'Äquivalent in STARS 3500'
+                preis: '31,09€'
+                benefit-one: 'zzgl. 3,50€ Plattformgebühr'
+                benefit-two: 'behinhaltet Reward Sachpreise bis zu 35€ (brutto)'
+                benefit-three: 'Entspricht 3.500 STARS'
             -
                 size: XL
-                preis: '36,11€'
-                benefit-one: 'inkl. Sachpreise bis zu 50€ (brutto)'
-                benefit-two: 'Äquivalent in STARS 5000'
+                preis: '42,02€'
+                benefit-one: 'zzgl. 3,50€ Plattformgebühr'
+                benefit-two: 'behinhaltet Reward Sachpreise bis zu 50€ (brutto)'
+                benefit-three: 'Entspricht 5.000 STARS'
         testimonials-header:
             title: 'So punkten andere Unternehmen mit MySports Rewards'
             p: 'Diese Unternehmen nehmen bereits am MySports Rewards Corporate Programm teil, um die Resilienz ihrer Mitarbeiter zu fördern und ihre Arbeitgebermarke zu stärken.'
