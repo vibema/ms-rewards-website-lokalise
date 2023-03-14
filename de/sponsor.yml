@@ -1,40 +1,40 @@
 de:
     sponsor:
         header:
-            label: 'MYSPORTS REWARDS'
-            title: 'Dein Sponsoring-Programm zur Gesundheits&shy;förderung'
-            p: 'Der Weg zur Gesundheitsförderung war nie einfacher&#58; Das MySports Rewards Sponsoring-Programm bietet dir viele Möglichkeiten, wie du deine Marke öffentlichkeitswirksam und nachhaltig einbringen kannst. Ob über eigene Challenges, attraktive Produkt- und Service-Angebote in unserem Shop oder über den Check-in in entsprechenden Locations.'
-            button: 'Jetzt Kontakt aufnehmen'
+            label: 'MYSPORTS REWARDS CHALLENGES'
+            title: 'Öffentliche Challenges sind das Erfolgsrezepte zur Aktivierung der Mitglieder'
+            p: 'Marken, Vereine oder auch Firmen können schnell und einfach öffentliche Challenges bei MySports Rewards erstellen. Dafür reichen schon kleine Preise wie Trikots oder ein Meet&Greet mit den Athleten.'
+            button: 'Jetzt Challenge einreichen'
         benefits-header:
-            title: 'Wie dich MySports Rewards als Sponsor gro<span class=''lowercase''>ß</span> rausbringt'
+            title: 'So einfach und klar ist der Aufbau einer öffentlichen MySports Rewards Challenge'
         benefits:
             -
-                title: 'Werbebotschaft mit hoher Kontaktqualität'
-                p: 'Die MySports Rewards Nutzer halten sich regelmäßig in unserer App auf, um ihre Fortschritte und Belohnungen zu verfolgen. So wird deine Maßnahme sichtbar und führt zu einer hohen Kontaktqualität.'
+                title: 'Öffentliche Challenge'
+                p: 'Challenges die mit Gewinnen ausgestattet sind motivieren und belohnen die Nutzer von MySports Rewards. Daher ist es im Sinne aller Teilnehmer und Veranstalter, diese öffentlich zu machen.'
             -
-                title: 'Zielgenau und werbewirksam'
-                p: 'Durch unsere lokalisierbare Reichweite wirbst du ohne Streuverluste in deinem Zielgruppen-Umfeld. Da die MySports Rewards Nutzer regelmäßig in der App ihre Fortschritte und Belohnungen verfolgen, kannst du dich auf werbewirksame Maßnahmen freuen.'
+                title: 'Details und Preise'
+                p: 'Bei den Preisen können es schon Kleinigkeiten wie Trikots oder ein Paar Laufschuhe sein. Wir empfehlen den Hauptgewinn - vielleicht etwas, was man für Geld nicht kaufen kann - unter allen Teilnehmern zu verlosen. Das motivert am Ende alle.'
             -
-                title: 'Exklusive Sichtbarkeit'
-                p: 'Um die Authentizität deiner Marke zu unterstützen, bieten wir immer nur einer Marke aus derselben Region/Branche die Möglichkeit der Zusammenarbeit. So brauchst du dir um deine Konkurrenz keine Gedanken machen.'''
+                title: Veranstalterprofil
+                p: 'Der Veranstalter - sei es eine Firma oder ein Verein - kann sich über eine eigene Seite präsentieren. Sollte der Veranstalter sogar ein Programm bei MySports Rewards haben, kann diesem von dort aus direkt beigetreten werden.'
             -
-                title: 'Daten für die CSR-Kommunikation'
-                p: 'Die genauen Auswertungsdaten deiner Challenge werden dir nach Abschluss für deine Corporate Social Responsibility Kommunikation zur Verfügung gestellt.'
+                title: Sponsorenprofil
+                p: 'Auch Sponsoren können sich natürlich präsentieren und sogar ein Programm zur dauerhaften Bindung an die Mitglieder anbeiten. Es kann übrigens mehrere Sponsoren geben. Jeder bekommt eine eigene Seite.'
         program:
-            title: 'MySports Rewards – ein Programm, unzählige Möglichkeiten'
-            p: 'Wie du deine Marke mit dem MySports Rewards Sponsoring-Programm öffentlichkeitswirksam und nachhaltig einbringen kannst, zeigen dir unsere Sponsoring-Beispiele. Lass dich gleich unverbindlich beraten, um deine individuellen Ziele und Chancen zu prüfen.'
+            title: 'Erfolgsrezept einer erfolgreichen Challenge'
+            p: 'Was benötigt man für eine erfolgreiche Challenge? Zunächst sind Preise wichtig, diese müssen nicht teuer sein, sondern am besten ist etwas besonderes.'
         examples:
             -
-                title: 'Soziales Engagement'
-                p: 'Tu etwas für den Bewegungsmangel in der Gesellschaft. Starte mit uns z.B. einen Spendenlauf, wir tracken alle Aktivitäten und belohnen die Kunden mit deinen individuellen Gutscheinen.'
+                title: Belohnungen
+                p: 'Besser viele keine Belohnung, als eine Große. So werden mehr Teilnehmer belohnt.'
             -
-                title: Nachhaltigkeit
-                p: 'Deine Marke steht für Nachhaltigkeit, dann kannst du das Thema mit einer Challenge verbinden. Die Teilnehmer sammeln Activity Points und du wandelst diese in Nachhaltige Aktionen wie z.B. einen Baum Pflanzen um.'
+                title: 'Idee / Konzept'
+                p: 'Was macht die Challenge besonders, was motiviert und belohnt die Teilnehmer?'
             -
-                title: 'Lokales Engagement'
-                p: 'Du bist ein Local Player und willst deiner Community etwas zurückgeben? Fördere gezielt Vereine und Aktionen an deinem Standort damit diese mehr aktive Mitglieder finden.'
+                title: 'Nutzer aktivieren'
+                p: 'Sobald die Challenge eingerichtet ist, aktivieren wir die Nutzer. Veranstalter und Sponsoren bekommen einen Link, um das Gleiche zu tun!'
         cta:
             title: 'Du möchtest mit deiner Marke auch Sponsor von MySports Rewards werden?'
             p: 'Lass dich jetzt individuell beraten und buche einen unverbindlichen Termin.'
             button: 'Jetzt Kontakt aufnehmen'
-            link: 'https://calendly.com/sportalliance/mysports'
+            link: 'mailto:move@mysports-rewards.com?subject=MySports Rewards Challenge anfragen&body=Hallo,%0D%0A%0D%0AIch%20möchte%20eine%20öffentliche%20challenge%20anfragen:%0D%0A%0D%0AName:%20%0D%0ABeschreibung:%20%0D%0AArt%20der%20Aktivitäten:%0D%0APreise:%0D%0AAnzahl%20Gewinner:%0D%0ADatum:%0D%0A%0D%0AViele%20Grüße,'
