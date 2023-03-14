@@ -15,17 +15,17 @@ de:
                 title: 'Details und Preise'
                 p: 'Bei den Preisen können es schon Kleinigkeiten wie Trikots oder ein Paar Laufschuhe sein. Wir empfehlen den Hauptgewinn - vielleicht etwas, was man für Geld nicht kaufen kann - unter allen Teilnehmern zu verlosen. Das motivert am Ende alle.'
             -
-                title: 'Veranstalterprofil'
+                title: Veranstalterprofil
                 p: 'Der Veranstalter - sei es eine Firma oder ein Verein - kann sich über eine eigene Seite präsentieren. Sollte der Veranstalter sogar ein Programm bei MySports Rewards haben, kann diesem von dort aus direkt beigetreten werden.'
             -
-                title: 'Sponsorenprofil'
+                title: Sponsorenprofil
                 p: 'Auch Sponsoren können sich natürlich präsentieren und sogar ein Programm zur dauerhaften Bindung an die Mitglieder anbeiten. Es kann übrigens mehrere Sponsoren geben. Jeder bekommt eine eigene Seite.'
         program:
             title: 'Erfolgsrezept einer erfolgreichen Challenge'
             p: 'Was benötigt man für eine erfolgreiche Challenge? Zunächst sind Preise wichtig, diese müssen nicht teuer sein, sondern am besten ist etwas besonderes.'
         examples:
             -
-                title: 'Belohnungen'
+                title: Belohnungen
                 p: 'Besser viele keine Belohnung, als eine Große. So werden mehr Teilnehmer belohnt.'
             -
                 title: 'Idee / Konzept'
@@ -34,7 +34,7 @@ de:
                 title: 'Nutzer aktivieren'
                 p: 'Sobald die Challenge eingerichtet ist, aktivieren wir die Nutzer. Veranstalter und Sponsoren bekommen einen Link, um das Gleiche zu tun!'
         cta:
-            title: 'Du hast direkt eine Idee für eine Challenge?'
-            p: 'Schnell und einfach einreichen per E-Mail und zurückgerufen werden.'
-            button: 'Jetzt Challenge einreichen'
-            link: 'mailto:move@mysports-rewards.com?subject=MySports Rewards Challenge request&body=Hallo,%0D%0A%0D%0AI%20would%20like%20to%20request%20a%20new%20public%20challenge:%0D%0A%0D%0AName:%20%0D%0ADescription:%20%0D%0AType%20of%20activity:%0D%0APrice:%0D%0AAmount%20of%20winners:%0D%0ADate:%0D%0A%0D%0ABest,'
+            title: 'Du möchtest mit deiner Marke auch Sponsor von MySports Rewards werden?'
+            p: 'Lass dich jetzt individuell beraten und buche einen unverbindlichen Termin.'
+            button: 'Jetzt Kontakt aufnehmen'
+            link: 'mailto:move@mysports-rewards.com?subject=MySports Rewards Challenge anfragen&body=Hallo,%0D%0A%0D%0AIch%20möchte%20eine%20öffentliche%20challenge%20anfragen:%0D%0A%0D%0AName:%20%0D%0ABeschreibung:%20%0D%0AArt%20der%20Aktivitäten:%0D%0APreise:%0D%0AAnzahl%20Gewinner:%0D%0ADatum:%0D%0A%0D%0AViele%20Grüße,'
