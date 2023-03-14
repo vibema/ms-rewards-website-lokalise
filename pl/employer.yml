@@ -37,13 +37,13 @@ pl:
                 preis: ''
                 benefit-one: ''
                 benefit-two: ''
-                benefit-three: ''
+                benefit-three: 'Równowartość w STARS 1.000'
             -
                 size: M
                 preis: ''
                 benefit-one: ''
                 benefit-two: ''
-                benefit-three: ''
+                benefit-three: 'Równowartość w STARS 2.300'
             -
                 size: L
                 preis: ''
@@ -55,7 +55,7 @@ pl:
                 preis: ''
                 benefit-one: ''
                 benefit-two: ''
-                benefit-three: 'Równowartość w STARS 4.000'
+                benefit-three: 'Równowartość w STARS 5.000'
         testimonials-header:
             title: 'JAK INNE FIRMY DOCENIAJĄ MYSPORTS REWARDS'
             p: 'Firmy te korzystają już z MySports Rewards, by wzmacniać kondycję zdrowotną pracowników i budować swoją markę pracodawcy.'
