@@ -3,7 +3,7 @@ pl:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'TWÓJ PROGRAM KORZYŚCI DLA WSZYSTKICH PRACOWNIKÓW'
-            p: 'Czy chcesz wzmocnić za jednym razem zdrowie i ducha w swoim zespole? Oraz zbudować dobrą markę pracodawcy? MySports Rewards to program pełen korzyści oparty na aktywności fizycznej, który motywuje pracowników do zespołowego działania, promuje zdrowy tryb życia i nagradza każdy aktywny dzień.'
+            p: 'Jak równocześnie zbudować silną markę pracodawcy, wzmocnić ducha zespołowości i zdrowie pracowników? MySports Rewards to program pełen korzyści oparty na aktywności fizycznej, który motywuje pracowników do zespołowego działania, promuje zdrowy tryb życia i nagradza każdy aktywny dzień.'
             button: 'Dowiedz się więcej'
             link: 'https://calendly.com/dariusz-szafranski/zapoznanie-sie-z-mysports-rewards'
             disrupter: 'Przetestuj bez ryzyka!'
@@ -18,13 +18,13 @@ pl:
                 p: 'MySports Rewards motywuje wszystkich, nie tylko atletów, wśród Twoich pracowników. Każdy ruch jest nagradzany - niezależnie od tego, czy jest to spacer z psem, pływanie, jazda na rowerze, czy trening na siłowni.'
             -
                 title: 'Promuje zaangażowanie i ducha zespołu'
-                p: 'W wielu firmach poziom uczestnictwa wsród pracowników sięga 80%. Zostań jedną z nich. Dzięki wysokiemu zaangażowaniu wzmocnisz ducha zespołu, lojalność pracowników oraz swoją markę pracodawcy.'
+                p: 'W wielu firmach poziom uczestnictwa wsród pracowników sięga 80%. Zostań jedną z nich. Dzięki wysokiemu zaangażowaniu wzmocnisz poczucie zespołowości, lojalność pracowników oraz swoją markę pracodawcy.'
             -
                 title: 'Atrakcyjne nagrody'
-                p: 'Każdy pracownik uczestniczący w programie MySports Rewards nagradzany jest punktami aktywności (Activity Points) oraz punktami premiowymi (STARS) o wartości do 200 zł miesięcznie, które może wymieniać na atrakcyjne bony i nagrody.'
+                p: 'Każdy pracownik uczestniczący w programie MySports Rewards nagradzany jest punktami aktywności (Activity Points) oraz punktami premiowymi (STARS) o wartości do 200 zł miesięcznie, które może wymieniać na atrakcyjne nagrody.'
         portal:
             title: 'WSZYSTKO W JEDNYM MIEJSCU&#58; TWÓJ PORTAL PRACODAWCY'
-            p: 'W portalu pracodawcy sprawdzisz jak aktywna jest grupa Twoich pracowników. Statystyki trendów dają Ci wgląd w zaangażowanie całego zespołu. Oczywiście przy pełnej ochronie  prywatności każdego uczestnika.'
+            p: 'W portalu pracodawcy sprawdzisz, jak aktywna jest grupa Twoich pracowników. Przekrojowe statystyki dają Ci wgląd w zaangażowanie całego zespołu. Oczywiście z pełnym poszanowaniem  prywatności każdego uczestnika.'
         preise:
             hl: 'WYBIERZ JEDEN Z CZTERECH ATRAKCYJNYCH PAKIETÓW'
             p: 'Ty decydujesz, co najlepiej pasuje Twojemu zespołowi. W zależności od wybranego pakietu, Twoi pracownicy mogą zdobywać więcej punktów premiowych (STARS) i szybciej wymieniać je na nagrody. Każdy z nich dysponuje własnym portfelem STARS w aplikacji MySports Rewards.'
@@ -41,7 +41,7 @@ pl:
             -
                 size: M
                 preis: '88 zł'
-                benefit-one: 'Nagrody do 100 zł (brutto)'
+                benefit-one: 'plus 16 zł opłaty za platformę'
                 benefit-two: 'Nagrody do 100 zł (brutto)'
                 benefit-three: 'Równowartość w STARS 2.000'
             -
@@ -58,7 +58,7 @@ pl:
                 benefit-three: 'Równowartość w STARS 4.000'
         testimonials-header:
             title: 'JAK INNE FIRMY DOCENIAJĄ MYSPORTS REWARDS'
-            p: 'Firmy te korzystają już z MySports Rewards, by wzmacniać kondycję zdrowotną pracowników i budować swoją markę pracodawcy.'
+            p: 'Firmy, które korzystają już z MySports Rewards, by wzmacniać kondycję zdrowotną pracowników i budować swoją markę pracodawcy.'
         testimonials:
             -
                 quote: 'Sprytna aplikacja, która ułatwia nam osiąganie celów - dokładnie w naszym guście! W międzyczasie cały zespół przystąpił do programu i wzajemnie się dopingujemy. Po kilku miesiącach widać wyraźnie: faktycznie jesteśmy bardziej aktywni.'
