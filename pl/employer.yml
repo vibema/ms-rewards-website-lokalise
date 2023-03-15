@@ -34,28 +34,28 @@ pl:
         pakete:
             -
                 size: S
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: 'Równowartość w STARS 1.500'
+                preis: '39 zł'
+                benefit-one: 'plus 16 zł opłaty za platformę'
+                benefit-two: 'Nagrody do 50 zł (brutto)'
+                benefit-three: 'Równowartość w STARS 1.000'
             -
                 size: M
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: 'Równowartość w STARS 2.500'
+                preis: '88 zł'
+                benefit-one: 'Nagrody do 100 zł (brutto)'
+                benefit-two: 'Nagrody do 100 zł (brutto)'
+                benefit-three: 'Równowartość w STARS 2.000'
             -
                 size: L
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
+                preis: '132 zł'
+                benefit-one: 'plus 16 zł opłaty za platformę'
+                benefit-two: 'Nagrody do 150 zł (brutto)'
                 benefit-three: 'Równowartość w STARS 3.000'
             -
                 size: XL
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: 'Równowartość w STARS 5.000'
+                preis: '169 zł'
+                benefit-one: 'plus 16 zł opłaty za platformę'
+                benefit-two: 'Nagrody do 200 zł (brutto)'
+                benefit-three: 'Równowartość w STARS 4.000'
         testimonials-header:
             title: 'JAK INNE FIRMY DOCENIAJĄ MYSPORTS REWARDS'
             p: 'Firmy te korzystają już z MySports Rewards, by wzmacniać kondycję zdrowotną pracowników i budować swoją markę pracodawcy.'
