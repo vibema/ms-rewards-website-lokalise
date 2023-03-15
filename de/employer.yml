@@ -37,13 +37,13 @@ de:
                 preis: '12,61€'
                 benefit-one: 'zzgl. 3,50€ Plattformgebühr'
                 benefit-two: 'beinhaltet Reward Sachpreise bis zu 10€ (brutto)'
-                benefit-three: 'Entspricht 1.000 STARS'
+                benefit-three: 'Entspricht 1.500 STARS'
             -
                 size: M
                 preis: '22,27€'
-                benefit-one: 'inkl. Sachpreise bis zu 23€ (brutto)'
-                benefit-two: 'beinhaltet Reward Sachpreise bis zu 23€ (brutto)'
-                benefit-three: 'Entspricht 2.300 STARS'
+                benefit-one: 'inkl. Sachpreise bis zu 25€ (brutto)'
+                benefit-two: 'beinhaltet Reward Sachpreise bis zu 25€ (brutto)'
+                benefit-three: 'Entspricht 2.500 STARS'
             -
                 size: L
                 preis: '31,09€'
