@@ -73,8 +73,11 @@ de:
         onboarding:
             company-name: Firmenname
             company-email: E-Mail-Adresse
-            sportassociation-name: Vereinsname
             company-success-title: 'Registrierung erfolgreich!'
             company-success-copy: 'Vielen Dank, dass du das MySports Rewards Benefit Programm gebucht hast. Du kannst das komplette Programm inklusive Sponsoring 30 Tage lang ohne Risiko testen. Du erhältst sofort per E-Mail Zugang zum Unternehmensportal.'
+    association:
+        onboarding:
+            sportassociation-name: Vereinsname
             sportassociation-success-copy: 'Vielen Dank, dass du das MySports Rewards Benefit Programm gebucht hast. Du kannst sofort für deinen Verein loslegen und die Mitglieder einladen. Du erhältst dazu per E-Mail einen Zugang zum Unternehmensportal.'
             sportassociation-success-title: 'Registrierung erfolgreich!'
+            sportassociation-email: E-Mail-Adresse
