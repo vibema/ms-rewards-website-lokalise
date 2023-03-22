@@ -3,7 +3,7 @@ pl:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'TWÓJ PROGRAM KORZYŚCI DLA WSZYSTKICH PRACOWNIKÓW'
-            p: 'Jak równocześnie zbudować silną markę pracodawcy, wzmocnić ducha zespołowości i zdrowie pracowników? MySports Rewards to program pełen korzyści oparty na aktywności fizycznej, który motywuje pracowników do zespołowego działania, promuje zdrowy tryb życia i nagradza każdy aktywny dzień.'
+            p: 'Jak równocześnie zbudować silną markę pracodawcy, wzmocnić ducha zespołu i zdrowie pracowników? MySports Rewards to program pełen korzyści oparty na aktywności fizycznej, który motywuje pracowników do zespołowego działania, promuje zdrowy tryb życia i nagradza każdy aktywny dzień.'
             button: 'Dowiedz się więcej'
             link: 'https://calendly.com/dariusz-szafranski/zapoznanie-sie-z-mysports-rewards'
             disrupter: 'Przetestuj bez ryzyka!'
@@ -70,3 +70,7 @@ pl:
             title: 'TWOJA FIRMA RÓWNIEŻ CHCIAŁABY SKORZYSTAĆ Z MYSPORTS REWARDS'
             p: 'Dowiedz się więcej i zarezerwuj już teraz niezobowiązującą rozmowę.'
             button: 'Skontaktuj się z nami'
+        onboarding:
+            company-name: 'Nazwa firmy'
+            company-email: 'Adres e-mail'
+            sportassociation-name: 'Nazwa klubu'
