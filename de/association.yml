@@ -39,3 +39,8 @@ de:
             p: 'Probiere jetzt unverbindlichen was MySports Rewards für deinen Verein tun kann.'
             button: 'Für Vereine kostenlos registrieren'
             link: 'https://www.try.rewards.mysports.com/sport-association/step1'
+        onboarding:
+            sportassociation-name: Vereinsname
+            sportassociation-success-copy: 'Vielen Dank, dass du das MySports Rewards Benefit Programm gebucht hast. Du kannst sofort für deinen Verein loslegen und die Mitglieder einladen. Du erhältst dazu per E-Mail einen Zugang zum Unternehmensportal.'
+            sportassociation-success-title: 'Registrierung erfolgreich!'
+            sportassociation-email: E-Mail-Adresse
