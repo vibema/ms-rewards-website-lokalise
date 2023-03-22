@@ -39,3 +39,8 @@ pl:
             p: ''
             button: ''
             link: ''
+        onboarding:
+            sportassociation-name: 'Nazwa klubu'
+            sportassociation-success-copy: 'Dziękujemy za rezerwację programu korzyści MySports Rewards. Możesz natychmiast rozpocząć stowarzyszenie i zaprosić członków. Dostęp do portalu firmowego otrzymasz drogą mailową.'
+            sportassociation-success-title: 'Pomyślnie zarejestrowano!'
+            sportassociation-email: 'Adres e-mail'
