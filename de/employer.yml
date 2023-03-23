@@ -75,3 +75,4 @@ de:
             company-email: E-Mail-Adresse
             company-success-title: 'Registrierung erfolgreich!'
             company-success-copy: 'Vielen Dank, dass du das MySports Rewards Benefit Programm gebucht hast. Du kannst das komplette Programm inklusive Sponsoring 30 Tage lang ohne Risiko testen. Du erhältst sofort per E-Mail Zugang zum Unternehmensportal.'
+            unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
