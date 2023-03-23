@@ -44,9 +44,7 @@ en:
             sportassociation-success-copy: 'Thank you for booking the MySports Rewards Benefit program. You can start immediately for your sport association and invite the members. You will receive access to the company portal by e-mail.'
             sportassociation-success-title: 'Registration successful!'
             sportassociation-email: 'E-mail address'
-            sportassociation-registration-error: 'Unknown error!'
-            sportassociation-error-copy: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
+            unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
     company:
         onboarding:
-            company-error-copy: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
-            company-registration-error_copy: 'Unknown error!'
+            unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
