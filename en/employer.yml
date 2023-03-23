@@ -74,5 +74,5 @@ en:
             company-name: 'Company name'
             company-email: 'E-mail address'
             company-success-title: 'Registration successful!'
-            company-success-copy: 'Thank you for booking the MySports Rewards Benefit Program. You can try the full program including sponsorship for 30 days with no risk. You will immediately receive access to the Corporate Portal by email.'
+            company-success-copy: 'Thank you for trying the MySports Rewards Benefit program. You can test the entire program including sponsoring for 30 days without any risk. You will immediately receive access to the company portal via email.'
             unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
