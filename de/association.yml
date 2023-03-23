@@ -45,6 +45,3 @@ de:
             sportassociation-success-title: 'Registrierung erfolgreich!'
             sportassociation-email: E-Mail-Adresse
             unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
-    company:
-        onboarding:
-            unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'

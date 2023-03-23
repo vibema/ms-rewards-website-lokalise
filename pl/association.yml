@@ -45,6 +45,3 @@ pl:
             sportassociation-success-title: 'Pomyślnie zarejestrowano!'
             sportassociation-email: 'Adres e-mail'
             unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
-    company:
-        onboarding:
-            unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
