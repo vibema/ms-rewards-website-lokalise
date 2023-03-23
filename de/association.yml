@@ -44,3 +44,9 @@ de:
             sportassociation-success-copy: 'Vielen Dank, dass du das MySports Rewards Benefit Programm gebucht hast. Du kannst sofort für deinen Verein loslegen und die Mitglieder einladen. Du erhältst dazu per E-Mail einen Zugang zum Unternehmensportal.'
             sportassociation-success-title: 'Registrierung erfolgreich!'
             sportassociation-email: E-Mail-Adresse
+            sportassociation-registration-error: 'Unbekannter Fehler!'
+            sportassociation-error-copy: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
+    company:
+        onboarding:
+            company-error-copy: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
+            company-registration-error_copy: 'Unbekannter Fehler!'
