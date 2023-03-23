@@ -44,3 +44,9 @@ pl:
             sportassociation-success-copy: 'Dziękujemy za rezerwację programu korzyści MySports Rewards. Możesz natychmiast rozpocząć stowarzyszenie i zaprosić członków. Dostęp do portalu firmowego otrzymasz drogą mailową.'
             sportassociation-success-title: 'Pomyślnie zarejestrowano!'
             sportassociation-email: 'Adres e-mail'
+            sportassociation-registration-error: 'Nieznany błąd!'
+            sportassociation-error-copy: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
+    company:
+        onboarding:
+            company-error-copy: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
+            company-registration-error_copy: 'Nieznany błąd!'
