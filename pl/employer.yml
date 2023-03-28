@@ -4,7 +4,7 @@ pl:
             label: 'MYSPORTS REWARDS'
             title: 'TWÓJ PROGRAM KORZYŚCI DLA WSZYSTKICH PRACOWNIKÓW'
             p: 'Jak równocześnie zbudować silną markę pracodawcy, wzmocnić ducha zespołu i zdrowie pracowników? MySports Rewards to program pełen korzyści oparty na aktywności fizycznej, który motywuje pracowników do zespołowego działania, promuje zdrowy tryb życia i nagradza każdy aktywny dzień.'
-            button: 'Dowiedz się więcej'
+            button: 'Przetestuj bezpłatnie'
             link: 'https://calendly.com/dariusz-szafranski/msrewards'
             disrupter: 'Przetestuj bez ryzyka!'
         benefits-header:
@@ -72,7 +72,7 @@ pl:
             button: 'Skontaktuj się z nami'
         onboarding:
             company-name: 'Nazwa firmy'
-            company-email: 'Adres e-mail'
-            company-success-title: 'Pomyślnie zarejestrowano!'
-            company-success-copy: 'Dziękujemy za wypróbowanie programu korzyści MySports Rewards. Możesz przetestować cały program łącznie ze sponsoringiem przez 30 dni bez żadnego ryzyka. Natychmiast otrzymasz dostęp do portalu firmowego za pośrednictwem poczty elektronicznej.'
+            company-email: 'Firmowy adres e-mail'
+            company-success-title: 'Wszystko gotowe!'
+            company-success-copy: 'Dziękujemy za dorbą decyzję. Możesz testować pełną funkcjonalość MySports Rewards przez 30 dni bez żadnego ryzyka. Zaraz otrzymasz dostęp do portalu administracyjnego za pośrednictwem poczty elektronicznej.'
             unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
