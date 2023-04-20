@@ -2,8 +2,8 @@ de:
     employer:
         header:
             label: 'MYSPORTS REWARDS'
-            title: 'Dein Benefit Programm für alle Mitarbeiter'
-            p: 'Du möchtest die Resilienz und den Teamspirit in deinem Unternehmen verbessern? Und deine Arbeitgebermarke stärken? MySports Rewards ist das einzige Benefit-Programm, das mit 80% Aktivierungsrate täglich zu mehr Bewegung motiviert, die Gesundheit fördert und jeden Tag automatisch belohnt.'
+            title: 'DEIN BENEFIT PROGRAMM ZUR FITNESS FÜR MITARBEITER'
+            p: 'Du möchtest die Resilienz und den Teamspirit in deinem Unternehmen verbessern? und deine Arbeitgebermarke stärken? MySports Rewards ist das einzige Benefit-Programm, das mit 80% Aktivierungsrate täglich zu mehr Bewegung motiviert, die Fitness für Mitarbeiter verbessert, und jeden Tag automatisch belohnt.'
             button: 'Jetzt kostenfrei testen'
             link: '#top-form'
             disrupter: 'Mit Geld-zurück-Garantie ohne Risiko testen!'
@@ -12,7 +12,7 @@ de:
         benefits:
             -
                 title: '100% Benefits, 0% Aufwand'
-                p: 'Als Arbeitgeber hast du „0“ Aufwand. MySports Rewards legt die sportlichen Ziele fest, übernimmt für dich die Kommunikation und die Verwaltung sowie Auszahlung der Prämien an deine Mitarbeiter.'
+                p: 'Als Arbeitgeber hast du „0“ Aufwand. MySports Rewards legt die sportlichen Ziele fest, übernimmt für dich die Kommunikation und die Verwaltung sowie Auszahlung der Prämien Benefits an deine Mitarbeiter.'
             -
                 title: 'Motiviert das ganze Team'
                 p: 'MySports Rewards motiviert alle. Nicht nur die Sportskanonen unter deinen Mitarbeitern. Jede Bewegung wird belohnt – ob beim Spazierengehen mit dem Hund, beim Schwimmen, Radfahren oder beim Besuch im Fitnessstudio.'
@@ -21,13 +21,13 @@ de:
                 p: 'Viele Unternehmen erreichen eine Mitarbeiterbeteiligung von bis zu 80 %. Werde eins davon. Dank des hohen Engagements stärkst du nicht nur den Teamspirit, sondern auch die Mitarbeiterbindung sowie deine Arbeitgebermarke.'
             -
                 title: 'Attraktive Belohnungen'
-                p: 'Jeder Mitarbeiter, der am MySports Rewards Programm teilnimmt und seine Bewegung trackt, wird mit Activity Points und Stars belohnt. Stars haben einen Wert von bis zu 50 Euro/Monat und können in attraktive Gutscheine und Prämien umgetauscht werden.'
+                p: 'Jeder Mitarbeiter, der am MySports Rewards Benefit Programm teilnimmt und seine Bewegung trackt, wird mit Activity Points und STARS belohnt. STARS haben einen Wert von bis zu 50 Euro/Monat und können in attraktive Gutscheine und Prämien umgetauscht werden.'
         portal:
             title: 'Alles auf einen Blick&#58; Dein Arbeitgeber-Portal'
             p: 'Im Arbeitgeber-Portal siehst du, wie sportlich aktiv deine Mitarbeitenden geworden sind. Die Trend-Statistiken geben dir einen Überblick über die Performance des gesamten Teams. Natürlich unter Wahrung der Privatsphäre aller Teilnehmer.'
         preise:
             hl: 'Wähle zwischen vier attraktiven Leistungspaketen'
-            p: 'Welches Paket am besten zu deinem Unternehmen passt, bestimmst du. Die Prämien und Gutscheine, die dein Team durch sportliche Bewegung verdient, werden deinen Mitarbeitenden in der MySports App als Stars angezeigt.'
+            p: 'Welches Paket am besten zu deinem Unternehmen passt, bestimmst du. Deine Mitarbeiter bekommen für ihre sportliche Bewegung Prämienpunkte in Form von STARS. Diese können Sie innerhalb der MySports Rewards App in Sachprämien und Wertgutscheine einlösen. Alle Gebühren verstehen sich zzgl. USt. und sind monatlich pro Teilnehmer zu zahlen.'
             small: 'inkl. 2,50€ Plattform Gebühr'
             extra: 'Leistungspakete, netto, monatlich, je Teilnehmer'
             button: 'Jetzt kostenfrei testen'
@@ -36,29 +36,29 @@ de:
                 size: S
                 preis: '12,61€'
                 benefit-one: 'zzgl. 3,50€ Plattformgebühr'
-                benefit-two: 'beinhaltet Reward Sachpreise bis zu 15€ (brutto)'
-                benefit-three: 'Entspricht 1.500 STARS'
+                benefit-two: 'beinhaltet bis zu  1.500 STARS'
+                benefit-three: 'entspricht Prämienwert von 15€ (brutto)'
             -
                 size: M
                 preis: '22,27€'
                 benefit-one: 'zzgl. 3,50€ Plattformgebühr'
-                benefit-two: 'beinhaltet Reward Sachpreise bis zu 25€ (brutto)'
-                benefit-three: 'Entspricht 2.500 STARS'
+                benefit-two: 'beinhaltet bis zu  2.500 STARS'
+                benefit-three: 'entspricht Prämienwert von 25€ (brutto)'
             -
                 size: L
                 preis: '31,09€'
                 benefit-one: 'zzgl. 3,50€ Plattformgebühr'
-                benefit-two: 'beinhaltet Reward Sachpreise bis zu 35€ (brutto)'
-                benefit-three: 'Entspricht 3.500 STARS'
+                benefit-two: 'beinhaltet bis zu  3.500 STARS'
+                benefit-three: 'entspricht Prämienwert von 35€ (brutto)'
             -
                 size: XL
                 preis: '42,02€'
                 benefit-one: 'zzgl. 3,50€ Plattformgebühr'
-                benefit-two: 'beinhaltet Reward Sachpreise bis zu 50€ (brutto)'
-                benefit-three: 'Entspricht 5.000 STARS'
+                benefit-two: 'beinhaltet bis zu  5.000 STARS'
+                benefit-three: 'entspricht Prämienwert von 50€ (brutto)'
         testimonials-header:
             title: 'So punkten andere Unternehmen mit MySports Rewards'
-            p: 'Diese Unternehmen nehmen bereits am MySports Rewards Corporate Programm teil, um die Resilienz ihrer Mitarbeiter zu fördern und ihre Arbeitgebermarke zu stärken.'
+            p: 'Diese Unternehmen nehmen bereits am MySports Rewards Corporate Programm teil um die Fitness für Mitarbeiter zu fördern, sowie Resilienz und ihre Arbeitgebermarke zu stärken.'
         testimonials:
             -
                 quote: 'Eine smarte App, die uns das Erreichen unserer Ziele vereinfacht – genau unser Geschmack! Mittlerweile macht das gesamte Team mit und wir heizen uns gegenseitig an. Nach mehreren Monaten ist klar&#58; Wir bewegen uns tatsächlich dauerhaft mehr.'

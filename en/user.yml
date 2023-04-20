@@ -3,10 +3,10 @@ en:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'GET REWARDED FOR EVERY ACTIVITY'
-            p: 'MySports Rewards is an app that motivates you to be on the move. MySports Rewards rewards you for every sports activity. Quickly and directly. Whether you''re walking the dog, biking to work, or prefer to workout at sports facilities.'
+            p: 'MySports Rewards is your fitness app for more exercise and well-being. MySports Rewards rewards you for every sporting activity. Fast and direct. Whether walking the dog, cycling to work or visiting a sports facility of your choice.'
         benefits-header:
             title: 'WHY MYSPORTS REWARDS PAYS OFF FOR YOU'
-            p: 'MySports Rewards motivates you to be more active and healthier every day, and offers you great benefits.'
+            p: 'The MySports Rewards Fitness App motivates you to be more active and healthy every day and has great benefits in store for you, bet?'
         benefits:
             -
                 title: 'Earn Activity Points'
@@ -16,9 +16,9 @@ en:
                 p: 'Do you regularly go for walks or bike rides? You like yoga or attend a dance school? MySports Rewards supports any type of sport activity and helps overcome your inner sloth.'
             -
                 title: 'Secure rewards and vouchers'
-                p: 'Do you know that your activity is also important for your employer? Tell him about MySports Rewards so he can appreciate it!'
+                p: 'Did you know that your activity is also important for your employer? Tell him about the MySports Rewards Fitness App to earn money with it!'
         app-headline:
-            title: 'YOUR<br>MYSPORTS REWARDS APP'
+            title: 'Your <br> MySports Rewards Fitness App'
         app:
             -
                 p: 'Activity status is displayed on your <strong>dashboard</strong>. This way you''ll always be able to keep track of your daily, weekly and monthly goals.'
@@ -32,7 +32,7 @@ en:
                 p: 'Collect Activity Points for a worthy cause and we will support a charity or foundation.'
             -
                 title: 'Get rewarded'
-                p: 'Convince your employer and get rewarded with up to 5,000 STARS /€50* monthly for achieving physical activity goals.'
+                p: 'Convince your employer and let the Mysports rewards fitness app reward you with money (up to 5,000 STARS / €50* per month) for achieving your exercise goals.'
             -
                 title: 'COMPARE YOURSELF WITH FRIENDS'
                 p: 'Select up to 30 friends for active competition. You can compare your activity on a regular basis and thus motivate each other to move more.'
@@ -45,4 +45,4 @@ en:
                 quote: 'I am pleasantly surprised at how easily the MySports Rewards app manages to motivate me to engage in regular activity.'
         cta:
             title: 'GET ACTIVE NOW AND DOWNLOAD THE APP'
-            p: 'Would you also like to move more and do something for your fitness and well-being? Take advantage of the MySports Rewards app now!'
+            p: 'Do you also want to move more and do something for your fitness and well-being? Then install the MySports Rewards app now and let yourself be motivated to exercise more in everyday life. You can easily invite your friends there, connect your employer and participate in public challenges.'

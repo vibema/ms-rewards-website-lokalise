@@ -2,12 +2,12 @@ de:
     association:
         header:
             label: 'MYSPORTS REWARDS'
-            title: 'WERDE ALS VEREIN TEIL DES ALLTAGS DEINER MITGLIEDER'
-            p: 'Der Weg für mehr Aktivität in eurem Verein war noch nie so einfach. Mit MySport Rewards erreichst du deine Mitglieder jeden Tag. Richte deine Sportstätten ein und die Mitglieder können dort einchecken. Zusätzlich zählt auch außerhalb jeder Schritt und jede Fahrt mit dem Fahrrad zum Tagesziel. Als Verein lobt ihr Challenges aus und motiviert damit zusätzlich. Die Mitglieder werden es lieben und laden andere Mitglieder in ihr Team und werben zusätzlich im Freundeskreis.'
+            title: 'WERDE ALS VEREIN MIT UNSERER ONLINE APP TEIL DES ALLTAGS DEINER MITGLIEDER'
+            p: 'Der Weg für mehr Aktivität in eurem Verein war noch nie so einfach. Mit der kostenlosen MySport Rewards Online APP erreichst du deine Mitglieder jeden Tag. Richte deine Sportstätten ein und die Mitglieder können dort einchecken. Zusätzlich zählt auch außerhalb jeder Schritt und jede Fahrt mit dem Fahrrad zum Tagesziel. Als Verein lobt ihr Challenges aus und motiviert damit zusätzlich. Die Mitglieder werden es lieben und laden andere Mitglieder in ihr Team und werben zusätzlich im Freundeskreis. Mit diesem Softwaretool habt ihr für euren Verein eine tolle und einfache Möglichkeit Engagement und Interaktion zu fördern.'
             button: 'Kostenlos als Verein starten'
             link: 'https://www.try.rewards.mysports.com/sport-association/step1'
         benefits-header:
-            title: 'MYSPORTS REWARDS IST FÜR VEREINE GANZ EINFACH'
+            title: 'DIE MYSPORTS REWARDS ONLINE APP IST FÜR VEREINE GANZ EINFACH'
         benefits:
             -
                 title: 'Einfache Registrierung'
