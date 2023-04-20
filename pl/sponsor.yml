@@ -2,37 +2,37 @@ pl:
     sponsor:
         header:
             label: 'MYSPORTS REWARDS CHALLENGES'
-            title: 'Wyzwania publiczne są receptą na sukces w aktywizacji członków'
-            p: 'Marki, kluby lub firmy mogą szybko i łatwo tworzyć publiczne wyzwania dzięki MySports Rewards. Do tego wystarczą drobne nagrody w postaci koszulek czy spotkania ze sportowcami.'
-            button: 'Prześlij wyzwanie teraz'
+            title: ''
+            p: 'Marki, kluby lub firmy mogą szybko i łatwo tworzyć publiczne wyzwania fitness w MySports Rewards. Do tego wystarczą drobne nagrody w postaci koszulek czy spotkania ze sportowcami.'
+            button: 'Prześlij teraz wyzwanie fitness'
         benefits-header:
-            title: 'Utworzenie publicznego wyzwania MySports Rewards jest takie proste i jasne'
+            title: 'TAK ŁATWO DZWONISZ DO PUBLICZNOŚCI WYZWANIE FITNESS WYZWANIE MYSPORTS REWARDS'
         benefits:
             -
                 title: 'Publiczne wyzwanie'
-                p: 'Wyzwania z nagrodami motywują i nagradzają użytkowników MySports Rewards. Dlatego w interesie wszystkich uczestników i organizatorów leży ich upublicznienie.'
+                p: 'Wyzwania związane z ćwiczeniami i sprawnością z nagrodami motywują i nagradzają użytkowników MySports Rewards. Dlatego w interesie wszystkich uczestników i organizatorów leży ich upublicznienie.'
             -
                 title: 'szczegóły i ceny'
-                p: 'Ceny mogą obejmować drobne rzeczy, takie jak koszulki lub para butów do biegania. Polecamy rozlosowanie nagrody głównej - być może czegoś, czego nie można kupić za pieniądze - wśród wszystkich uczestników. W końcu to motywuje każdego.'
+                p: "Ceny mogą obejmować drobne rzeczy, takie jak koszulki lub para butów do biegania.\n Do nagrody głównej pasuje nagroda specjalna, np. ekskluzywne spotkanie ze sportowcem, które jest losowane wśród wszystkich uczestników."
             -
                 title: 'Profil organizatora'
-                p: 'Organizator - czy to firma, czy stowarzyszenie - może zaprezentować się na własnej stronie internetowej. Jeśli organizator ma nawet program w MySports Rewards, możesz dołączyć do niego bezpośrednio z tego miejsca.'
+                p: 'Niezależnie od tego, czy firma, czy stowarzyszenie, każdy organizator może zaprezentować się na własnej stronie. Jeśli organizator ma nawet program w MySports Rewards, możesz dołączyć bezpośrednio z tego miejsca.'
             -
                 title: 'Profil sponsora'
-                p: 'Oczywiście sponsorzy też mogą się zaprezentować, a nawet zaproponować członkom program długoterminowej lojalności. Nawiasem mówiąc, może być kilku sponsorów. Każdy dostaje swoją stronę.'
+                p: 'Sponsorzy mogą również się zaprezentować, a nawet zaoferować członkom program stałej lojalności. Nawiasem mówiąc, może być kilku sponsorów.'
         program:
-            title: 'Przepis na sukces udanego wyzwania'
-            p: 'Czego potrzebujesz do udanego wyzwania? Przede wszystkim ważne są ceny, nie muszą być drogie, ale najlepsze jest coś wyjątkowego.'
+            title: 'W TEN SPOSÓB TWOJE WYZWANIE FITNESS GWARANTUJE SUKCES'
+            p: 'Aby zmotywować Cię do wzięcia udziału w wyzwaniu fitness, pomyśl wcześniej o fantazyjnych nagrodach. Przede wszystkim zdobywasz punkty indywidualnymi wartościami – rzeczami, które nie każdy może kupić.'
         examples:
             -
                 title: Nagrody
                 p: 'Lepsze wiele bez nagrody niż jedna duża. W ten sposób więcej uczestników jest nagradzanych.'
             -
                 title: 'Pomysł / Koncepcja'
-                p: 'Co czyni wyzwanie wyjątkowym, co motywuje i nagradza uczestników?'
+                p: 'Co wyróżnia Fitness Challenge, co motywuje i nagradza uczestników?'
             -
                 title: 'Aktywować użytkowników'
-                p: 'Po skonfigurowaniu wyzwania aktywujemy użytkowników. Organizatorzy i sponsorzy otrzymują link do zrobienia tego samego!'
+                p: 'Po skonfigurowaniu wyzwania fitness aktywujemy użytkowników. Organizatorzy i sponsorzy otrzymują link do zrobienia tego samego!'
         cta:
             title: 'CZY TEŻ CHCESZ ZOSTAĆ SPONSOREM Z MYSPORTS REWARDS?'
             p: 'Już teraz skorzystaj z indywidualnej konsultacji i umów się z nami na niezobowiązują rozmowę.'

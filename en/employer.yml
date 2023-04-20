@@ -2,8 +2,8 @@ en:
     employer:
         header:
             label: 'MYSPORTS REWARDS'
-            title: 'YOUR BENEFIT PROGRAM FOR ALL EMPLOYEES'
-            p: 'Do you want to improve resilience and spirit in your team all at once? And enhance your employer brand? MySports Rewards is a activity-based program full of benefits that motivates employees to be fitter, promotes health and rewards every active day.'
+            title: 'YOUR BENEFIT FITNESS PROGRAM FOR EMPLOYEES'
+            p: 'Would you like to improve resilience and team spirit in your company? and strengthen your employer brand? MySports Rewards is the only benefit program that, with an activation rate of 80%, motivates more exercise every day, improves employee fitness and rewards automatically every day.'
             button: 'Test now for free'
             link: '#top-form'
             disrupter: 'Test without risk!'
@@ -12,7 +12,7 @@ en:
         benefits:
             -
                 title: '100% benefits, 0 efforts'
-                p: 'As an employer, you don''t have to worry about a thing. MySports Rewards sets sports goals, handles communication with your employees and provides rewards.'
+                p: 'As an employer you have "0" effort. MySports Rewards determines the sporting goals, takes care of the communication and the administration as well as the payment of the premium benefits to your employees.'
             -
                 title: 'It motivates the whole team'
                 p: 'MySports Rewards motivates everyone. Not just the sports machines among your employees. Every movement is rewarded - whether it''s walking the dog, swimming, biking or going to the gym.'
@@ -21,13 +21,13 @@ en:
                 p: 'Many companies achieve employee engagement as high as 80%. Become one of them. With high engagement, you will strengthen team spirit as well as employee retention and your employer brand.'
             -
                 title: 'Attractive rewards'
-                p: 'Every employee participating in the MySports Rewards program is rewarded with Activity Points and bonus points (STARS) worth up to 50€ per month, which can be exchanged for attractive vouchers and prizes.'
+                p: 'Every employee who participates in the MySports Rewards Benefit program and tracks their movement is rewarded with Activity Points and STARS. STARS have a value of up to 50 euros/month and can be exchanged for attractive vouchers and prizes.'
         portal:
             title: 'EVERYTHING AT A GLANCE&#58;YOUR EMPLOYER PORTAL'
             p: 'In the employer portal, you can see how active your employees group have become in sports. The trend statistics give you an overview of the performance of the entire team. Naturally, the privacy of all participants is protected.'
         preise:
             hl: 'CHOOSE BETWEEN FOUR ATTRACTIVE PACKAGES'
-            p: 'You decide what suits your team best. Depending on the package you choose, your employees can earn more bonus points (STARS) and redeem them faster for rewards and vouchers. Everyone manages own STARS in the personal wallet of his/her MySports Rewards app.'
+            p: 'You decide which package best suits your company. Your employees receive bonus points in the form of STARS for their physical activity. You can redeem these for non-cash prizes and vouchers within the MySports Rewards app. All fees do not include VAT and are payable monthly per participant.'
             small: 'incl. 2.50 € platform fee'
             extra: 'Service packages, net, monthly, per participant'
             button: 'Test now for free'
@@ -36,29 +36,29 @@ en:
                 size: S
                 preis: €12.61
                 benefit-one: 'plus €3.50 platform fee'
-                benefit-two: 'Rewards up to €15 (gross)'
-                benefit-three: 'Equivalent in STARS 1,500'
+                benefit-two: 'includes up to 1,500 STARS'
+                benefit-three: 'corresponds to a premium value of €15 (gross)'
             -
                 size: M
                 preis: €22.27
                 benefit-one: 'plus 3.50€ platform fee'
-                benefit-two: 'Rewards up to €25 (gross)'
-                benefit-three: 'Equivalent in STARS 2,500'
+                benefit-two: 'includes up to 2,500 STARS'
+                benefit-three: 'corresponds to a premium value of €25 (gross)'
             -
                 size: L
                 preis: €31.09
                 benefit-one: 'plus €3.50 platform fee'
-                benefit-two: 'Rewards up to 35€ (gross)'
-                benefit-three: 'Equivalent in STARS 3,500'
+                benefit-two: 'includes up to 3,500 STARS'
+                benefit-three: 'corresponds to a premium value of €35 (gross)'
             -
                 size: XL
                 preis: €42.02
                 benefit-one: 'plus 3.50€ platform fee'
-                benefit-two: 'Rewards up to 50 € (gross)'
-                benefit-three: 'Equivalent in STARS 5,000'
+                benefit-two: 'includes up to 5,000 STARS'
+                benefit-three: 'corresponds to a premium value of €50 (gross)'
         testimonials-header:
             title: 'HOW OTHER COMPANIES SCORE WITH MYSPORTS REWARDS'
-            p: 'These companies already make use of the MySports Rewards to build employee resilience and strengthen their employer brand.'
+            p: 'These companies are already participating in the MySports Rewards Corporate program to promote employee fitness, resilience and employer branding.'
         testimonials:
             -
                 quote: 'A clever application that makes it easier for us to achieve our goals - exactly to our taste! In the meantime, the whole team joined the program and we cheer each other on. After a few months, it''s clear: we are actually more active.'

@@ -2,37 +2,37 @@ de:
     sponsor:
         header:
             label: 'MYSPORTS REWARDS CHALLENGES'
-            title: 'Öffentliche Challenges sind das Erfolgsrezepte zur Aktivierung der Mitglieder'
-            p: 'Marken, Vereine oder auch Firmen können schnell und einfach öffentliche Challenges bei MySports Rewards erstellen. Dafür reichen schon kleine Preise wie Trikots oder ein Meet&Greet mit den Athleten.'
-            button: 'Jetzt Challenge einreichen'
+            title: 'ÖFFENTLICHE BEWEGUNG UND FITNESS CHALLENGES SIND DAS ERFOLGSREZEPT ZUR AKTIVIERUNG DER MITGLIEDER'
+            p: 'Marken, Vereine oder auch Firmen können schnell und einfach öffentliche Fitness Challenges bei MySports Rewards erstellen. Dafür reichen schon kleine Preise wie Trikots oder ein Meet&Greet mit den Athleten.'
+            button: 'Jetzt Fitness Challenge einreichen'
         benefits-header:
-            title: 'So einfach und klar ist der Aufbau einer öffentlichen MySports Rewards Challenge'
+            title: 'SO EINFACH RUFST DU ZU EINER ÖFFENTLICHEN MYSPORTS REWARDS FITNESS CHALLENGE AUF'
         benefits:
             -
                 title: 'Öffentliche Challenge'
-                p: 'Challenges die mit Gewinnen ausgestattet sind motivieren und belohnen die Nutzer von MySports Rewards. Daher ist es im Sinne aller Teilnehmer und Veranstalter, diese öffentlich zu machen.'
+                p: 'Bewegung und Fitness Challenges, die mit Gewinnen ausgestattet sind, motivieren und belohnen die Nutzer von MySports Rewards. Daher ist es im Sinne aller Teilnehmer und Veranstalter, diese öffentlich zu machen.'
             -
                 title: 'Details und Preise'
-                p: 'Bei den Preisen können es schon Kleinigkeiten wie Trikots oder ein Paar Laufschuhe sein. Wir empfehlen den Hauptgewinn - vielleicht etwas, was man für Geld nicht kaufen kann - unter allen Teilnehmern zu verlosen. Das motivert am Ende alle.'
+                p: "Bei den Preisen können es schon Kleinigkeiten wie Trikots oder ein Paar Laufschuhe sein. \nFür den Hauptgewinn eignet sich ein besonderer Preis, z.B. ein exklusives Meetup mit einem Sportler, das unter allen Teilnehmern verlost wird."
             -
                 title: Veranstalterprofil
-                p: 'Der Veranstalter - sei es eine Firma oder ein Verein - kann sich über eine eigene Seite präsentieren. Sollte der Veranstalter sogar ein Programm bei MySports Rewards haben, kann diesem von dort aus direkt beigetreten werden.'
+                p: 'Ob Firma oder Verein, jeder Veranstalter kann sich über eine eigene Seite präsentieren. Sollte der Veranstalter sogar ein Programm bei MySports Rewards haben, kann der Beitritt direkt von dort erfolgen.'
             -
                 title: Sponsorenprofil
-                p: 'Auch Sponsoren können sich natürlich präsentieren und sogar ein Programm zur dauerhaften Bindung an die Mitglieder anbeiten. Es kann übrigens mehrere Sponsoren geben. Jeder bekommt eine eigene Seite.'
+                p: 'Auch Sponsoren können sich präsentieren und sogar ein Programm zur dauerhaften Bindung an die Mitglieder anbieten. Es kann übrigens mehrere Sponsoren geben.'
         program:
-            title: 'Erfolgsrezept einer erfolgreichen Challenge'
-            p: 'Was benötigt man für eine erfolgreiche Challenge? Zunächst sind Preise wichtig, diese müssen nicht teuer sein, sondern am besten ist etwas besonderes.'
+            title: 'SO WIRD DEINE FITNESS CHALLENGE GARANTIERT ERFOLGREICH'
+            p: 'Um zur Teilnahme an deiner Fitness Challenge zu motivieren, mache dir vorher Gedanken über ausgefallene Preise. Dabei punktest du vor allem mit individuellen Werten – Dingen, die nicht jeder kaufen kann.'
         examples:
             -
                 title: Belohnungen
                 p: 'Besser viele keine Belohnung, als eine Große. So werden mehr Teilnehmer belohnt.'
             -
                 title: 'Idee / Konzept'
-                p: 'Was macht die Challenge besonders, was motiviert und belohnt die Teilnehmer?'
+                p: 'Was macht die Fitness Challenge besonders, was motiviert und belohnt die Teilnehmer?'
             -
                 title: 'Nutzer aktivieren'
-                p: 'Sobald die Challenge eingerichtet ist, aktivieren wir die Nutzer. Veranstalter und Sponsoren bekommen einen Link, um das Gleiche zu tun!'
+                p: 'Sobald die Fitness Challenge eingerichtet ist, aktivieren wir die Nutzer. Veranstalter und Sponsoren bekommen einen Link, um das Gleiche zu tun!'
         cta:
             title: 'Du möchtest mit deiner Marke auch Sponsor von MySports Rewards werden?'
             p: 'Lass dich jetzt individuell beraten und buche einen unverbindlichen Termin.'

@@ -2,37 +2,37 @@ en:
     sponsor:
         header:
             label: 'MYSPORTS REWARDS CHALLENGES'
-            title: 'Public challenges are the recipe for success to activate the members'
-            p: 'Brands, clubs or companies can quickly and easily create public challenges with MySports Rewards. Small prizes such as jerseys or a meet and greet with the athletes are enough for this.'
-            button: 'Submit a challenge now'
+            title: ''
+            p: 'Brands, clubs or companies can quickly and easily create public fitness challenges at MySports Rewards. Small prizes such as jerseys or a meet and greet with the athletes are enough for this.'
+            button: 'Submit a fitness challenge now'
         benefits-header:
-            title: 'Setting up a public MySports Rewards Challenge is that simple and clear'
+            title: 'SO EASY YOU CALL TO A PUBLIC MYSPORTS REWARDS FITNESS CHALLENGE'
         benefits:
             -
                 title: 'Public challenge'
-                p: 'Challenges that come with prizes motivate and reward MySports Rewards users. It is therefore in the interest of all participants and organizers to make them public.'
+                p: 'Exercise and fitness challenges that come with prizes motivate and reward MySports Rewards users. It is therefore in the interest of all participants and organizers to make them public.'
             -
                 title: 'details and prices'
-                p: 'The prices can be small things like jerseys or a pair of running shoes. We recommend drawing the main prize - perhaps something that money can''t buy - among all participants. In the end, that motivates everyone.'
+                p: "The prices can be small things like jerseys or a pair of running shoes.\n A special prize is suitable for the main prize, eg an exclusive meetup with an athlete, which is raffled off among all participants."
             -
                 title: 'Organizer Profile'
-                p: 'The organizer - be it a company or an association - can present itself on its own website. If the organizer even has a program at MySports Rewards, you can join it directly from there.'
+                p: 'Whether company or association, every organizer can present itself on its own page. If the organizer even has a program at MySports Rewards, you can join directly from there.'
             -
                 title: 'Sponsor Profile'
-                p: 'Of course, sponsors can also present themselves and even offer a program for long-term loyalty to the members. By the way, there can be several sponsors. Everyone gets their own page.'
+                p: 'Sponsors can also present themselves and even offer a program for permanent loyalty to the members. By the way, there can be several sponsors.'
         program:
-            title: 'Recipe for success of a successful challenge'
-            p: 'What do you need for a successful challenge? First of all, prices are important, they don''t have to be expensive, but something special is best.'
+            title: 'THIS IS HOW YOUR FITNESS CHALLENGE IS GUARANTEED TO BE SUCCESSFUL'
+            p: 'To motivate you to take part in your fitness challenge, think about fancy prizes beforehand. Above all, you score points with individual values – things that not everyone can buy.'
         examples:
             -
                 title: Rewards
                 p: 'Better many no reward than one big. In this way, more participants are rewarded.'
             -
                 title: 'Idea / Concept'
-                p: 'What makes the challenge special, what motivates and rewards the participants?'
+                p: 'What makes the Fitness Challenge special, what motivates and rewards the participants?'
             -
                 title: 'Activate users'
-                p: 'Once the challenge is set up, we activate the users. Organizers and sponsors get a link to do the same!'
+                p: 'Once the Fitness Challenge is set up, we activate the users. Organizers and sponsors get a link to do the same!'
         cta:
             title: 'WOULD YOU ALSO LIKE TO BECOME A MYSPORTS REWARDS SPONSOR UNDER YOUR BRAND?'
             p: 'Get an individual consultation now and book a non-binding appointment.'
