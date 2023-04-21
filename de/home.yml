@@ -2,7 +2,7 @@ de:
     home:
         header:
             label: 'MYSPORTS REWARDS'
-            title: 'DEINE FITNESS-APP FÜR MEHR BEWEGUNG IM ALLTAG'
+            title: 'DEINE FITNESS APP FÜR MEHR BEWEGUNG IM ALLTAG'
             p: 'Ob beim Spazierengehen, Fahrradfahren oder bei jeder anderen sportlichen Aktivität: MySports Rewards fördert deine Motivation für mehr Bewegung und Gesundheit – mit einem Belohnungssystem, das Spaß macht. Nie war es einfacher, sich zu mehr Bewegung im Alltag motivieren zu lassen. Jetzt mitmachen, ob alleine, mit Freunden, im Team oder über deinen Arbeitgeber.'
             button: 'Mehr erfahren'
         content:
@@ -21,5 +21,5 @@ de:
                     label: 'Für Vereine'
                     button: 'Vereine Button'
         footer:
-            title: 'JETZT AKTIV WERDEN UND APP DOWNLOADEN'
+            title: 'Jetzt aktiv werden und MySports Rewards Fitness App downloaden'
             p: 'Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App und lass dich zu mehr Bewegung im Alltag motivieren. Du kannst dort ganz einfach deine Freunde einladen, deinen Arbeitgeber verbinden und an öffentlichen Challenges teilnehmen.'
