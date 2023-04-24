@@ -41,7 +41,7 @@ pl:
             link: ''
         onboarding:
             sportassociation-name: 'Nazwa klubu'
-            sportassociation-success-copy: 'Dziękujemy za dobrą decyzję przetestowania MySports Rewards. Wszystko przygotowaliśmy, abyś mógł od razu wystartować ze swoją organizacją sportową i zaprosić jej członków. Dostęp do portalu administracyjnego otrzymasz drogą mailową.'
+            sportassociation-success-copy: 'Dziękujemy że chcesz przetestować MySports Rewards. Wszystko przygotowaliśmy, abyś mógł od razu wystartować ze swoją organizacją sportową i zaprosić jej członków. Dostęp do portalu administracyjnego otrzymasz drogą mailową.'
             sportassociation-success-title: 'Wszystko gotowe!'
             sportassociation-email: 'Adres e-mail'
             unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'

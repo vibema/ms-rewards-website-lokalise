@@ -27,7 +27,7 @@ pl:
             p: 'W portalu pracodawcy sprawdzisz, jak aktywna jest grupa Twoich pracowników. Przekrojowe statystyki dają Ci wgląd w zaangażowanie całego zespołu. Oczywiście z pełnym poszanowaniem  prywatności każdego uczestnika.'
         preise:
             hl: 'WYBIERZ JEDEN Z CZTERECH ATRAKCYJNYCH PAKIETÓW'
-            p: 'Ty decydujesz, który pakiet najlepiej pasuje do Twojej firmy.Twoi pracownicy otrzymują dodatkowe punkty w postaci GWIAZDEK za aktywność fizyczną. Możesz wymienić je na nagrody bezgotówkowe i kupony w aplikacji MySports Rewards. Wszystkie opłaty nie zawierają podatku VAT i są płatne miesięcznie od uczestnika.'
+            p: "Wybierz najlepszy pakiet dla swojej firmy. Twoi pracownicy otrzymują za aktywność fizyczną punkty premiowe STARS, które mogą wymieniać na nagrody rzeczowe i bony w aplikacji MySports Rewards. \nWszystkie opłaty nie zawierają podatku VAT i są płatne miesięcznie za każdego uczestnika."
             small: 'Nagrody o wartości do 50 zł'
             extra: 'Pakiety usług, netto, miesięcznie, za uczestnika'
             button: 'Dowiedz się więcej'
@@ -37,25 +37,25 @@ pl:
                 preis: '39 zł'
                 benefit-one: 'plus 16 zł opłaty za platformę'
                 benefit-two: 'Nagrody do 1.000 STARS'
-                benefit-three: 'odpowiada wartości składki 39 zł (brutto)'
+                benefit-three: 'odpowiada nagrodom wartości 50 zł (brutto)'
             -
                 size: M
                 preis: '88 zł'
                 benefit-one: 'plus 16 zł opłaty za platformę'
                 benefit-two: 'Nagrody do 2.000 STARS'
-                benefit-three: 'odpowiada wartości składki 88 zł (brutto)'
+                benefit-three: 'odpowiada nagrodom wartości 100 zł (brutto)'
             -
                 size: L
                 preis: '132 zł'
                 benefit-one: 'plus 16 zł opłaty za platformę'
                 benefit-two: 'Nagrody do 3.000 STARS'
-                benefit-three: 'odpowiada wartości składki 132 zł (brutto)'
+                benefit-three: 'odpowiada nagrodom wartości 150 zł (brutto)'
             -
                 size: XL
                 preis: '169 zł'
                 benefit-one: 'plus 16 zł opłaty za platformę'
                 benefit-two: 'Nagrody do 4.000 STARS'
-                benefit-three: 'odpowiada wartości składki 169 zł (brutto)'
+                benefit-three: 'odpowiada nagrodom wartości 200 zł (brutto)'
         testimonials-header:
             title: 'JAK INNE FIRMY DOCENIAJĄ MYSPORTS REWARDS'
             p: 'Firmy te już uczestniczą w programie MySports Rewards Corporate, którego celem jest promowanie sprawności fizycznej pracowników, odporności i budowania marki pracodawcy.'
