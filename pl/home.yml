@@ -2,9 +2,9 @@ pl:
     home:
         header:
             label: 'MYSPORTS REWARDS'
-            title: 'TWOJA APLIKACJA FITNESS DLA WIĘCEJ ĆWICZEŃ W CODZIENNYM ŻYCIU'
-            p: 'Niezależnie od tego, czy chodzi o spacery, jazdę na rowerze, czy jakąkolwiek inną aktywność sportową: MySports Rewards motywuje Cię do większej aktywności fizycznej i zdrowia — dzięki zabawnemu systemowi nagród. Motywacja do większej aktywności w życiu codziennym nigdy nie była łatwiejsza. Dołącz teraz, sam, z przyjaciółmi, w zespole lub za pośrednictwem swojego pracodawcy.'
-            button: 'Dowiedz się wiecej'
+            title: 'TWOJA APLIKACJA Z MOCĄ KORZYŚCI ZA BYCIE W RUCHU'
+            p: 'Poranny jogging, spacery z psem, a może rolki lub trening fitness z przyjaciółmi? Dzięki atrakcyjnemu systemowi nagród, MySports Rewards wspiera Cię w byciu aktywnym tak, jak lubisz! Motywacja do większej aktywności w życiu codziennym nigdy nie była łatwiejsza. Dołącz do nas sam, z przyjaciółmi, w zespole lub za pośrednictwem swojego pracodawcy.'
+            button: 'Dowiedz się więcej'
         content:
             title: 'AKTYWNOŚĆ, KTÓRA OPŁACA SIĘ WSZYSTKIM'
             targetgroup:
@@ -21,5 +21,5 @@ pl:
                     label: ''
                     button: ''
         footer:
-            title: 'Bądź aktywny już teraz i pobierz aplikację MySports Rewards Fitness'
-            p: 'Czy Ty też chcesz się więcej ruszać i zrobić coś dla swojej kondycji i dobrego samopoczucia? W takim razie zainstaluj teraz aplikację MySports Rewards i daj się zmotywować do większej aktywności w życiu codziennym. Możesz łatwo zaprosić tam znajomych, połączyć swojego pracodawcę i wziąć udział w publicznych wyzwaniach.'
+            title: 'Stań się bardziej aktywny już teraz i pobierz aplikację MySports Rewards'
+            p: 'Jeśli też zależy Ci na kondycji i dobrym samopoczuciu, to już teraz zainstaluj aplikację MySports Rewards i daj się ponieść większej motywacji do bycia w ruchu. Możesz łatwo zapraszać znajomych, współzawodniczyć w otwartych wyzwaniach lub dołączyć do programu Twojego pracodawcy.'
