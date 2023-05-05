@@ -6,7 +6,7 @@ pl:
             p: 'MySports Rewards to Twój sposób na bycie w ruchu i dobre samopoczucie. MySports Rewards nagradza Cię za każdą aktywność fizyczną. Niezależnie od tego, czy lubisz wędrówki, jeździsz rowerem do pracy, a może wolisz chodzić na basen lub siłownię.'
         benefits-header:
             title: 'DLACZEGO MYSPORTS REWARDS CI SIĘ OPŁACI'
-            p: 'Aplikacja MySports Rewards zmotywuje Cię do bycia bardziej aktywnym każdego dnia. Oferuje Ci w zamian wspaniałe korzyści. Przekonaj się!'
+            p: 'Aplikacja MySports Rewards zmotywuje Cię do bycia bardziej aktywnym każdego dnia i zaoferuje Ci w zamian wspaniałe korzyści. Przekonaj się!'
         benefits:
             -
                 title: 'Zbieraj Activity Points'
@@ -18,7 +18,7 @@ pl:
                 title: 'Zgarniaj nagrody'
                 p: 'Czy wiesz, że Twoja aktywność jest ważna także dla Twojego pracodawcy? Opowiedz mu o MySports Rewards i jeszcze szybciej zgarniaj atrakcyjne nagrody!'
         app-headline:
-            title: 'Twoja <br> aplikacja fitness MySports Rewards'
+            title: 'Twoja aplikacja <br> MySports Rewards'
         app:
             -
                 p: 'Swoje aktywności znajdziesz zawsze na <strong>pulpicie</strong>. Dzięki temu szybko zorientujesz się jak idzie Ci realizacja dziennych, tygodniowych i miesięcznych celów.'
@@ -32,7 +32,7 @@ pl:
                 p: 'Zbieraj Activity Points w szczytnym celu, a my wesprzemy akcję dobroczynną lub fundację.'
             -
                 title: 'CIESZ SIĘ Z NAGRÓD'
-                p: 'Przekonaj pracodawcę i zdobywaj do 4.000 STARS (200 zł)* miesięcznie za realizację celów związanych z aktywnością fizyczną.'
+                p: 'Przekonaj pracodawcę i zdobywaj do 4.000 STARS (200 zł) miesięcznie za realizację celów związanych z aktywnością fizyczną.'
             -
                 title: 'ŚCIGAJ SIĘ Z PRZYJACIÓŁMI'
                 p: 'Wybierz 30 znajomych do aktywnego współzawodnictwa. Możecie porównywać na bieżąco swoją aktywność i wzajemnie się motywować do większego ruchu.'
