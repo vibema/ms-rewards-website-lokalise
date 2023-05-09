@@ -41,7 +41,7 @@ de:
             link: 'https://www.try.rewards.mysports.com/sport-association/step1'
         onboarding:
             sportassociation-name: Vereinsname
-            sportassociation-success-copy: 'Vielen Dank, dass du das MySports Rewards Benefit Programm ausprobieren willst. Du kannst sofort für deinen Verein loslegen und die Mitglieder einladen. Du erhältst dazu per E-Mail einen Zugang zum Verwaltungsportal.'
+            sportassociation-success-copy: 'Vielen Dank, dass du das MySports Rewards Benefit Programm ausprobieren möchtest. Du erhältst sofort per E-Mail einen individuellen Downloadlink für unsere APP und kannst dort alles nach Herzenslust testen.'
             sportassociation-success-title: 'Registrierung erfolgreich!'
             sportassociation-email: E-Mail-Adresse
             unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
