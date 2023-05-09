@@ -3,7 +3,7 @@ en:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'YOUR BENEFIT FITNESS PROGRAM FOR EMPLOYEES'
-            p: 'Would you like to improve resilience and team spirit in your company? and strengthen your employer brand? MySports Rewards is the only benefit program that, with an activation rate of 80%, motivates more exercise every day, improves employee fitness and rewards automatically every day.'
+            p: 'Would you like to improve resilience and team spirit in your company? and strengthen your employer brand? MySports Rewards is the only benefit program that, with an activation rate of 80%, motivates more exercise every day, improves employee fitness and rewards automatically every day. - Experience the innovative app concept for yourself in our free demo. Simply register here.'
             button: 'Test now for free'
             link: '#top-form'
             disrupter: 'Test without risk!'
@@ -74,5 +74,5 @@ en:
             company-name: 'Company name'
             company-email: 'Business email address'
             company-success-title: 'Registration successful!'
-            company-success-copy: 'Thank you for your interest in the MySports Rewards. You will automatically join our MySports Rewards open demo program to experience all the features. You should receive a confirmation email shortly.'
+            company-success-copy: 'Thank you for wanting to try the MySports Rewards Benefit program. You will immediately receive an individual download link for our APP by e-mail and can test everything there to your heart''s content.'
             unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
