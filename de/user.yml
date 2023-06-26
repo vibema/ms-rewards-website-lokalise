@@ -46,3 +46,36 @@ de:
         cta:
             title: 'Jetzt aktiv werden und MySports Rewards Fitness App downloaden'
             p: 'Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App und lass dich zu mehr Bewegung im Alltag motivieren. Du kannst dort ganz einfach deine Freunde einladen, deinen Arbeitgeber verbinden und an öffentlichen Challenges teilnehmen.'
+    app-download:
+        header:
+            p: 'Ob als Nutzer oder als Arbeitgeber, am besten probiert man die MySports Rewards App selbst aus. Einfache Schritte reichen schon und werden direkt belohnt. Ab 250.000 Schritte pflanzen wir einen Baum. Bei vielen unterstützt der Arbeitgber mit 50 EUR im Monat als steuerfreies Benefit-Programm.'
+            title: 'App herunterladen'
+            label: 'MYSPORTS REWARDS'
+        benefits-header:
+            p: 'Einige einfache Schritte sind nötig, um deine Aktivitäten in der MySports Rewards App zu erfassen.'
+            title: 'Direkt loslegen'
+        benefits:
+            -
+                title: 'MySports Rewards App installieren'
+                p: 'Für iOS kannst du die app im App Store <a href="https://apps.apple.com/de/app/mysports-rewards/id6444156598?utm_source=localhost_4321&utm_medium=referral" target="_blank"><strong>hier</strong></a> herunterladen.<br/><br/>Für Android geht es im Playstore unter <a href="https://play.google.com/store/apps/details?id=com.mysports.teams&utm_source=localhost_4321&utm_medium=referral" target="_blank"><strong>hier</strong></a>.<br/><br/>Außerdem brauchst du auf Android die Google Fit App <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=de&gl=US" target="_blank"><strong>hier</strong></a>.'
+            -
+                p: 'Du brauchst lediglich eine E-Mail Adresse und ein Passwort, sowie Vor- und Nachname, schon geht es los. <br><br>Übrigens kannst du dich auch mit den Login-Daten der MySports App aus deinen Fitnesstudio anmelden.'
+                title: 'Dein persönliches Nutzerkonto anlegen'
+            -
+                p: 'Schon das Smartphone reicht meist, um Schritte zu zählen. Noch besser geht es mit einem Armband oder einer Smartwatch. Wir unterstützen dafür Apple Health, Google Fit, Garmin, Fitbit, POLAR und die STRAVA App. Samsung Health binden wir auf Android via <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata&hl=de&gl=US" target="_blank"><strong>Health Connect</strong></a>.'
+                title: 'Fitness-Apps verbinden'
+        app-headline:
+            title: 'Deine<br>MySports Rewards Fitness App'
+        app:
+            -
+                p: 'Auf deinem <strong>Dashboard</strong> wird dir dein Aktivitätsstatus angezeigt. So behältst du jederzeit deine Tages-, Wochen-, und Monatsziele im Blick.'
+            -
+                p: 'Unter <strong>Erfolge</strong> findest du deine Activity Points, Wochen-, Monats- und Gesamtbilanz sowie deine Tages- und Check-in-basierten Ziele.'
+            -
+                p: 'Unter <strong>Challenges</strong> kannst du dir alle Einzel- und Teamchallenges anzeigen lassen, zu denen dich MySports Rewards App regelmäßig motiviert.'
+        cta:
+            title: 'Arbeitgeber können direkt testen!'
+            p: 'Als Arbeitgeber probiert man am besten auch erst mal selbst die App aus und lässt sich begeitern.'
+            p2: 'Oder man startet direkt und unverbindlich mit dem Test eines eigenen Programms im Arbeitgeberportal. Binnen 5 Minuten kann man mit einer Auswahl an Nutzer im eigenen Unternehmen loslegen.'
+            button: 'Registrierung im Arbeitgeberportal'
+            button-secondary: 'Beratungstermin vereinbaren'

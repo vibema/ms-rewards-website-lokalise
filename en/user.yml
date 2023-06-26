@@ -46,3 +46,36 @@ en:
         cta:
             title: 'Get active now and download the MySports Rewards Fitness App'
             p: 'Do you also want to move more and do something for your fitness and well-being? Then install the MySports Rewards app now and let yourself be motivated to exercise more in everyday life. You can easily invite your friends there, connect your employer and participate in public challenges.'
+    app-download:
+        header:
+            p: 'Whether as a user or as an employer, the best thing to do is to try out the MySports Rewards app for yourself. Simple steps are enough and are immediately rewarded. From 250,000 steps we plant a tree. For many, the employer supports them with EUR 50 per month as a tax-free benefit program.'
+            title: 'download App'
+            label: 'MYSPORTS REWARDS'
+        benefits-header:
+            p: 'A few simple steps are required to track your activity in the MySports Rewards app.'
+            title: 'Get started straight away'
+        benefits:
+            -
+                title: 'Install MySports Rewards app'
+                p: 'For iOS you can download the app in the App Store <a href="https://apps.apple.com/de/app/mysports-rewards/id6444156598?utm_source=localhost_4321&utm_medium=referral" target="_blank"> <strong> here </strong> </a> download. <br/> <br/> For Android, go to the Playstore under <a href="https://play.google.com/store/apps/details?id=com.mysports.teams&utm_source=localhost_4321&utm_medium=referral" target="_blank"> <strong> here </strong> </a> . <br/> <br/> You also need the Google Fit app on Android <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.fitness&hl=de&gl=US" target="_blank"> <strong> here </strong> </a> .'
+            -
+                p: 'All you need is an e-mail address and a password, as well as your first and last name, and you''re good to go. <br> <br> By the way, you can also use the MySports app login data to log in to your gym.'
+                title: 'Create your personal user account'
+            -
+                p: 'Even the smartphone is usually enough to count steps. It works even better with a bracelet or a smartwatch. We support Apple Health, Google Fit, Garmin, Fitbit, POLAR and the STRAVA app. We bind Samsung Health on Android via <a href="https://play.google.com/store/apps/details?id=com.google.android.apps.healthdata&hl=de&gl=US" target="_blank"> <strong> Health Connect </strong> </a> .'
+                title: 'Connect fitness apps'
+        app-headline:
+            title: 'Your <br> MySports Rewards Fitness App'
+        app:
+            -
+                p: 'Activity status is displayed on your <strong>dashboard</strong>. This way you''ll always be able to keep track of your daily, weekly and monthly goals.'
+            -
+                p: 'In <strong>Achievements</strong> tab you will find your Activity Points, your weekly, monthly and overall balance, as well as the number of days you have achieved the goals.'
+            -
+                p: 'Under the <strong>Challenges</strong> tab, you can view all the individual and team challenges that the MySports Rewards App regularly motivates you to participate in.'
+        cta:
+            title: 'Employers can test directly!'
+            p: 'As an employer, it is best to try out the app for yourself first and let yourself be inspired.'
+            p2: 'Or you can start directly and without obligation by testing your own program in the employer portal. Within 5 minutes you can get started with a selection of users in your own company.'
+            button: 'Registration in the employer portal'
+            button-secondary: 'arrange an appointment for consultation'
