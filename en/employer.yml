@@ -4,7 +4,7 @@ en:
             label: 'MYSPORTS REWARDS'
             title: 'YOUR BENEFIT FITNESS PROGRAM FOR EMPLOYEES'
             p: 'Would you like to improve resilience and team spirit in your company? and strengthen your employer brand? MySports Rewards is the only benefit program that, with an activation rate of 80%, motivates more exercise every day, improves employee fitness and rewards automatically every day. - Experience the innovative app concept for yourself in our free demo. Simply register here.'
-            button: 'Test now for free'
+            button: 'Test the app now without obligation'
             link: '#top-form'
             disrupter: 'Test without risk!'
         benefits-header:
@@ -67,9 +67,11 @@ en:
             -
                 quote: 'MySports Rewards is easy to integrate into the daily routine of almost all employees. Actually all interests are addressed, no one is at a disadvantage, young and also older colleagues can equally earn their STARS through sports activity.'
         footer:
-            title: 'YOUR COMPANY WOULD ALSO LIKE TO BENEFIT FROM MYSPORTS REWARDS'
-            p: 'Let us advise you now and book a non-binding appointment for our benefit program to support more fitness for employees.'
-            button: 'Contact us now'
+            title: 'Test directly as an employer!'
+            p: 'As an employer, try the app out for yourself and let yourself be inspired.'
+            button: 'Registration in the employer portal'
+            p2: 'Or start directly and without obligation by testing your own company program in the employer portal. Within 5 minutes you can get started with a selection of users in your own company.'
+            button-secondary: 'Contact us now'
         onboarding:
             company-name: 'Company name'
             company-email: 'Business email address'
