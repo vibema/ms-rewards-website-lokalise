@@ -69,9 +69,9 @@ pl:
         footer:
             title: 'TWOJA FIRMA RÓWNIEŻ CHCIAŁABY SKORZYSTAĆ Z MYSPORTS REWARDS?'
             p: 'Przekonaj się jakie to proste i umów się na niezobowiązującą rozmowę.'
-            button: 'Skontaktuj się z nami'
+            button: ''
             p2: ''
-            button-secondary: ''
+            button-secondary: 'Skontaktuj się z nami'
         onboarding:
             company-name: 'Nazwa firmy'
             company-email: 'Firmowy adres e-mail'
