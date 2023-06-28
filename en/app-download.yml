@@ -32,3 +32,7 @@ en:
             p2: 'Or you can start directly and without obligation by testing your own program in the employer portal. Within 5 minutes you can get started with a selection of users in your own company.'
             button: 'Registration in the employer portal'
             button-secondary: 'arrange an appointment for consultation'
+        clickdemo:
+            title: 'MySports Rewards Demo'
+            p: 'How exactly the MySports Rewards app works is best explained in a short video.'
+            cta: 'Open MySports Rewards demo'

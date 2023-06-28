@@ -32,3 +32,7 @@ de:
             p2: 'Oder man startet direkt und unverbindlich mit dem Test eines eigenen Programms im Arbeitgeberportal. Binnen 5 Minuten kann man mit einer Auswahl an Nutzer im eigenen Unternehmen loslegen.'
             button: 'Registrierung im Arbeitgeberportal'
             button-secondary: 'Beratungstermin vereinbaren'
+        clickdemo:
+            title: 'MySports Rewards Demo'
+            p: 'Wie genau die MySports Rewards App funktioniert, erklären wir am besten in einem kurzen Video. '
+            cta: 'MySports Rewards Demo öffnen'
