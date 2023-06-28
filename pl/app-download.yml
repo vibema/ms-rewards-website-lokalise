@@ -32,3 +32,7 @@ pl:
             p2: 'Lub możesz zacząć bezpośrednio i bez zobowiązań, testując własny program na portalu pracodawców. W ciągu 5 minut możesz rozpocząć pracę z wybranymi użytkownikami we własnej firmie.'
             button: 'Rejestracja w portalu pracodawcy'
             button-secondary: 'umów się na konsultację'
+        clickdemo:
+            title: 'Demo programu MySports Rewards'
+            p: 'Jak dokładnie działa aplikacja MySports Rewards, najlepiej wyjaśni krótki film.'
+            cta: 'Otwórz wersję demonstracyjną MySports Rewards'
