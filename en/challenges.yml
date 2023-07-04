@@ -1,0 +1,65 @@
+en:
+    challenges:
+        select-challenge:
+            button: 'start challenge'
+        header:
+            label: 'MY SPORTS REWARDS'
+            title: 'COMPANY CHALLENGES - BRING MOTION TO YOUR COMPANY'
+            p: 'Whether it''s a company run, lunch walk or cycling to work. Start your free challenge with three clicks.'
+            button: 'To the challenges'
+            cta-link: '#'
+        challenges-header:
+            title: 'Choose your challenge'
+            p: 'Get the company moving. Start a MySports Rewards Challenge and invite employees. Simple and free.'
+        benefits-header:
+            title: 'THREE STEPS TO YOUR OWN COMPANY CHALLENGE'
+            p: 'Choose a challenge, register and invite your employees. It''s ready to go.'
+        benefits:
+            -
+                title: 'Collect activity points'
+                p: 'With every activity you collect valuable activity points. Whether alone, with friends, with colleagues or with your employer.'
+            -
+                title: 'Track any type of activity'
+                p: 'Do you regularly go for walks and ride a bike? Do you like doing yoga? Do you attend a dance school? MySports Rewards promotes all kinds of sporting activities and helps you to overcome your weaknesses.'
+            -
+                title: 'Get rewards and vouchers'
+                p: 'Did you know that your activity is also important for your employer? Tell him about the MySports Rewards Fitness App to earn money with it!'
+        app-headline:
+            title: 'Your <br> MySports Rewards Fitness App'
+        app:
+            -
+                p: 'Your activity status is displayed on your <strong> dashboard </strong> . This way you can keep an eye on your daily, weekly and monthly goals at all times.'
+            -
+                p: 'Under <strong> Achievements </strong> you will find your activity points, weekly, monthly and total balance as well as your daily and check-in based goals.'
+            -
+                p: 'Under <strong> Challenges </strong> you can display all individual and team challenges that MySports Rewards App regularly motivates you to do.'
+        challenges:
+            -
+                title: 'company run'
+                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: 'company run'
+            -
+                title: 'Lunch walk'
+                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: 'lunch walk'
+            -
+                title: 'Bike to work'
+                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: 'bike to work'
+            -
+                title: 'Your own company challenge'
+                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: custom
+        testimonials:
+            -
+                quote: 'A smart app that manages to get me outside despite bad weather so I can do the final steps towards my reward.'
+            -
+                quote: 'The app motivates, is fun, keeps you healthy and gives you the good feeling of having achieved something.'
+            -
+                quote: 'I''m pleasantly surprised at how easily the MySports Rewards app manages to motivate me to do regular activities.'
+        cta:
+            title: 'Get active now and download the MySports Rewards Fitness App'

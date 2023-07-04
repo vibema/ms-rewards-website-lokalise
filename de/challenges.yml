@@ -1,12 +1,19 @@
 de:
-    user:
+    challenges:
+        select-challenge:
+            button: 'Challege starten'
         header:
             label: 'MYSPORTS REWARDS'
-            title: 'Lass dich für jede Aktivität belohnen'
-            p: 'MySports Rewards ist deine Fitness App für mehr Bewegung und Wohlbefinden. Für jede sportliche Aktivität belohnt dich MySports Rewards. Schnell und direkt. Ob beim Spazierengehen mit dem Hund, beim Fahrradfahren zur Arbeit oder beim Besuch einer Sporteinrichtung deiner Wahl.'
+            title: 'FIRMENCHALLENGES - BRING BEWEGUNG IN DEIN UNTERNEHMEN'
+            p: 'Ob Firmenlauf, Lunch-Walk oder mit dem Rad zur Arbeit. Starte deine kostenlose Challenge mit drei Klicks.'
+            button: 'Zu den Challenges'
+            cta-link: '#'
+        challenges-header:
+            title: 'Wähle deine Challenge aus'
+            p: 'Bringe Bewegung in die Firma. Starte eine MySports Rewards Challenge und lade die Mitarbeiter ein. Einfach und Kostenlos.'
         benefits-header:
-            title: 'Warum sich MySports Rewards für dich auszahlt'
-            p: 'Die MySports Rewards Fitness App motiviert dich Tag für Tag zu mehr Bewegung sowie Gesundheit und hält starke Vorteile für dich bereit, wetten?'
+            title: 'DREI SCHRITTE ZUR EIGENEN FIRMENCHALLENGE'
+            p: 'Wähle eine Challenge aus, registriere dich und lade deine Mitarbeiter ein. Schon kann es losgehen.'
         benefits:
             -
                 title: 'Sammle Activity Points'
@@ -26,16 +33,27 @@ de:
                 p: 'Unter <strong>Erfolge</strong> findest du deine Activity Points, Wochen-, Monats- und Gesamtbilanz sowie deine Tages- und Check-in-basierten Ziele.'
             -
                 p: 'Unter <strong>Challenges</strong> kannst du dir alle Einzel- und Teamchallenges anzeigen lassen, zu denen dich MySports Rewards App regelmäßig motiviert.'
-        examples:
+        challenges:
             -
-                title: Challenges
-                p: 'Sammle Activity Points für einen guten Zweck und wir spenden für eine nachhaltige Aktion oder Stiftung.'
+                title: Firmenlauf
+                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: company-run
             -
-                title: 'Lass dich belohnen'
-                p: 'Überzeuge deinen Arbeitgeber und lass dich für erreichte Bewegungsziele von der Mysports rewards Fitness App mit Geld (bis zu 5.000 STARS /50€* monatlich) belohnen.'
+                title: Lunchwalk
+                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: lunchwalk
             -
-                title: 'Vergleich dich mit Freunden'
-                p: 'Markiere bis zu 30 Freunde um ihre Aktivität direkt im Startscreen im Vergleich mit dir zu sehen. So könnt ihr euch gegenseitig zu mehr Bewegung anspornen.'
+                title: 'Mit dem Rad zur Arbeit'
+                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: bike-to-work
+            -
+                title: 'Deine eigene Firmenchallenge'
+                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: custom
         testimonials:
             -
                 quote: 'Eine smarte App, die es schafft, mich trotz schlechtem Wetter nach draußen zu bekommen, damit ich die letzten Schritte für meine Belohnung machen kann. '
@@ -45,7 +63,3 @@ de:
                 quote: 'Ich bin positiv überrascht, wie leicht die MySports Rewards App es schafft, mich zu regelmäßigen Aktivitäten zu motivieren.'
         cta:
             title: 'Jetzt aktiv werden und MySports Rewards Fitness App downloaden'
-            p: 'Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App und lass dich zu mehr Bewegung im Alltag motivieren. Du kannst dort ganz einfach deine Freunde einladen, deinen Arbeitgeber verbinden und an öffentlichen Challenges teilnehmen.'
-    challenges:
-        cta:
-            p: 'Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App und lass dich zu mehr Bewegung im Alltag motivieren. Du kannst dort ganz einfach deine Freunde einladen, deinen Arbeitgeber verbinden und an öffentlichen Challenges teilnehmen.'
