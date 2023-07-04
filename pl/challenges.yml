@@ -1,0 +1,65 @@
+pl:
+    challenges:
+        select-challenge:
+            button: 'rozpocznij wyzwanie'
+        header:
+            label: 'MOJE NAGRODY SPORTOWE'
+            title: 'WYZWANIA FIRMY - WPROWADŹ RUCH DO SWOJEJ FIRMY'
+            p: 'Niezależnie od tego, czy jest to bieg firmowy, spacer na lunch czy jazda rowerem do pracy. Rozpocznij darmowe wyzwanie trzema kliknięciami.'
+            button: 'Do wyzwań'
+            cta-link: '#'
+        challenges-header:
+            title: 'Wybierz swoje wyzwanie'
+            p: 'Przeprowadź firmę. Rozpocznij wyzwanie MySports Rewards i zaproś pracowników. Proste i darmowe.'
+        benefits-header:
+            title: 'TRZY KROKI DO WYZWANIA WŁASNEJ FIRMY'
+            p: 'Wybierz wyzwanie, zarejestruj się i zaproś swoich pracowników. Jest gotowy do pracy.'
+        benefits:
+            -
+                title: 'Zbieraj punkty aktywności'
+                p: 'Z każdą aktywnością zbierasz cenne punkty aktywności. Niezależnie od tego, czy jesteś sam, z przyjaciółmi, współpracownikami czy z pracodawcą.'
+            -
+                title: 'Śledź każdy rodzaj aktywności'
+                p: 'Czy regularnie chodzisz na spacery i jeździsz na rowerze? Czy lubisz robić jogę? Czy uczęszczasz do szkoły tańca? MySports Rewards promuje wszelkiego rodzaju zajęcia sportowe i pomaga przezwyciężyć swoje słabości.'
+            -
+                title: 'Zdobądź nagrody i kupony'
+                p: 'Czy wiesz, że Twoja aktywność jest ważna także dla Twojego pracodawcy? Powiedz mu o aplikacji MySports Rewards Fitness, aby dzięki niej zarabiać!'
+        app-headline:
+            title: 'Twoja <br> aplikacja fitness MySports Rewards'
+        app:
+            -
+                p: 'Twój status aktywności jest wyświetlany na <strong> pulpicie nawigacyjnym </strong> . W ten sposób możesz zawsze mieć oko na swoje dzienne, tygodniowe i miesięczne cele.'
+            -
+                p: 'W sekcji <strong> Osiągnięcia </strong> znajdziesz swoje punkty aktywności, saldo tygodniowe, miesięczne i całkowite, a także cele dzienne i związane z zameldowaniem.'
+            -
+                p: 'W sekcji <strong> Wyzwania </strong> możesz wyświetlić wszystkie indywidualne i zespołowe wyzwania, do których regularnie motywuje Cię aplikacja MySports Rewards.'
+        challenges:
+            -
+                title: 'prowadzenie firmy'
+                p: 'Lorem ipsum dolor sit amet, conssetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: 'prowadzenie firmy'
+            -
+                title: 'Spacer obiadowy'
+                p: 'Lorem ipsum dolor sit amet, conssetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: 'spacer obiadowy'
+            -
+                title: 'Rowerem do pracy'
+                p: 'Lorem ipsum dolor sit amet, conssetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: 'rowerem do pracy'
+            -
+                title: 'Twoje własne wyzwanie firmowe'
+                p: 'Lorem ipsum dolor sit amet, conssetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                link: '#'
+                id: zwyczaj
+        testimonials:
+            -
+                quote: 'Inteligentna aplikacja, która pozwala mi wyjść na zewnątrz pomimo złej pogody, dzięki czemu mogę zrobić ostatnie kroki w kierunku nagrody.'
+            -
+                quote: 'Aplikacja motywuje, jest zabawna, zapewnia zdrowie i daje poczucie, że coś się udało.'
+            -
+                quote: 'Jestem mile zaskoczony, jak łatwo aplikacja MySports Rewards motywuje mnie do regularnych aktywności.'
+        cta:
+            title: 'Bądź aktywny już teraz i pobierz aplikację MySports Rewards Fitness'
