@@ -78,3 +78,6 @@ de:
             company-success-title: 'Registrierung erfolgreich!'
             company-success-copy: 'Vielen Dank, dass du das MySports Rewards Benefit Programm ausprobieren möchtest. Du erhältst sofort per E-Mail einen individuellen Downloadlink für unsere APP und kannst dort alles nach Herzenslust testen.'
             unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
+    challenges:
+        onboarding:
+            company-email: 'Geschäftliche E-Mail-Adresse'
