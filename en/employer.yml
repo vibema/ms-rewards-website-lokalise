@@ -78,3 +78,6 @@ en:
             company-success-title: 'Registration successful!'
             company-success-copy: 'Thank you for wanting to try the MySports Rewards Benefit program. You will immediately receive an individual download link for our APP by e-mail and can test everything there to your heart''s content.'
             unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
+    challenges:
+        onboarding:
+            company-email: 'Business email address'
