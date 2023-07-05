@@ -1,7 +1,7 @@
 pl:
     challenges:
         select-challenge:
-            button: 'rozpocznij wyzwanie'
+            button: 'Poproś o wyzwanie firmowe'
         header:
             label: 'MOJE NAGRODY SPORTOWE'
             title: 'WYZWANIA FIRMY - WPROWADŹ RUCH DO SWOJEJ FIRMY'
