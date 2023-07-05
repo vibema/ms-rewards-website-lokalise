@@ -1,7 +1,8 @@
 en:
     challenges:
         select-challenge:
-            button: 'Request company challenge'
+            button_end: ''
+            button_start: Request
         header:
             label: 'MY SPORTS REWARDS'
             title: 'COMPANY CHALLENGES - BRING MOTION TO YOUR COMPANY'
