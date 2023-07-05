@@ -1,7 +1,7 @@
 de:
     challenges:
         select-challenge:
-            button: 'Challege starten'
+            button: 'Firmenchallege anfragen'
         header:
             label: 'MYSPORTS REWARDS'
             title: 'FIRMENCHALLENGES - BRING BEWEGUNG IN DEIN UNTERNEHMEN'
