@@ -64,3 +64,6 @@ pl:
         cta:
             title: 'Bądź aktywny już teraz i pobierz aplikację MySports Rewards Fitness'
             p: 'Jak dokładnie działa aplikacja MySports Rewards, najlepiej wyjaśni krótki film.'
+        onboarding:
+            company-email: 'Firmowy adres e-mail'
+            unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'

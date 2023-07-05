@@ -64,3 +64,6 @@ en:
         cta:
             title: 'Get active now and download the MySports Rewards Fitness App'
             p: 'How exactly the MySports Rewards app works is best explained in a short video.'
+        onboarding:
+            company-email: 'Business email address'
+            unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
