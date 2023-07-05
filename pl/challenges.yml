@@ -35,25 +35,25 @@ pl:
                 p: 'W sekcji <strong> Wyzwania </strong> możesz wyświetlić wszystkie indywidualne i zespołowe wyzwania, do których regularnie motywuje Cię aplikacja MySports Rewards.'
         challenges:
             -
-                title: 'prowadzenie firmy'
-                p: 'Lorem ipsum dolor sit amet, conssetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                title: 'Prowadzenie firmy'
+                p: 'Rozpal ducha rywalizacji i rozpocznij własne wyzwanie! Liczy się tylko bieganie, bez jazdy na rowerze i meldunków na obiektach sportowych. Jest śledzone anonimowo i zgodnie z RODO za pośrednictwem telefonu komórkowego.'
                 link: '#'
                 id: 'prowadzenie firmy'
             -
-                title: 'Spacer obiadowy'
-                p: 'Lorem ipsum dolor sit amet, conssetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                title: 'Wyzwanie związane z oszczędnością CO2'
+                p: 'Oszczędzaj jak najwięcej CO2. Idź do pracy pieszo lub rowerem. W okresie wyzwania liczy się każdy metr.'
                 link: '#'
-                id: 'spacer obiadowy'
+                id: co2
             -
-                title: 'Rowerem do pracy'
-                p: 'Lorem ipsum dolor sit amet, conssetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                title: 'Maniacy sportu'
+                p: 'Zrób jak najwięcej punktów aktywności. Bieganie, jazda na rowerze i meldunki na obiektach sportowych. Kto jest największym maniakiem sportu?'
                 link: '#'
-                id: 'rowerem do pracy'
+                id: maniacs
             -
-                title: 'Twoje własne wyzwanie firmowe'
-                p: 'Lorem ipsum dolor sit amet, conssetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                title: 'Wycieczka personelu'
+                p: 'Rozpocznij małe wyzwanie rowerowe. Liczy się tylko jazda na rowerze. Pokonuj kilometry w drodze do pracy, wieczorem iw weekend.'
                 link: '#'
-                id: zwyczaj
+                id: tour
         testimonials:
             -
                 quote: 'Inteligentna aplikacja, która pozwala mi wyjść na zewnątrz pomimo złej pogody, dzięki czemu mogę zrobić ostatnie kroki w kierunku nagrody.'

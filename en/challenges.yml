@@ -35,25 +35,25 @@ en:
                 p: 'Under <strong> Challenges </strong> you can display all individual and team challenges that MySports Rewards App regularly motivates you to do.'
         challenges:
             -
-                title: 'company run'
-                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                title: 'Company Run'
+                p: 'Spark the competitive spirit and start your own challenge! Only running counts, no cycling or check-ins at sports facilities. It is tracked anonymously and GDPR compliant via your mobile phone.'
                 link: '#'
                 id: 'company run'
             -
-                title: 'Lunch walk'
-                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                title: 'CO2 savings challenge'
+                p: 'Save as much CO2 as possible. Walk or bike to work. Every meter counts in the challenge period.'
                 link: '#'
-                id: 'lunch walk'
+                id: co2
             -
-                title: 'Bike to work'
-                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                title: 'Sports maniacs'
+                p: 'Make as many activity points as possible. Running, cycling and check-ins at sports venues. Who is the biggest sports maniac?'
                 link: '#'
-                id: 'bike to work'
+                id: maniacs
             -
-                title: 'Your own company challenge'
-                p: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum.'
+                title: 'Tour de staff'
+                p: 'Start a little bike challenge. Only cycling counts. Do kilometers on the way to work, in the evening and at the weekend.'
                 link: '#'
-                id: custom
+                id: tour
         testimonials:
             -
                 quote: 'A smart app that manages to get me outside despite bad weather so I can do the final steps towards my reward.'
