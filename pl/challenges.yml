@@ -39,7 +39,7 @@ pl:
                 title: 'Prowadzenie firmy'
                 p: 'Rozpal ducha rywalizacji i rozpocznij własne wyzwanie! Liczy się tylko bieganie, bez jazdy na rowerze i meldunków na obiektach sportowych. Jest śledzone anonimowo i zgodnie z RODO za pośrednictwem telefonu komórkowego.'
                 link: '#'
-                id: 'prowadzenie firmy'
+                id: company-run
             -
                 title: 'Wyzwanie związane z oszczędnością CO2'
                 p: 'Oszczędzaj jak najwięcej CO2. Idź do pracy pieszo lub rowerem. W okresie wyzwania liczy się każdy metr.'

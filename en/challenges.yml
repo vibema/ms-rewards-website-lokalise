@@ -39,7 +39,7 @@ en:
                 title: 'Company Run'
                 p: 'Spark the competitive spirit and start your own challenge! Only running counts, no cycling or check-ins at sports facilities. It is tracked anonymously and GDPR compliant via your mobile phone.'
                 link: '#'
-                id: 'company run'
+                id: company-run
             -
                 title: 'CO2 savings challenge'
                 p: 'Save as much CO2 as possible. Walk or bike to work. Every meter counts in the challenge period.'
