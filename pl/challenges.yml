@@ -69,4 +69,4 @@ pl:
             company-email: 'Adres e-mail'
             unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
             success-title: 'Pomyślnie zarejestrowano!'
-            success-copy: 'Natychmiast wyślemy Ci wiadomość e-mail, za pomocą której możesz załadować i wypróbować MySports Rewards w naszym <strong> OTWARTYM DEMO </strong> . <br/> <br/> W tym samym czasie przygotowaliśmy <strong> Wyzwanie dla Twojej firmy </strong> . Daj nam jeden dzień roboczy, wyślemy Ci e-mail, gdy tylko będzie dostępny.'
+            success-copy: 'Natychmiast wyślemy Ci wiadomość e-mail, której możesz użyć do załadowania i wypróbowania MySports Rewards w naszym <strong> OTWARTYM DEMO </strong> . <br/> <br/> W tym samym czasie przygotowaliśmy <strong> Wyzwanie dla Twojej firmy </strong> . Daj nam jeden dzień roboczy, wyślemy Ci e-mail, gdy tylko będzie dostępny.'
