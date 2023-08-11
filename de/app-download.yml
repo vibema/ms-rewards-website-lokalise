@@ -2,7 +2,7 @@ de:
     app-download:
         header:
             p: 'Diese Seite dient dem Download der MySports Rewards App. Die App belohnt für sportliche Aktivität. Es kann gut sein, dass dich jemand eingeladen hat zusammen Sport zu machen oder es gibt eine spannende Challenge. <br/><br/>Die App bietet auch eine Möglichkeit fpr Arbeitgeber, hier bis zu 50 EUR im Monat als steuerfreies Benefit-Programm anzubieten, eventuell hat dich dein Arbeitgeber über einen Link genau dazu eingeladen.<br/><br/>Scanne den Code oder klicke einen von den Link mit deinem Smartphone und sei mit wenigen Klicks dabei.'
-            title: 'QR-Code scannen. App laden.'
+            title: 'QR-Code scannen. <br/>App laden.'
             label: 'MYSPORTS REWARDS'
         benefits-header:
             p: 'Einige einfache Schritte sind nötig, um deine Aktivitäten in der MySports Rewards App zu erfassen.'
@@ -35,4 +35,4 @@ de:
         clickdemo:
             title: 'MySports Rewards Demo'
             p: 'Wie genau die MySports Rewards App funktioniert, erklären wir am besten in einem kurzen Video. '
-            cta: 'MySports Rewards Demo öffnen'
+            cta: 'Demo-Video ansehen'
