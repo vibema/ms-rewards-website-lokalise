@@ -2,7 +2,7 @@ pl:
     app-download:
         header:
             p: 'Ta strona służy do pobierania aplikacji MySports Rewards. Aplikacja nagradza aktywność fizyczną. Może się zdarzyć, że ktoś zaprosił cię do wspólnego uprawiania sportu lub jest ekscytujące wyzwanie. <br/> <br/> Aplikacja oferuje również pracodawcom możliwość nagradzania pracowników kwotą do 50 EUR miesięcznie za uprawianie sportu. Twój pracodawca mógł Cię do tego zaprosić za pośrednictwem linku. <br/> <br/> Zeskanuj kod lub kliknij jeden z linków swoim smartfonem i już po kilku kliknięciach znajdziesz się na miejscu.'
-            title: 'Skanowania QR code. <br/>Załaduj aplikację.'
+            title: 'Skanowania QR code. <br/>Załaduj MySports Rewards aplikację.'
             label: 'MYSPORTS REWARDS'
         benefits-header:
             p: 'Aby śledzić swoją aktywność w aplikacji MySports Rewards, wystarczy wykonać kilka prostych czynności.'
