@@ -1,7 +1,7 @@
 pl:
     app-download:
         header:
-            p: 'Niezależnie od tego, czy jesteś użytkownikiem, czy pracodawcą, najlepszą rzeczą do zrobienia jest wypróbowanie aplikacji MySports Rewards. Proste kroki wystarczą i są natychmiast nagradzane. Z 250 000 stopni sadzimy drzewo. Dla wielu pracodawca wspiera ich kwotą 50 EUR miesięcznie w ramach programu świadczeń wolnych od podatku.'
+            p: 'Ta strona służy do pobierania aplikacji MySports Rewards. Aplikacja nagradza aktywność fizyczną. Może się zdarzyć, że ktoś zaprosił cię do wspólnego uprawiania sportu lub jest ekscytujące wyzwanie. <br/> <br/> Aplikacja oferuje również pracodawcom możliwość oferowania do 50 EUR miesięcznie w ramach programu świadczeń wolnych od podatku. Twój pracodawca mógł Cię do tego zaprosić za pośrednictwem linku. <br/> <br/> Zeskanuj kod lub kliknij jeden z linków swoim smartfonem i już po kilku kliknięciach znajdziesz się na miejscu.'
             title: 'Pobierz aplikację'
             label: 'MYSPORTS REWARDS'
         benefits-header:
