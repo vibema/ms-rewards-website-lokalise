@@ -1,0 +1,8 @@
+pl:
+    verification:
+        header:
+            title: 'Adres potwierdzony.'
+            label: 'MYSPORTS REWARDS'
+            p: 'Twój e-mail został pomyślnie potwierdzony! <br/> Możesz teraz zamknąć to okno i wrócić do aplikacji. Lub możesz zeskanować kod QR za pomocą telefonu komórkowego.'
+            title-error: 'Adres niepotwierdzony.'
+            copy-error: 'Twój adres e-mail nie został pomyślnie potwierdzony! <br/> Wróć do aplikacji i ponownie rozpocznij proces. W przeciwnym razie skontaktuj się z naszym wsparciem.'
