@@ -1,0 +1,8 @@
+en:
+    verification:
+        header:
+            title: 'Address confirmed.'
+            label: 'MYSPORTS REWARDS'
+            p: 'Your email has been successfully confirmed! <br/> You can now close this window and return to the app. Or you can scan the QR code with your mobile phone.'
+            title-error: 'Address not confirmed.'
+            copy-error: 'Your e-mail was not successfully confirmed! <br/> Please return to the app and start the process again. Otherwise, please contact our support.'
