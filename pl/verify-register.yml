@@ -1,5 +1,5 @@
 pl:
-    verification:
+    verify-register:
         header:
             title: 'Adres potwierdzony.'
             label: 'MYSPORTS REWARDS'
