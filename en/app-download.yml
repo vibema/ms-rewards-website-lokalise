@@ -1,8 +1,8 @@
 en:
     app-download:
         header:
-            p: 'This page is for downloading the MySports Rewards App. The app rewards physical activity. It may well be that someone has invited you to do sports together or there is an exciting challenge. <br/> <br/> The app also offers an opportunity for employers to reward employees with up to EUR 50 per month for sports. Your employer may have invited you to do this via a link. <br/> <br/> Scan the code or click one of the links with your smartphone and be there in just a few clicks.'
-            title: 'Scan the QR code. <br/>Download the app.'
+            p: 'The link was meant for the MySports Rewards app. The app rewards physical activity. Once you open the link on the calculator, just scan the code with your phone. <br/> <br/> This then installs the app if necessary and, after registration, takes you to the exact place for which the link was intended. This could have been a sponsorship from your company, a friend request, a challenge or much more.'
+            title: 'Oops. This link was meant for the MySports Rewards app.'
             label: 'MYSPORTS REWARDS'
         benefits-header:
             p: 'A few simple steps are required to track your activity in the MySports Rewards app.'
