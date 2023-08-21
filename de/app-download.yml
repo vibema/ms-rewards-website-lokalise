@@ -1,7 +1,7 @@
 de:
     app-download:
         header:
-            p: 'Der Link war für die MySports Rewards App gemeint,. Die App belohnt für sportliche Aktivität. Wenn du den Link auf dem Rechner geöffnet hast, scanne einfach den Code mit deinem Telefon. <br/><br/>Dieses installiert dann die App wenn nötig und bringt dich dort nach der Registrierung genau an den Ort, für den der Link gedacht war. Das könnte ein Sponsoring deiner Firma, eine Freundschaftsanfrage, eine Challenge oder vieles mehr gewesen sein. '
+            p: 'MySports Rewards ist eine App, die dich für sportliche Aktivität belohnt.<br/><br/>Wenn du den Link auf dem Rechner geöffnet hast, scanne einfach den Code mit deinem Telefon. Damit gelangst du nach der Registrierung genau an den Ort, für den der Link gedacht war. Das könnte ein Sponsoring deiner Firma, eine Freundschaftsanfrage, eine Challenge oder vieles mehr gewesen sein. '
             title: 'Oops. Dieser Link war für die MySports Rewards App gemeint.'
             label: 'MYSPORTS REWARDS'
         benefits-header:
