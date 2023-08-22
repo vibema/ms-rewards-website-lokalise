@@ -76,5 +76,5 @@ pl:
             company-name: 'Nazwa firmy'
             company-email: 'Firmowy adres e-mail'
             company-success-title: 'Wszystko gotowe!'
-            company-success-copy: 'Dziękujemy za zainteresowanie usługą MySports Rewards. Automatycznie dołączysz do naszego otwartego programu demonstracyjnego MySports Rewards, aby doświadczyć wszystkich funkcji. Wkrótce otrzymasz e-mail z potwierdzeniem.'
+            company-success-copy: 'Dziękujemy za zainteresowanie MySports Rewards. Automatycznie dołączysz do naszego otwartego programu demonstracyjnego. Wkrótce otrzymasz e-mail z potwierdzeniem i będziesz mógł sam przekonać się o zaletach MySports Rewards. Życzymy miłych wrażeń!'
             unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'

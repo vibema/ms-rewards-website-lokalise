@@ -1,7 +1,7 @@
 en:
     app-download:
         header:
-            p: 'MySports Rewards is an app that rewards you for sporting activity. <br/> <br/> Once you have opened the link on the calculator, simply scan the code with your phone. This will take you to the exact place for which the link was intended after registration. This could have been a sponsorship from your company, a friend request, a challenge or much more.'
+            p: 'MySports Rewards is an app that rewards you for sporting activity. <br/> <br/> Once you have opened the link on your computer, simply scan the code with your phone. This will take you to the exact place for which the link was intended after registration. This could have been a sponsorship from your company, a friend request, a challenge or much more.'
             title: 'Oops. This link was meant for the MySports Rewards app.'
             label: 'MYSPORTS REWARDS'
         benefits-header:

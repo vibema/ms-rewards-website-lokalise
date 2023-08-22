@@ -1,8 +1,8 @@
 pl:
     app-download:
         header:
-            p: 'MySports Rewards to aplikacja, która nagradza Cię za aktywność sportową. <br/> <br/> Po otwarciu łącza w kalkulatorze wystarczy zeskanować kod telefonem. Spowoduje to przejście do dokładnego miejsca, do którego link był przeznaczony po rejestracji. Może to być sponsoring ze strony Twojej firmy, zaproszenie do znajomych, wyzwanie lub wiele więcej.'
-            title: 'Ups Ten link był przeznaczony dla MySports Rewards aplikacji.'
+            p: 'MySports Rewards to aplikacja, która nagradza za bycie w ruchu. <br/> <br/> Po otwarciu łącza na komputerze, zeskanuj kod QR telefonem. A po rejestracji przejdziesz do miejsca, które wskazuje łącze. Może to być sponsoring ze strony Twojej firmy, zaproszenie od znajomych, wyzwanie lub wiele więcej.'
+            title: 'Ups. Ten link był przeznaczony dla aplikacji MySports Rewards...'
             label: 'MYSPORTS REWARDS'
         benefits-header:
             p: 'Aby śledzić swoją aktywność w aplikacji MySports Rewards, wystarczy wykonać kilka prostych czynności.'
