@@ -1,5 +1,10 @@
 pl:
-    challenges:
+    cultural-change:
+        onboarding:
+            success-copy: 'Natychmiast wyślemy Ci wiadomość e-mail, której możesz użyć do załadowania i wypróbowania MySports Rewards w naszym <strong> OTWARTYM DEMO </strong> . <br/> <br/> W tym samym czasie przygotowaliśmy <strong> Wyzwanie dla Twojej firmy </strong> . Daj nam jeden dzień roboczy, wyślemy Ci e-mail, gdy tylko będzie dostępny.'
+            company-email: 'Adres e-mail'
+            unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
+            success-title: 'Pomyślnie zarejestrowano!'
         select-challenge:
             button_end: ''
             button_start: 'Poproś o'
@@ -65,8 +70,3 @@ pl:
         cta:
             title: 'Bądź aktywny już teraz i pobierz aplikację MySports Rewards Fitness'
             p: 'Jeśli też zależy Ci na kondycji i dobrym samopoczuciu, to już teraz zainstaluj aplikację MySports Rewards i daj się ponieść większej motywacji do bycia w ruchu. Możesz łatwo zapraszać znajomych, współzawodniczyć w otwartych wyzwaniach lub dołączyć do programu Twojego pracodawcy.'
-        onboarding:
-            company-email: 'Adres e-mail'
-            unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
-            success-title: 'Pomyślnie zarejestrowano!'
-            success-copy: 'Natychmiast wyślemy Ci wiadomość e-mail, której możesz użyć do załadowania i wypróbowania MySports Rewards w naszym <strong> OTWARTYM DEMO </strong> . <br/> <br/> W tym samym czasie przygotowaliśmy <strong> Wyzwanie dla Twojej firmy </strong> . Daj nam jeden dzień roboczy, wyślemy Ci e-mail, gdy tylko będzie dostępny.'
