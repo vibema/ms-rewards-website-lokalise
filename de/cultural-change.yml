@@ -1,5 +1,10 @@
 de:
-    challenges:
+    cultural-change:
+        onboarding:
+            success-copy: 'Wir senden dir gleich eine Mail, mit der du MySports Rewards direkt selbst in unserer <strong>OPEN DEMO</strong> laden und ausprobieren kannst. <br/><br/>Gleichzeitig richten wir die <strong>Challenge für deine Firma</strong> ein. Bitte gib uns dazu einen Werktag zeit, wir schicken ein Mail, sobald sie verfügbar ist.'
+            company-email: E-Mail-Adresse
+            unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
+            success-title: 'Registrierung erfolgreich!'
         select-challenge:
             button_end: anfragen
             button_start: ''
@@ -65,8 +70,3 @@ de:
         cta:
             title: 'Jetzt aktiv werden und MySports Rewards Fitness App downloaden'
             p: 'Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App und lass dich zu mehr Bewegung im Alltag motivieren. Du kannst dort ganz einfach deine Freunde einladen, deinen Arbeitgeber verbinden und an öffentlichen Challenges teilnehmen.'
-        onboarding:
-            company-email: E-Mail-Adresse
-            unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
-            success-title: 'Registrierung erfolgreich!'
-            success-copy: 'Wir senden dir gleich eine Mail, mit der du MySports Rewards direkt selbst in unserer <strong>OPEN DEMO</strong> laden und ausprobieren kannst. <br/><br/>Gleichzeitig richten wir die <strong>Challenge für deine Firma</strong> ein. Bitte gib uns dazu einen Werktag zeit, wir schicken ein Mail, sobald sie verfügbar ist.'
