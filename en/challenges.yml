@@ -70,3 +70,6 @@ en:
             unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
             success-title: 'Registration successful!'
             success-copy: 'We''ll send you an email right away, which you can use to load and try out MySports Rewards yourself in our <strong> OPEN DEMO </strong> . <br/> <br/> At the same time we set up the <strong> Challenge for your company </strong> . Please give us one working day, we will send you an email as soon as it is available.'
+    cultural-change:
+        onboarding:
+            success-copy: 'We''ll send you an email right away, which you can use to load and try out MySports Rewards yourself in our <strong> OPEN DEMO </strong> . <br/> <br/> At the same time we set up the <strong> Challenge for your company </strong> . Please give us one working day, we will send you an email as soon as it is available.'
