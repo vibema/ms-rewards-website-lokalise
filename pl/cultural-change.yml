@@ -1,72 +1,48 @@
 pl:
     cultural-change:
-        onboarding:
-            success-copy: 'Natychmiast wyślemy Ci wiadomość e-mail, której możesz użyć do załadowania i wypróbowania MySports Rewards w naszym <strong> OTWARTYM DEMO </strong> . <br/> <br/> W tym samym czasie przygotowaliśmy <strong> Wyzwanie dla Twojej firmy </strong> . Daj nam jeden dzień roboczy, wyślemy Ci e-mail, gdy tylko będzie dostępny.'
-            company-email: 'Adres e-mail'
-            unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
-            success-title: 'Pomyślnie zarejestrowano!'
-        select-challenge:
-            button_end: ''
-            button_start: 'Poproś o'
         header:
             label: 'MOJE NAGRODY SPORTOWE'
-            title: 'WYZWANIA FIRMY - WPROWADŹ RUCH DO SWOJEJ FIRMY'
-            p: 'Niezależnie od tego, czy jest to bieg firmowy, spacer na lunch czy jazda rowerem do pracy. Rozpocznij darmowe wyzwanie trzema kliknięciami.'
-            button: 'Do wyzwań'
-            cta-link: '#'
-        challenges-header:
-            title: 'Wybierz swoje wyzwanie'
-            p: 'Przeprowadź firmę. Rozpocznij wyzwanie MySports Rewards i zaproś pracowników. Proste i darmowe.'
+            title: 'ZMIANA KULTURY JEST ZABAWĄ'
+            p: 'Program MySports Rewards odpowiada na kilka kluczowych wyzwań stojących przed dzisiejszymi firmami: <br> <br> Nasze społeczeństwo – i siła robocza – starzeją się, następne pokolenie wkracza w <strong> 80% do prawie 90% </strong> za mało. <strong> Niedobór umiejętności </strong> jest wszechobecny. Cele zrównoważonego rozwoju wymagają wdrożenia <strong> wytycznych CSR </strong> .'
         benefits-header:
-            title: 'TRZY KROKI DO WYZWANIA WŁASNEJ FIRMY'
-            p: 'Wybierz wyzwanie, zarejestruj się i zaproś swoich pracowników. Jest gotowy do pracy.'
+            title: 'Program MySports Rewards zaczyna się prosto i ma potrójny efekt'
+            p: 'Tutaj może pomóc aplikacja MySports Rewards Fitness. Motywuje i nagradza pracowników za większą aktywność fizyczną i zdrowie każdego dnia. To świetna zabawa, która pozwala zachować dobrą formę i zdrowie! A tymczasem w wielu firmach rozmowa o pogodzie została zastąpiona rozmową o sporcie i ćwiczeniach! <br/> <br/> Ale to nie koniec. Wprowadzenie programu ma bezpośredni pozytywny wpływ na utrzymanie pracowników i rekrutację nowych. Nawiasem mówiąc, cele zrównoważonego rozwoju i społeczna odpowiedzialność biznesu poprawiają, w końcu zdrowie i dobre samopoczucie mają bezpośredni wpływ jako jeden z 17 celów zrównoważonego rozwoju ONZ!'
         benefits:
             -
-                title: 'Zbieraj punkty aktywności'
-                p: 'Z każdą aktywnością zbierasz cenne punkty aktywności. Niezależnie od tego, czy jesteś sam, z przyjaciółmi, współpracownikami czy z pracodawcą.'
+                title: 'aktywność sportowa'
+                p: 'Poprawia nie tylko zdrowie i samopoczucie. Działa także bezpośrednio przeciwko „chorobom cywilizacyjnym” takim jak cukrzyca i otyłość. Ma to kluczowe znaczenie dla starszych pracowników, ale szczególnie dla 80–90% młodych ludzi, którzy nie ćwiczą wystarczająco dużo. Jeśli chodzi o wytyczne CSR, firmy dzielą się tutaj odpowiedzialnością.'
             -
-                title: 'Śledź każdy rodzaj aktywności'
-                p: 'Czy regularnie chodzisz na spacery i jeździsz na rowerze? Czy lubisz robić jogę? Czy uczęszczasz do szkoły tańca? MySports Rewards promuje wszelkiego rodzaju zajęcia sportowe i pomaga przezwyciężyć swoje słabości.'
+                title: 'branding pracodawcy'
+                p: 'Wspólne uprawianie sportu z kolegami przełamuje hierarchiczne granice i tworzy więź. Wieść się rozchodzi. <br> <br> Członkowie Zarządu mówią nam, że żaden inny program nie prowadzi tak często do niewiążącej, pozytywnej komunikacji.'
             -
-                title: 'Zdobądź nagrody i kupony'
-                p: 'Czy wiesz, że Twoja aktywność jest ważna także dla Twojego pracodawcy? Powiedz mu o aplikacji MySports Rewards Fitness, aby dzięki niej zarabiać!'
+                title: 'Obowiązek raportowania CSR'
+                p: 'Zgodnie z CSR-RUG większe firmy mają obowiązek złożenia raportu CSR. Zgodnie z Celami Zrównoważonego Rozwoju ONZ, większa aktywność fizyczna bezpośrednio wspiera Cel nr 3 „Zdrowie i dobre samopoczucie”. Skorzystaj z tego bezpośrednio dzięki MySports Rewards.'
         app-headline:
-            title: 'Twoja <br> aplikacja fitness MySports Rewards'
+            title: 'Jak działa <br> MySports Rewards'
         app:
             -
-                p: 'Twój status aktywności jest wyświetlany na <strong> pulpicie nawigacyjnym </strong> . W ten sposób możesz zawsze mieć oko na swoje dzienne, tygodniowe i miesięczne cele.'
+                p: 'Stan Twojej aktywności jest wyświetlany na Twoim <strong> panelu kontrolnym </strong> . W ten sposób możesz przez cały czas mieć oko na swoje dzienne, tygodniowe i miesięczne cele.'
             -
-                p: 'W sekcji <strong> Osiągnięcia </strong> znajdziesz swoje punkty aktywności, saldo tygodniowe, miesięczne i całkowite, a także cele dzienne i związane z zameldowaniem.'
+                p: 'W sekcji <strong> Osiągnięcia </strong> znajdziesz swoje punkty aktywności, saldo tygodniowe, miesięczne i całkowite, a także cele dzienne i cele związane z zameldowaniem.'
             -
-                p: 'W sekcji <strong> Wyzwania </strong> możesz wyświetlić wszystkie indywidualne i zespołowe wyzwania, do których regularnie motywuje Cię aplikacja MySports Rewards.'
-        challenges:
+                p: 'W sekcji <strong> Wyzwania </strong> możesz wyświetlić wszystkie wyzwania indywidualne i zespołowe, do których regularnie motywuje Cię aplikacja MySports Rewards.'
+        examples:
             -
-                title: 'Prowadzenie firmy'
-                p: 'Rozpal ducha rywalizacji i rozpocznij własne wyzwanie! Liczy się tylko bieganie, bez jazdy na rowerze i meldunków na obiektach sportowych. Jest śledzone anonimowo i zgodnie z RODO za pośrednictwem telefonu komórkowego.'
-                link: '#'
-                id: company-run
+                title: wyzwanie
+                p: 'Zbieraj punkty aktywności w szczytnym celu, a my przekażemy darowiznę na rzecz zrównoważonej kampanii lub fundacji.'
             -
-                title: 'Wyzwanie związane z oszczędnością CO2'
-                p: 'Oszczędzaj jak najwięcej CO2. Idź do pracy pieszo lub rowerem. W okresie wyzwania liczy się każdy metr.'
-                link: '#'
-                id: co2
+                title: 'daj się nagrodzić'
+                p: 'Przekonaj swojego pracodawcę i pozwól, aby aplikacja fitness Mysports Rewards nagradzała Cię pieniędzmi (do 5000 GWIAZDEK / 50 EUR* miesięcznie) za osiągnięcie Twoich celów związanych z ćwiczeniami.'
             -
-                title: 'Maniacy sportu'
-                p: 'Zrób jak najwięcej punktów aktywności. Bieganie, jazda na rowerze i meldunki na obiektach sportowych. Kto jest największym maniakiem sportu?'
-                link: '#'
-                id: maniacs
-            -
-                title: 'Wycieczka personelu'
-                p: 'Rozpocznij małe wyzwanie rowerowe. Liczy się tylko jazda na rowerze. Pokonuj kilometry w drodze do pracy, wieczorem iw weekend.'
-                link: '#'
-                id: tour
+                title: 'Porównuj się z kolegami'
+                p: 'Oznacz nawet 30 współpracowników, aby zobaczyć ich aktywność w porównaniu z Tobą bezpośrednio na ekranie startowym. W ten sposób będziecie mogli wzajemnie zachęcać się do częstszych ćwiczeń.'
         testimonials:
             -
-                quote: 'Inteligentna aplikacja, która pozwala mi wyjść na zewnątrz pomimo złej pogody, dzięki czemu mogę zrobić ostatnie kroki w kierunku nagrody.'
+                quote: 'Inteligentna aplikacja, która pozwala mi wyjść na zewnątrz pomimo złej pogody, dzięki czemu mogę wykonać ostatnie kroki w kierunku nagrody.'
             -
-                quote: 'Aplikacja motywuje, jest zabawna, zapewnia zdrowie i daje poczucie, że coś się udało.'
+                quote: 'Aplikacja motywuje, zapewnia dobrą zabawę, utrzymuje zdrowie i daje poczucie, że coś osiągnięto.'
             -
-                quote: 'Jestem mile zaskoczony, jak łatwo aplikacja MySports Rewards motywuje mnie do regularnych aktywności.'
+                quote: 'Jestem mile zaskoczony, jak łatwo aplikacja MySports Rewards motywuje mnie do regularnych zajęć.'
         cta:
             title: 'Bądź aktywny już teraz i pobierz aplikację MySports Rewards Fitness'
-            p: 'Jeśli też zależy Ci na kondycji i dobrym samopoczuciu, to już teraz zainstaluj aplikację MySports Rewards i daj się ponieść większej motywacji do bycia w ruchu. Możesz łatwo zapraszać znajomych, współzawodniczyć w otwartych wyzwaniach lub dołączyć do programu Twojego pracodawcy.'
+            p: 'Czy Ty też chcesz więcej się ruszać i zrobić coś dla swojej kondycji i dobrego samopoczucia? W takim razie zainstaluj już teraz aplikację MySports Rewards i daj sobie motywację do częstszych ćwiczeń w życiu codziennym. Z łatwością możesz tam zapraszać znajomych, łączyć się z pracodawcą i brać udział w wyzwaniach publicznych.'
