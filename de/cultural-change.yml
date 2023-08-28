@@ -1,37 +1,24 @@
 de:
     cultural-change:
-        onboarding:
-            success-copy: 'Wir senden dir gleich eine Mail, mit der du MySports Rewards direkt selbst in unserer <strong>OPEN DEMO</strong> laden und ausprobieren kannst. <br/><br/>Gleichzeitig richten wir die <strong>Challenge für deine Firma</strong> ein. Bitte gib uns dazu einen Werktag zeit, wir schicken ein Mail, sobald sie verfügbar ist.'
-            company-email: E-Mail-Adresse
-            unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
-            success-title: 'Registrierung erfolgreich!'
-        select-challenge:
-            button_end: anfragen
-            button_start: ''
         header:
             label: 'MYSPORTS REWARDS'
-            title: 'FIRMENCHALLENGES - BRING BEWEGUNG IN DEIN UNTERNEHMEN'
-            p: 'Ob Firmenlauf, Lunch-Walk oder mit dem Rad zur Arbeit. Starte deine kostenlose Challenge mit drei Klicks.'
-            button: 'Zu den Challenges'
-            cta-link: '#'
-        challenges-header:
-            title: 'Wähle deine Challenge aus'
-            p: 'Bringe Bewegung in die Firma. Starte eine MySports Rewards Challenge und lade die Mitarbeiter ein. Einfach und Kostenlos.'
+            title: 'KULTURWANDEL MACHT SPAß'
+            p: 'MySports Rewards adressiert gleich mehrere wichtige Herausforderungen für heutige Unternehmen: <br><br>Unsere Gesellschaft - und Belegschaft - altert, die nächste Generation bewegt sich zu <strong>80 bis fast 90%</strong> nicht mehr genug. Der <strong>Fachkräftmangel</strong> ist allgegenwärtig. Und Nachhalitigkeitsziele fordern zur Umsetzung von <strong>CSR-Richtlinien</strong>.'
         benefits-header:
-            title: 'DREI SCHRITTE ZUR EIGENEN FIRMENCHALLENGE'
-            p: 'Wähle eine Challenge aus, registriere dich und lade deine Mitarbeiter ein. Schon kann es losgehen.'
+            title: 'MySports Rewards startet einfach und wirkt 3-fach'
+            p: 'Hier kann die MySports Rewards Fitness App helfen. Sie motiviert und belohnt die Mitarbeiter Tag für Tag zu mehr Bewegung sowie Gesundheit. Dies macht Spaß und hält fit und gesund! Und ersetzt inzwischen in vielen Unternehmen das Gespräch über das Wetter mit dem Gespräch über Sport und Bewegung!<br/><br/> Doch dabei bleibt es nicht. Die Einführung des Programms wirkt sich direkt positiv auf die Mitarbeiterbindung und die Gewinnung neuer Mitarbeiter aus. Ganz nebenbei verbessern sich verbessern sich Nachhalitigkeitsziele und Corporate-Social-Responsibility, schließlich wirkt Gesundheit und Wohlergehen direkt als eines der 17 UN-Nachhaltigkeitsziele!'
         benefits:
             -
-                title: 'Sammle Activity Points'
-                p: 'Mit jeder Aktivität sammelst du wertvolle Activity Points. Ob alleine, mit Freunden, mit Kollegen oder mit deinem Arbeitgeber.'
+                title: 'Sportliche Aktivität'
+                p: 'Sie steigert nicht nur Gesundheit und Wohlbefinden. Sie wirkt auch direkt gegen "Zivilisationskrankheiten" wie Diabetes und Adipositas. Für ältere Mitarbeiter, speziell aber auch für die 80-90% der Jugendlichen die sich nicht genug bewegen, ist dies entscheidend. Unternehmen haben im Sinne von CSR-Richtlinien hier eine Mitverantwortung.'
             -
-                title: 'Tracke jede Art von Aktivität'
-                p: 'Du gehst regelmäßig spazieren und fährst Fahrrad? Du machst gern Yoga? Du besuchst eine Tanzschule? MySports Rewards fördert jede Art der sportlichen Aktivität und hilft dir dabei, deinen Schweinehund zu überwinden.'
+                title: 'Employer Branding'
+                p: 'Gemeinsam mit den Kollegen Sport zu machen baut Hierarchiegrenzen ab und schweißt zusammen. Dies spricht sich herum. <br><br>Uns berichten Vorstände, dass kein anderes Programm so häufig zu unverbindlicher, positiver Kommunikation führt.'
             -
-                title: 'Sichere dir Prämien und Gutscheine'
-                p: 'Wusstest Du, dass Deine Aktivität auch für Deinen Arbeitgeber wichtig ist? Informiere ihn über die MySports Rewards Fitness App um damit Geld zu verdienen!'
+                title: CSR-Berichtspflicht
+                p: 'Größere Unternehmen sind nach CSR-RUG zu einem CSR-Bericht verpflichtet. Im Sinne der UN-Nachhaltigkeitsziele unterstützt mehr sportliche Aktivität direkt das Ziel #3 "Gesundheit und Wohlergehen". Nutzen sie dies mit MySports Rewards direkt .'
         app-headline:
-            title: 'Deine<br>MySports Rewards Fitness App'
+            title: 'So funktioniert<br>MySports Rewards'
         app:
             -
                 p: 'Auf deinem <strong>Dashboard</strong> wird dir dein Aktivitätsstatus angezeigt. So behältst du jederzeit deine Tages-, Wochen-, und Monatsziele im Blick.'
@@ -39,27 +26,16 @@ de:
                 p: 'Unter <strong>Erfolge</strong> findest du deine Activity Points, Wochen-, Monats- und Gesamtbilanz sowie deine Tages- und Check-in-basierten Ziele.'
             -
                 p: 'Unter <strong>Challenges</strong> kannst du dir alle Einzel- und Teamchallenges anzeigen lassen, zu denen dich MySports Rewards App regelmäßig motiviert.'
-        challenges:
+        examples:
             -
-                title: Firmenlauf
-                p: 'Entfache den Wettbewerbsgeist und starte deine eigene Challenge! Nur Laufen zählt, kein Radfahren oder Check-ins bei Sportstätten. Getrackt wird anonym und DSGVO konform über dein Handy.'
-                link: '#'
-                id: company-run
+                title: Challenges
+                p: 'Sammle Activity Points für einen guten Zweck und wir spenden für eine nachhaltige Aktion oder Stiftung.'
             -
-                title: 'CO2 Spar-Challenge'
-                p: 'Spart so viel CO2 wie es geht. Lauft oder fahrt Fahrrad zur Arbeit. Jeder Meter zählt im Challenge Zeitraum.'
-                link: '#'
-                id: co2
+                title: 'Lass dich belohnen'
+                p: 'Überzeuge deinen Arbeitgeber und lass dich für erreichte Bewegungsziele von der Mysports rewards Fitness App mit Geld (bis zu 5.000 STARS /50€* monatlich) belohnen.'
             -
-                title: 'Sport Maniacs'
-                p: 'Mach so viele Activity Points wie nur irgend möglich. Laufen, Radfahren und Check-ins bei Sportstätten. Wer ist der Größte Sport Maniac? '
-                link: '#'
-                id: maniacs
-            -
-                title: 'Tour de Mitarbeiter'
-                p: 'Starte eine kleine Bike-Challenge. Nur Radfahren zählt. Macht Kilometer auf dem Weg zur Arbeit, am Abend und am Wochenende.'
-                link: '#'
-                id: tour
+                title: 'Vergleich dich mit Kollegen'
+                p: 'Markiere bis zu 30 Kollegen, um ihre Aktivität direkt im Startscreen im Vergleich mit dir zu sehen. So könnt ihr euch gegenseitig zu mehr Bewegung anspornen.'
         testimonials:
             -
                 quote: 'Eine smarte App, die es schafft, mich trotz schlechtem Wetter nach draußen zu bekommen, damit ich die letzten Schritte für meine Belohnung machen kann. '

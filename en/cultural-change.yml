@@ -1,37 +1,24 @@
 en:
     cultural-change:
-        onboarding:
-            success-copy: 'We''ll send you an email right away, which you can use to load and try out MySports Rewards yourself in our <strong> OPEN DEMO </strong> . <br/> <br/> At the same time we set up the <strong> Challenge for your company </strong> . Please give us one working day, we will send you an email as soon as it is available.'
-            company-email: 'E-mail address'
-            unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
-            success-title: 'Registration successful!'
-        select-challenge:
-            button_end: ''
-            button_start: Request
         header:
             label: 'MY SPORTS REWARDS'
-            title: 'COMPANY CHALLENGES - BRING MOTION TO YOUR COMPANY'
-            p: 'Whether it''s a company run, lunch walk or cycling to work. Start your free challenge with three clicks.'
-            button: 'To the challenges'
-            cta-link: '#'
-        challenges-header:
-            title: 'Choose your challenge'
-            p: 'Get the company moving. Start a MySports Rewards Challenge and invite employees. Simple and free.'
+            title: 'CULTURE CHANGE IS FUN'
+            p: 'MySports Rewards addresses several key challenges for today''s businesses: <br> <br> Our society - and workforce - is aging, the next generation is moving at <strong> 80% to almost 90% </strong> not enough. The <strong> skill shortage </strong> is omnipresent. And sustainability goals call for the implementation of <strong> CSR guidelines </strong> .'
         benefits-header:
-            title: 'THREE STEPS TO YOUR OWN COMPANY CHALLENGE'
-            p: 'Choose a challenge, register and invite your employees. It''s ready to go.'
+            title: 'MySports Rewards starts simply and has a triple effect'
+            p: 'This is where the MySports Rewards Fitness App can help. It motivates and rewards employees for more exercise and health every day. This is fun and keeps you fit and healthy! And in the meantime, in many companies, talking about the weather has been replaced with talking about sport and exercise! <br/> <br/> But it doesn''t stop there. The introduction of the program has a direct positive effect on employee retention and the recruitment of new employees. By the way, sustainability goals and corporate social responsibility improve, after all, health and well-being have a direct effect as one of the 17 UN sustainability goals!'
         benefits:
             -
-                title: 'Collect activity points'
-                p: 'With every activity you collect valuable activity points. Whether alone, with friends, with colleagues or with your employer.'
+                title: 'sport activity'
+                p: 'It not only increases health and well-being. It also acts directly against "diseases of civilization" such as diabetes and obesity. This is crucial for older employees, but especially for the 80-90% of young people who do not exercise enough. In terms of CSR guidelines, companies share responsibility here.'
             -
-                title: 'Track any type of activity'
-                p: 'Do you regularly go for walks and ride a bike? Do you like doing yoga? Do you attend a dance school? MySports Rewards promotes all kinds of sporting activities and helps you to overcome your weaknesses.'
+                title: 'employer branding'
+                p: 'Doing sports together with colleagues breaks down hierarchical boundaries and creates a bond. Word gets around. <br> <br> Board members tell us that no other program leads so often to non-binding, positive communication.'
             -
-                title: 'Get rewards and vouchers'
-                p: 'Did you know that your activity is also important for your employer? Tell him about the MySports Rewards Fitness App to earn money with it!'
+                title: 'CSR reporting obligation'
+                p: 'According to the CSR-RUG, larger companies are obliged to submit a CSR report. In line with the UN Sustainable Development Goals, more physical activity directly supports Goal #3 "Health and Wellbeing". Take advantage of this with MySports Rewards direct.'
         app-headline:
-            title: 'Your <br> MySports Rewards Fitness App'
+            title: 'How <br> MySports Rewards works'
         app:
             -
                 p: 'Your activity status is displayed on your <strong> dashboard </strong> . This way you can keep an eye on your daily, weekly and monthly goals at all times.'
@@ -39,27 +26,16 @@ en:
                 p: 'Under <strong> Achievements </strong> you will find your activity points, weekly, monthly and total balance as well as your daily and check-in based goals.'
             -
                 p: 'Under <strong> Challenges </strong> you can display all individual and team challenges that MySports Rewards App regularly motivates you to do.'
-        challenges:
+        examples:
             -
-                title: 'Company Run'
-                p: 'Spark the competitive spirit and start your own challenge! Only running counts, no cycling or check-ins at sports facilities. It is tracked anonymously and GDPR compliant via your mobile phone.'
-                link: '#'
-                id: company-run
+                title: challenge
+                p: 'Collect Activity Points for a good cause and we will donate to a sustainable campaign or foundation.'
             -
-                title: 'CO2 savings challenge'
-                p: 'Save as much CO2 as possible. Walk or bike to work. Every meter counts in the challenge period.'
-                link: '#'
-                id: co2
+                title: 'let yourself be rewarded'
+                p: 'Convince your employer and let the Mysports rewards fitness app reward you with money (up to 5,000 STARS / €50* per month) for achieving your exercise goals.'
             -
-                title: 'Sports maniacs'
-                p: 'Make as many activity points as possible. Running, cycling and check-ins at sports venues. Who is the biggest sports maniac?'
-                link: '#'
-                id: maniacs
-            -
-                title: 'Tour de staff'
-                p: 'Start a little bike challenge. Only cycling counts. Do kilometers on the way to work, in the evening and at the weekend.'
-                link: '#'
-                id: tour
+                title: 'Compare yourself to colleagues'
+                p: 'Tag up to 30 colleagues to see their activity compared to you directly on the start screen. This way you can encourage each other to exercise more.'
         testimonials:
             -
                 quote: 'A smart app that manages to get me outside despite bad weather so I can do the final steps towards my reward.'
