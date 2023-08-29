@@ -29,21 +29,21 @@ de:
                 p: 'Unter <strong>Challenges</strong> kannst du dir alle Einzel- und Teamchallenges anzeigen lassen, zu denen dich MySports Rewards App regelmäßig motiviert.'
         examples:
             -
+                title: Onboarding
+                p: 'Die Mitarbeiter laden sich die App für iOS oder Android herunter. Danach können entweder in der App selbst oder über die Verbidung zu einer Fitness-App wie Apple Health, Google Fit, Garmin, Fitbit, Polar, STRAVA, etc. die Aktivitäten im Hintergrund erfasst werden.'
+            -
                 title: Challenges
-                p: 'Sammle Activity Points für einen guten Zweck und wir spenden für eine nachhaltige Aktion oder Stiftung.'
+                p: 'Direkt zum Start gibt es eine kleine Challenge, wer am meisten Activity Points (AP) pro Monat macht. Das macht Spaß und spornt an. Meist finden sich dabei direkt Teams die darüber in Kontakt kommen. Man kann Kollegen einfach mit einem Klick folgen und sich jeden Tag spielerisch vergleichen.'
             -
-                title: 'Lass dich belohnen'
-                p: 'Überzeuge deinen Arbeitgeber und lass dich für erreichte Bewegungsziele von der Mysports rewards Fitness App mit Geld (bis zu 5.000 STARS /50€* monatlich) belohnen.'
-            -
-                title: 'Vergleich dich mit Kollegen'
-                p: 'Markiere bis zu 30 Kollegen, um ihre Aktivität direkt im Startscreen im Vergleich mit dir zu sehen. So könnt ihr euch gegenseitig zu mehr Bewegung anspornen.'
+                title: Teams
+                p: 'Teams bilden sich anschließend ganz von alleine. Es gibt die, die in der Mittagspause einen kleinen Spaziergang machen. An der Ampel trifft man die, die auch mit dem Rad zur Arbeit fahren. Und im Verein finden sich Kollegen die zusammen Sport machen.'
         testimonials:
             -
-                quote: 'Eine smarte App, die es schafft, mich trotz schlechtem Wetter nach draußen zu bekommen, damit ich die letzten Schritte für meine Belohnung machen kann. '
+                quote: 'Bei keinem anderen Programm wurde ich als Vorstand so offen, positiv und direkt angesprochen.'
             -
-                quote: 'Die App motiviert, macht Spaß, hält gesund und gibt das gute Gefühl, etwas erreicht zu haben.'
+                quote: 'Natürlich verlangen wir vollen Einsatz von unseren Mitarbeitern, es ist dann nur fair, wenn wir als Arbeitgeber genauso alles geben.'
             -
-                quote: 'Ich bin positiv überrascht, wie leicht die MySports Rewards App es schafft, mich zu regelmäßigen Aktivitäten zu motivieren.'
+                quote: 'Ich habe als Geschäftsführer eher zum Spaß mitgemacht. Inzwischen bin ich in einer täglichen Radfahr-Challenge mit den Azubis und tracke eigentlich am Wochenende die meisten Schritte.'
         cta:
             title: 'Jetzt aktiv werden und MySports Rewards Fitness App downloaden'
             p: 'Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App und lass dich zu mehr Bewegung im Alltag motivieren. Du kannst dort ganz einfach deine Freunde einladen, deinen Arbeitgeber verbinden und an öffentlichen Challenges teilnehmen.'
@@ -54,5 +54,5 @@ de:
             company-success-copy: 'Vielen Dank, dass du MySports Rewards ausprobieren möchtest. Du erhältst sofort per E-Mail einen individuellen Downloadlink für unsere APP und kannst dort alles nach Herzenslust testen.'
             unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
         example-content:
-            title: 'So geht es los'
+            title: 'So startet MySports Rewards'
             copy: 'Der Start ist ganz einfach. Über das Flex-Modell wird einfach ein Betrag gewählt, mit dem das Unternehmen den Kulturwandel unterstützt.'

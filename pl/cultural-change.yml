@@ -29,21 +29,21 @@ pl:
                 p: 'W sekcji <strong> Wyzwania </strong> możesz wyświetlić wszystkie wyzwania indywidualne i zespołowe, do których regularnie motywuje Cię aplikacja MySports Rewards.'
         examples:
             -
-                title: wyzwanie
-                p: 'Zbieraj punkty aktywności w szczytnym celu, a my przekażemy darowiznę na rzecz zrównoważonej kampanii lub fundacji.'
+                title: Wdrażanie
+                p: 'Pracownicy pobierają aplikację na iOS lub Androida. Następnie działania w tle można rejestrować w samej aplikacji lub poprzez połączenie z aplikacją fitness, taką jak Apple Health, Google Fit, Garmin, Fitbit, Polar, STRAVA itp.'
             -
-                title: 'daj się nagrodzić'
-                p: 'Przekonaj swojego pracodawcę i pozwól, aby aplikacja fitness Mysports Rewards nagradzała Cię pieniędzmi (do 5000 GWIAZDEK / 50 EUR* miesięcznie) za osiągnięcie Twoich celów związanych z ćwiczeniami.'
+                title: Wyzwanie
+                p: 'Już na początku pojawia się małe wyzwanie: kto zdobędzie najwięcej punktów aktywności (AP) miesięcznie. To świetna zabawa i motywacja. W większości przypadków istnieją bezpośrednie zespoły, które mają z nimi kontakt. Możesz śledzić współpracowników jednym kliknięciem i codziennie porównywać się w zabawny sposób.'
             -
-                title: 'Porównuj się z kolegami'
-                p: 'Oznacz nawet 30 współpracowników, aby zobaczyć ich aktywność w porównaniu z Tobą bezpośrednio na ekranie startowym. W ten sposób będziecie mogli wzajemnie zachęcać się do częstszych ćwiczeń.'
+                title: Zespoły
+                p: 'Następnie zespoły tworzą się same. Są tacy, którzy podczas przerwy na lunch wybierają się na mały spacer. Na światłach spotykasz tych, którzy również dojeżdżają rowerem do pracy. A w klubie są koledzy, którzy razem uprawiają sport.'
         testimonials:
             -
-                quote: 'Inteligentna aplikacja, która pozwala mi wyjść na zewnątrz pomimo złej pogody, dzięki czemu mogę wykonać ostatnie kroki w kierunku nagrody.'
+                quote: 'W żadnym innym programie nie zwrócono się do mnie, jako członka zarządu, tak otwarcie, pozytywnie i bezpośrednio.'
             -
-                quote: 'Aplikacja motywuje, zapewnia dobrą zabawę, utrzymuje zdrowie i daje poczucie, że coś osiągnięto.'
+                quote: 'Oczywiście od naszych pracowników wymagamy pełnego zaangażowania, dlatego sprawiedliwe będzie tylko wtedy, gdy jako pracodawca damy z siebie wszystko.'
             -
-                quote: 'Jestem mile zaskoczony, jak łatwo aplikacja MySports Rewards motywuje mnie do regularnych zajęć.'
+                quote: 'Jako dyrektor zarządzający brałem w nim udział bardziej dla zabawy. Teraz biorę udział w codziennym wyzwaniu kolarskim z uczestnikami i faktycznie śledzę większość kroków w weekendy.'
         cta:
             title: 'Bądź aktywny już teraz i pobierz aplikację MySports Rewards Fitness'
             p: 'Czy Ty też chcesz więcej się ruszać i zrobić coś dla swojej kondycji i dobrego samopoczucia? W takim razie zainstaluj już teraz aplikację MySports Rewards i daj sobie motywację do częstszych ćwiczeń w życiu codziennym. Z łatwością możesz tam zapraszać znajomych, łączyć się z pracodawcą i brać udział w wyzwaniach publicznych.'
@@ -54,5 +54,5 @@ pl:
             company-success-copy: 'Dziękujemy za wypróbowanie programu MySports Rewards. Natychmiast otrzymasz e-mailem indywidualny link do pobrania naszej aplikacji i będziesz mógł wszystko przetestować do woli.'
             unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
         example-content:
-            title: 'Tak to się zaczyna'
+            title: 'Tak zaczyna się program MySports Rewards'
             copy: 'Rozpoczęcie pracy jest łatwe. W modelu elastycznym wybierana jest po prostu kwota, za pomocą której firma wspiera zmianę kultury.'

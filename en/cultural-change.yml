@@ -29,21 +29,21 @@ en:
                 p: 'Under <strong> Challenges </strong> you can display all individual and team challenges that MySports Rewards App regularly motivates you to do.'
         examples:
             -
-                title: challenge
-                p: 'Collect Activity Points for a good cause and we will donate to a sustainable campaign or foundation.'
+                title: Onboarding
+                p: 'Employees download the app for iOS or Android. Afterwards, the activities in the background can be recorded either in the app itself or via the connection to a fitness app such as Apple Health, Google Fit, Garmin, Fitbit, Polar, STRAVA, etc.'
             -
-                title: 'let yourself be rewarded'
-                p: 'Convince your employer and let the Mysports rewards fitness app reward you with money (up to 5,000 STARS / €50* per month) for achieving your exercise goals.'
+                title: Challenges
+                p: 'Right at the start there is a small challenge of who makes the most Activity Points (AP) per month. It''s fun and motivates. In most cases, there are direct teams that come into contact with them. You can follow colleagues with just one click and compare each other in a playful way every day.'
             -
-                title: 'Compare yourself to colleagues'
-                p: 'Tag up to 30 colleagues to see their activity compared to you directly on the start screen. This way you can encourage each other to exercise more.'
+                title: Teams
+                p: 'Teams then form themselves. There are those who take a little walk during their lunch break. At traffic lights you meet those who also cycle to work. And in the club there are colleagues who do sports together.'
         testimonials:
             -
-                quote: 'A smart app that manages to get me outside despite bad weather so I can do the final steps towards my reward.'
+                quote: 'In no other program was I, as a board member, addressed so openly, positively and directly.'
             -
-                quote: 'The app motivates, is fun, keeps you healthy and gives you the good feeling of having achieved something.'
+                quote: 'Of course, we demand full commitment from our employees, so it''s only fair if we give our all as an employer.'
             -
-                quote: 'I''m pleasantly surprised at how easily the MySports Rewards app manages to motivate me to do regular activities.'
+                quote: 'As managing director, I took part more for fun. I''m now in a daily cycling challenge with the trainees and actually track most of the steps at the weekend.'
         cta:
             title: 'Get active now and download the MySports Rewards Fitness App'
             p: 'Do you also want to move more and do something for your fitness and well-being? Then install the MySports Rewards app now and let yourself be motivated to exercise more in everyday life. You can easily invite your friends there, connect your employer and participate in public challenges.'
@@ -54,5 +54,5 @@ en:
             company-success-copy: 'Thank you for trying MySports Rewards. You will immediately receive an individual download link for our APP by e-mail and can test everything there to your heart''s content.'
             unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
         example-content:
-            title: 'This is how it starts'
+            title: 'This is how MySports Rewards starts'
             copy: 'Getting started is easy. With the flex model, an amount is simply chosen with which the company supports the culture change.'
