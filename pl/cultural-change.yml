@@ -28,17 +28,15 @@ pl:
             -
                 p: 'W sekcji <strong> Wyzwania </strong> możesz wyświetlić wszystkie wyzwania indywidualne i zespołowe, do których regularnie motywuje Cię aplikacja MySports Rewards.'
         examples:
-            '0':
+            -
                 title: wyzwanie
                 p: 'Zbieraj punkty aktywności w szczytnym celu, a my przekażemy darowiznę na rzecz zrównoważonej kampanii lub fundacji.'
-            '1':
+            -
                 title: 'daj się nagrodzić'
                 p: 'Przekonaj swojego pracodawcę i pozwól, aby aplikacja fitness Mysports Rewards nagradzała Cię pieniędzmi (do 5000 GWIAZDEK / 50 EUR* miesięcznie) za osiągnięcie Twoich celów związanych z ćwiczeniami.'
-            '2':
+            -
                 title: 'Porównuj się z kolegami'
                 p: 'Oznacz nawet 30 współpracowników, aby zobaczyć ich aktywność w porównaniu z Tobą bezpośrednio na ekranie startowym. W ten sposób będziecie mogli wzajemnie zachęcać się do częstszych ćwiczeń.'
-            title: 'Tak to się zaczyna'
-            copy: 'Rozpoczęcie pracy jest łatwe. W modelu elastycznym wybierana jest po prostu kwota, za pomocą której firma wspiera zmianę kultury.'
         testimonials:
             -
                 quote: 'Inteligentna aplikacja, która pozwala mi wyjść na zewnątrz pomimo złej pogody, dzięki czemu mogę wykonać ostatnie kroki w kierunku nagrody.'
@@ -55,3 +53,6 @@ pl:
             company-success-title: 'Pomyślnie zarejestrowano!'
             company-success-copy: 'Dziękujemy za wypróbowanie programu MySports Rewards. Natychmiast otrzymasz e-mailem indywidualny link do pobrania naszej aplikacji i będziesz mógł wszystko przetestować do woli.'
             unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'
+        example-content:
+            title: 'Tak to się zaczyna'
+            copy: 'Rozpoczęcie pracy jest łatwe. W modelu elastycznym wybierana jest po prostu kwota, za pomocą której firma wspiera zmianę kultury.'
