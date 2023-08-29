@@ -28,15 +28,17 @@ de:
             -
                 p: 'Unter <strong>Challenges</strong> kannst du dir alle Einzel- und Teamchallenges anzeigen lassen, zu denen dich MySports Rewards App regelmäßig motiviert.'
         examples:
-            -
+            '0':
                 title: Challenges
                 p: 'Sammle Activity Points für einen guten Zweck und wir spenden für eine nachhaltige Aktion oder Stiftung.'
-            -
+            '1':
                 title: 'Lass dich belohnen'
                 p: 'Überzeuge deinen Arbeitgeber und lass dich für erreichte Bewegungsziele von der Mysports rewards Fitness App mit Geld (bis zu 5.000 STARS /50€* monatlich) belohnen.'
-            -
+            '2':
                 title: 'Vergleich dich mit Kollegen'
                 p: 'Markiere bis zu 30 Kollegen, um ihre Aktivität direkt im Startscreen im Vergleich mit dir zu sehen. So könnt ihr euch gegenseitig zu mehr Bewegung anspornen.'
+            title: 'So geht es los'
+            copy: 'Der Start ist ganz einfach. Über das Flex-Modell wird einfach ein Betrag gewählt, mit dem das Unternehmen den Kulturwandel unterstützt.'
         testimonials:
             -
                 quote: 'Eine smarte App, die es schafft, mich trotz schlechtem Wetter nach draußen zu bekommen, damit ich die letzten Schritte für meine Belohnung machen kann. '

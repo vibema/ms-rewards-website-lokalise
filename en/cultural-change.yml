@@ -28,15 +28,17 @@ en:
             -
                 p: 'Under <strong> Challenges </strong> you can display all individual and team challenges that MySports Rewards App regularly motivates you to do.'
         examples:
-            -
+            '0':
                 title: challenge
                 p: 'Collect Activity Points for a good cause and we will donate to a sustainable campaign or foundation.'
-            -
+            '1':
                 title: 'let yourself be rewarded'
                 p: 'Convince your employer and let the Mysports rewards fitness app reward you with money (up to 5,000 STARS / €50* per month) for achieving your exercise goals.'
-            -
+            '2':
                 title: 'Compare yourself to colleagues'
                 p: 'Tag up to 30 colleagues to see their activity compared to you directly on the start screen. This way you can encourage each other to exercise more.'
+            title: 'This is how it starts'
+            copy: 'Getting started is easy. With the flex model, an amount is simply chosen with which the company supports the culture change.'
         testimonials:
             -
                 quote: 'A smart app that manages to get me outside despite bad weather so I can do the final steps towards my reward.'
