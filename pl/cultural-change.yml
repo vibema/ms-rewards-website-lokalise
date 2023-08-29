@@ -3,7 +3,7 @@ pl:
         header:
             label: 'MOJE NAGRODY SPORTOWE'
             title: 'ZMIANA KULTURY JEST ZABAWĄ'
-            p: 'Program MySports Rewards odpowiada na kilka kluczowych wyzwań stojących przed dzisiejszymi firmami: <br> <br> Nasze społeczeństwo – i siła robocza – starzeją się, następne pokolenie wkracza w <strong> 80% do prawie 90% </strong> za mało. <strong> Niedobór umiejętności </strong> jest wszechobecny. Cele zrównoważonego rozwoju wymagają wdrożenia <strong> wytycznych CSR </strong> .'
+            p: 'Program MySports Rewards rozwiązuje kilka ważnych wyzwań stojących przed dzisiejszymi firmami poprzez motywację do ćwiczeń: <br> <br> Nasze społeczeństwo – i siła robocza – starzeją się, następne pokolenie ma <strong> 80 do prawie 90% </strong> i nie porusza się wystarczająco dużo . <strong> Niedobór umiejętności </strong> jest wszechobecny. Cele zrównoważonego rozwoju wymagają wdrożenia <strong> wytycznych CSR </strong> .'
         benefits-header:
             title: 'Program MySports Rewards zaczyna się prosto i ma potrójny efekt'
             p: 'Tutaj może pomóc aplikacja MySports Rewards Fitness. Motywuje i nagradza pracowników za większą aktywność fizyczną i zdrowie każdego dnia. To świetna zabawa, która pozwala zachować dobrą formę i zdrowie! A tymczasem w wielu firmach rozmowa o pogodzie została zastąpiona rozmową o sporcie i ćwiczeniach! <br/> <br/> Ale to nie koniec. Wprowadzenie programu ma bezpośredni pozytywny wpływ na utrzymanie pracowników i rekrutację nowych. Nawiasem mówiąc, cele zrównoważonego rozwoju i społeczna odpowiedzialność biznesu poprawiają, w końcu zdrowie i dobre samopoczucie mają bezpośredni wpływ jako jeden z 17 celów zrównoważonego rozwoju ONZ!'
@@ -46,3 +46,9 @@ pl:
         cta:
             title: 'Bądź aktywny już teraz i pobierz aplikację MySports Rewards Fitness'
             p: 'Czy Ty też chcesz więcej się ruszać i zrobić coś dla swojej kondycji i dobrego samopoczucia? W takim razie zainstaluj już teraz aplikację MySports Rewards i daj sobie motywację do częstszych ćwiczeń w życiu codziennym. Z łatwością możesz tam zapraszać znajomych, łączyć się z pracodawcą i brać udział w wyzwaniach publicznych.'
+        onboarding:
+            company-name: 'Nazwa firmy'
+            company-email: 'Biznesowy adres e-mail'
+            company-success-title: 'Pomyślnie zarejestrowano!'
+            company-success-copy: 'Dziękujemy za wypróbowanie programu MySports Rewards. Natychmiast otrzymasz e-mailem indywidualny link do pobrania naszej aplikacji i będziesz mógł wszystko przetestować do woli.'
+            unknown-error: 'Podczas rejestracji wystąpił nieznany błąd. Skontaktuj się z naszym wsparciem pod adresem <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'

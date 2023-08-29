@@ -3,10 +3,10 @@ en:
         header:
             label: 'MY SPORTS REWARDS'
             title: 'CULTURE CHANGE IS FUN'
-            p: 'MySports Rewards addresses several key challenges for today''s businesses: <br> <br> Our society - and workforce - is aging, the next generation is moving at <strong> 80% to almost 90% </strong> not enough. The <strong> skill shortage </strong> is omnipresent. And sustainability goals call for the implementation of <strong> CSR guidelines </strong> .'
+            p: 'MySports Rewards addresses several important challenges for today''s companies through the motivation to exercise: <br> <br> Our society - and workforce - is aging, the next generation is <strong> 80 to almost 90% </strong> not moving more enough. The <strong> skill shortage </strong> is omnipresent. And sustainability goals call for the implementation of <strong> CSR guidelines </strong> .'
         benefits-header:
             title: 'MySports Rewards starts simply and has a triple effect'
-            p: 'This is where the MySports Rewards Fitness App can help. It motivates and rewards employees for more exercise and health every day. This is fun and keeps you fit and healthy! And in the meantime, in many companies, talking about the weather has been replaced with talking about sport and exercise! <br/> <br/> But it doesn''t stop there. The introduction of the program has a direct positive effect on employee retention and the recruitment of new employees. By the way, sustainability goals and corporate social responsibility improve, after all, health and well-being have a direct effect as one of the 17 UN sustainability goals!'
+            p: 'This is where the MySports Rewards Fitness App can help. It motivates and rewards employees for more exercise and health every day. This is fun and keeps you fit and healthy! And in the meantime, in many companies, talking about the weather has been replaced with talking about sport and exercise! <br/> <br/> But it doesn''t stop there. The introduction of the program has a direct positive effect on employee retention and the recruitment of new employees. Incidentally, sustainability goals and corporate social responsibility improve, after all, health and well-being have a direct effect as one of the 17 UN sustainability goals!'
         benefits:
             -
                 title: 'sport activity'
@@ -46,3 +46,9 @@ en:
         cta:
             title: 'Get active now and download the MySports Rewards Fitness App'
             p: 'Do you also want to move more and do something for your fitness and well-being? Then install the MySports Rewards app now and let yourself be motivated to exercise more in everyday life. You can easily invite your friends there, connect your employer and participate in public challenges.'
+        onboarding:
+            company-name: 'company name'
+            company-email: 'Business email address'
+            company-success-title: 'Registration successful!'
+            company-success-copy: 'Thank you for trying MySports Rewards. You will immediately receive an individual download link for our APP by e-mail and can test everything there to your heart''s content.'
+            unknown-error: 'An unknown error occurred during registration. Please contact our support at <a href="mailto:move@mysports-rewards.com"> move@mysports-rewards.com </a> .'

@@ -3,10 +3,10 @@ de:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'KULTURWANDEL MACHT SPAß'
-            p: 'MySports Rewards adressiert gleich mehrere wichtige Herausforderungen für heutige Unternehmen: <br><br>Unsere Gesellschaft - und Belegschaft - altert, die nächste Generation bewegt sich zu <strong>80 bis fast 90%</strong> nicht mehr genug. Der <strong>Fachkräftmangel</strong> ist allgegenwärtig. Und Nachhalitigkeitsziele fordern zur Umsetzung von <strong>CSR-Richtlinien</strong>.'
+            p: 'MySports Rewards adressiert über die Motivation zu sportlicher Aktivität gleich mehrere wichtige Herausforderungen für heutige Unternehmen: <br><br>Unsere Gesellschaft - und Belegschaft - altert, die nächste Generation bewegt sich zu <strong>80 bis fast 90%</strong> nicht mehr genug. Der <strong>Fachkräftmangel</strong> ist allgegenwärtig. Und Nachhaltigkeitsziele fordern zur Umsetzung von <strong>CSR-Richtlinien</strong>.'
         benefits-header:
             title: 'MySports Rewards startet einfach und wirkt 3-fach'
-            p: 'Hier kann die MySports Rewards Fitness App helfen. Sie motiviert und belohnt die Mitarbeiter Tag für Tag zu mehr Bewegung sowie Gesundheit. Dies macht Spaß und hält fit und gesund! Und ersetzt inzwischen in vielen Unternehmen das Gespräch über das Wetter mit dem Gespräch über Sport und Bewegung!<br/><br/> Doch dabei bleibt es nicht. Die Einführung des Programms wirkt sich direkt positiv auf die Mitarbeiterbindung und die Gewinnung neuer Mitarbeiter aus. Ganz nebenbei verbessern sich verbessern sich Nachhalitigkeitsziele und Corporate-Social-Responsibility, schließlich wirkt Gesundheit und Wohlergehen direkt als eines der 17 UN-Nachhaltigkeitsziele!'
+            p: 'Hier kann die MySports Rewards Fitness App helfen. Sie motiviert und belohnt die Mitarbeiter Tag für Tag zu mehr Bewegung sowie Gesundheit. Dies macht Spaß und hält fit und gesund! Und ersetzt inzwischen in vielen Unternehmen das Gespräch über das Wetter mit dem Gespräch über Sport und Bewegung!<br/><br/> Doch dabei bleibt es nicht. Die Einführung des Programms wirkt sich direkt positiv auf die Mitarbeiterbindung und die Gewinnung neuer Mitarbeiter aus. Ganz nebenbei verbessern sich Nachhaltigkeitsziele und Corporate-Social-Responsibility, schließlich wirkt Gesundheit und Wohlergehen direkt als eines der 17 UN-Nachhaltigkeitsziele!'
         benefits:
             -
                 title: 'Sportliche Aktivität'
@@ -46,3 +46,9 @@ de:
         cta:
             title: 'Jetzt aktiv werden und MySports Rewards Fitness App downloaden'
             p: 'Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App und lass dich zu mehr Bewegung im Alltag motivieren. Du kannst dort ganz einfach deine Freunde einladen, deinen Arbeitgeber verbinden und an öffentlichen Challenges teilnehmen.'
+        onboarding:
+            company-name: Firmenname
+            company-email: 'Geschäftliche E-Mail-Adresse'
+            company-success-title: 'Registrierung erfolgreich!'
+            company-success-copy: 'Vielen Dank, dass du MySports Rewards ausprobieren möchtest. Du erhältst sofort per E-Mail einen individuellen Downloadlink für unsere APP und kannst dort alles nach Herzenslust testen.'
+            unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
