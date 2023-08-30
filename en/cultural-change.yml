@@ -6,9 +6,10 @@ en:
             p: 'MySports Rewards addresses several important challenges for today''s companies through the motivation to exercise: <br> <br> Our society - and workforce - is aging, the next generation is <strong> 80 to almost 90% </strong> not moving more enough. The <strong> skill shortage </strong> is omnipresent. And sustainability goals call for the implementation of <strong> CSR guidelines </strong> .'
             button: 'Test the app without obligation'
         benefits-header:
-            title: 'Companies are directly affected - MySports Rewards helps'
-            p: '<strong> We live in an aging society and the younger generation isn''t moving anymore! </strong> <br> <br> These are challenges that also have a direct impact on companies. MySports Rewards offers a simple solution that also directly saves more money than it costs.'
-            p_copy: 'This is where the MySports Rewards Fitness App can help. It motivates and rewards employees for more exercise and health every day. This is fun and keeps you fit and healthy! And in the meantime, in many companies, talking about the weather has been replaced with talking about sport and exercise! <br/> <br/> But it doesn''t stop there. The introduction of the program has a direct positive effect on employee retention and the recruitment of new employees. Incidentally, sustainability goals and corporate social responsibility improve, after all, health and well-being have a direct effect as one of the 17 UN sustainability goals!'
+            title: 'Companies are directly affected'
+            p: 'We live in an aging society and the next generation isn''t moving anymore! These are challenges that also have a direct impact on companies. MySports Rewards offers a simple solution that also directly saves more money than it costs.'
+            p2: 'With the MySports Rewards Fitness App, we motivate people to exercise more in everyday life. It starts off simple: we reward steps, cycling, and check-ins at sports venues. <br> <br> In companies, it is a workplace health management measure, a benefit program and a CSR tool at the same time. Above all, it''s fun and brings people together. In companies, it replaces talking about the weather with talking about sport and exercise! <br/> <br/> But it doesn''t stop there. The introduction of the program has a direct positive effect on employee retention and the recruitment of new employees. Incidentally, sustainability goals and corporate social responsibility improve, after all, health and well-being have a direct effect as one of the 17 UN sustainability goals! <br> <br> <strong> And it''s worth it: </strong>'
+            title2: 'MySports Reward can help'
         benefits:
             -
                 title: 88%
@@ -17,12 +18,12 @@ en:
                 title_copy: 'sport activity'
             -
                 title: '500 mio'
-                p: 'Between 2020 and 2030 people around the world are at risk of falling ill due to too little exercise!'
+                p: 'Between 2020 and 2030 people around the world are at risk of falling ill due to too little exercise! <br> <br> <a target="_blank" href="https://www.zdf.de/nachrichten/panorama/fitness-unfit-bewegung-deutschland-who-faul-100.html"> Link to source </a>'
                 p_copy: 'Doing sports together with colleagues breaks down hierarchical boundaries and creates a bond. Word gets around. <br> <br> Board members tell us that no other program leads so often to non-binding, positive communication.'
                 title_copy: 'employer branding'
             -
                 title: '63 bil'
-                p: 'Costs alone obesity per year in Germany. That''s more than 60 EUR per month for each individual!'
+                p: 'Costs alone obesity per year in Germany. That''s more than 60 EUR per month for each individual! <br> <br> <a target="_blank" href="http://adipositas-gesellschaft.de/ueber-adipositas/kosten-der-adipositas-in-deutschland/"> Link to source </a>'
                 title_copy: 'CSR reporting obligation'
                 p_copy: 'According to the CSR-RUG, larger companies are obliged to submit a CSR report. In line with the UN Sustainable Development Goals, more physical activity directly supports Goal #3 "Health and Wellbeing". Take advantage of this with MySports Rewards direct.'
         app-headline:

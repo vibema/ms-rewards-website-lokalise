@@ -6,23 +6,24 @@ de:
             p: 'MySports Rewards adressiert über die Motivation zu sportlicher Aktivität gleich mehrere wichtige Herausforderungen für heutige Unternehmen: <br><br>Unsere Gesellschaft - und Belegschaft - altert, die nächste Generation bewegt sich zu <strong>80 bis fast 90%</strong> nicht mehr genug. Der <strong>Fachkräftmangel</strong> ist allgegenwärtig. Und Nachhaltigkeitsziele fordern zur Umsetzung von <strong>CSR-Richtlinien</strong>.'
             button: 'App unverbindlich testen'
         benefits-header:
-            title: 'Unternehmen sind direkt betroffen - MySports Rewards hilft'
-            p: '<strong>Wir leben in einer alternden Gesellschaft und die nachwachsende Generation bewegt sich nicht mehr! </strong><br><br>Dies sind Herausforderungen, die sich auch direkt auf die Unternehmen auswirken. MySports Rewards bietet eine einfache Lösung, die zudem direkt mehr Geld einspart als sie kostet.'
-            p_copy: 'Hier kann die MySports Rewards Fitness App helfen. Sie motiviert und belohnt die Mitarbeiter Tag für Tag zu mehr Bewegung sowie Gesundheit. Dies macht Spaß und hält fit und gesund! Und ersetzt inzwischen in vielen Unternehmen das Gespräch über das Wetter mit dem Gespräch über Sport und Bewegung!<br/><br/> Doch dabei bleibt es nicht. Die Einführung des Programms wirkt sich direkt positiv auf die Mitarbeiterbindung und die Gewinnung neuer Mitarbeiter aus. Ganz nebenbei verbessern sich Nachhaltigkeitsziele und Corporate-Social-Responsibility, schließlich wirkt Gesundheit und Wohlergehen direkt als eines der 17 UN-Nachhaltigkeitsziele!'
+            title: 'Unternehmen sind direkt betroffen'
+            p: 'Wir leben in einer alternden Gesellschaft und die nachwachsende Generation bewegt sich nicht mehr! Dies sind Herausforderungen, die sich auch direkt auf die Unternehmen auswirken. MySports Rewards bietet eine einfache Lösung, die zudem direkt mehr Geld einspart, als sie kostet.'
+            p2: 'Mit der MySports Rewards Fitness App motivieren wir Menschen zu mehr Bewegung im Alltag. Dies beginnt ganz einfach: wir belohnen für Schritte, Radfahren und Check-Ins in Sportstätten. <br><br>In Unternehmen ist es damit gleichzeitig eine BGM-Maßnahme, ein Benefit-Programm und ein CSR-Tool. Vor allem macht es Spaß und schweißt zusammen. Es ersetzt in Unternehmen das Gespräch über das Wetter mit dem Gespräch über Sport und Bewegung!<br/><br/>Doch dabei bleibt es nicht. Die Einführung des Programms wirkt sich direkt positiv auf die Mitarbeiterbindung und die Gewinnung neuer Mitarbeiter aus. Ganz nebenbei verbessern sich Nachhaltigkeitsziele und Corporate-Social-Responsibility, schließlich wirkt Gesundheit und Wohlergehen direkt als eines der 17 UN-Nachhaltigkeitsziele!<br><br><strong>Und es lohnt sich: </strong>'
+            title2: 'MySports Reward kann helfen'
         benefits:
             -
                 title: 88%
-                p: 'Der Mädchen zwischen 11 und 17 und 80% der Jungen bewegen sich nicht genug laut WHO Vorgabe!'
+                p: 'Der Mädchen zwischen 11 und 17 und 80% der Jungen bewegen sich nicht genug laut WHO Vorgabe!<br><br><a target="_blank" href="https://www.spiegel.de/gesundheit/ernaehrung/fitness-und-sport-who-stellt-schlechtes-zeugnis-fuer-deutschland-aus-a-a48f002c-a678-4964-9e87-9da48cf15770">Link zur Quelle</a>'
                 p_copy: 'Sie steigert nicht nur Gesundheit und Wohlbefinden. Sie wirkt auch direkt gegen "Zivilisationskrankheiten" wie Diabetes und Adipositas. Für ältere Mitarbeiter, speziell aber auch für die 80-90% der Jugendlichen die sich nicht genug bewegen, ist dies entscheidend. Unternehmen haben im Sinne von CSR-Richtlinien hier eine Mitverantwortung.'
                 title_copy: 'Sportliche Aktivität'
             -
                 title: '500 Mio'
-                p: 'Menschen drohen zwischen 2020 und 2030 weltweit aufgrund von zu wenig Bewegung zu erkranken!'
+                p: 'Menschen drohen zwischen 2020 und 2030 weltweit aufgrund von zu wenig Bewegung zu erkranken!<br><br><a target="_blank" href="https://www.zdf.de/nachrichten/panorama/fitness-unfit-bewegung-deutschland-who-faul-100.html">Link zur Quelle</a>'
                 p_copy: 'Gemeinsam mit den Kollegen Sport zu machen baut Hierarchiegrenzen ab und schweißt zusammen. Dies spricht sich herum. <br><br>Uns berichten Vorstände, dass kein anderes Programm so häufig zu unverbindlicher, positiver Kommunikation führt.'
                 title_copy: 'Employer Branding'
             -
                 title: '63 Mrd'
-                p: 'Kostet alleine Adipositas pro Jahr in Deutschland. Das sind mehr als 60 EUR Kosten pro Monat für jeden Einzelnen!'
+                p: 'Kostet alleine Adipositas pro Jahr in Deutschland. Das sind mehr als 60 EUR Kosten pro Monat für jeden Einzelnen!<br><br><a target="_blank" href="http://adipositas-gesellschaft.de/ueber-adipositas/kosten-der-adipositas-in-deutschland/">Link zur Quelle</a>'
                 title_copy: CSR-Berichtspflicht
                 p_copy: 'Größere Unternehmen sind nach CSR-RUG zu einem CSR-Bericht verpflichtet. Im Sinne der UN-Nachhaltigkeitsziele unterstützt mehr sportliche Aktivität direkt das Ziel #3 "Gesundheit und Wohlergehen". Nutzen sie dies mit MySports Rewards direkt .'
         app-headline:

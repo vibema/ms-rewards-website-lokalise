@@ -6,9 +6,10 @@ pl:
             p: 'Program MySports Rewards rozwiązuje kilka ważnych wyzwań stojących przed dzisiejszymi firmami poprzez motywację do ćwiczeń: <br> <br> Nasze społeczeństwo – i siła robocza – starzeją się, następne pokolenie ma <strong> 80 do prawie 90% </strong> i nie porusza się wystarczająco dużo . <strong> Niedobór umiejętności </strong> jest wszechobecny. Cele zrównoważonego rozwoju wymagają wdrożenia <strong> wytycznych CSR </strong> .'
             button: 'Wypróbuj bezpłatnie'
         benefits-header:
-            title: 'Firmy są dotknięte bezpośrednio – pomaga MySports Rewards'
-            p: '<strong> Żyjemy w starzejącym się społeczeństwie i młodsze pokolenie już się nie rusza! </strong> <br> <br> To wyzwania, które mają bezpośredni wpływ także na firmy. MySports Rewards oferuje proste rozwiązanie, które bezpośrednio pozwala zaoszczędzić więcej pieniędzy niż kosztuje.'
-            p_copy: 'Tutaj może pomóc aplikacja MySports Rewards Fitness. Motywuje i nagradza pracowników za większą aktywność fizyczną i zdrowie każdego dnia. To świetna zabawa, która pozwala zachować dobrą formę i zdrowie! A tymczasem w wielu firmach rozmowa o pogodzie została zastąpiona rozmową o sporcie i ćwiczeniach! <br/> <br/> Ale to nie koniec. Wprowadzenie programu ma bezpośredni pozytywny wpływ na utrzymanie pracowników i rekrutację nowych. Nawiasem mówiąc, cele zrównoważonego rozwoju i społeczna odpowiedzialność biznesu poprawiają, w końcu zdrowie i dobre samopoczucie mają bezpośredni wpływ jako jeden z 17 celów zrównoważonego rozwoju ONZ!'
+            title: 'Firmy są dotknięte bezpośrednio'
+            p: 'Żyjemy w starzejącym się społeczeństwie, a następne pokolenie już się nie rusza! To wyzwania, które mają bezpośredni wpływ także na przedsiębiorstwa. MySports Rewards oferuje proste rozwiązanie, które bezpośrednio pozwala zaoszczędzić więcej pieniędzy niż kosztuje.'
+            p2: 'Dzięki aplikacji MySports Rewards Fitness motywujemy ludzi do częstszych ćwiczeń w życiu codziennym. Zaczyna się prosto: nagradzamy kroki, jazdę na rowerze i meldowanie się w obiektach sportowych. <br> <br> W firmach jest to jednocześnie środek zarządzania higieną pracy, program świadczeń i narzędzie CSR. Przede wszystkim jest to świetna zabawa i łączy ludzi. W firmach zastępuje to rozmowę o pogodzie rozmową o sporcie i ćwiczeniach! <br/> <br/> Ale to nie koniec. Wprowadzenie programu ma bezpośredni pozytywny wpływ na utrzymanie pracowników i rekrutację nowych. Nawiasem mówiąc, cele zrównoważonego rozwoju i społeczna odpowiedzialność biznesu poprawiają, w końcu zdrowie i dobre samopoczucie mają bezpośredni wpływ jako jeden z 17 celów zrównoważonego rozwoju ONZ! <br> <br> <strong> I warto: </strong>'
+            title2: 'Nagroda MySports może Ci pomóc'
         benefits:
             -
                 title: 88%
@@ -17,12 +18,12 @@ pl:
                 title_copy: 'aktywność sportowa'
             -
                 title: '500 mio'
-                p: 'W latach 2020–2030 ludzie na całym świecie będą narażeni na ryzyko zachorowania z powodu zbyt małej ilości ćwiczeń!'
+                p: 'W latach 2020–2030 ludzie na całym świecie będą narażeni na ryzyko zachorowania z powodu zbyt małej ilości ćwiczeń! <br> <br> <a target="_blank" href="https://www.zdf.de/nachrichten/panorama/fitness-unfit-bewegung-deutschland-who-faul-100.html"> Link do źródła </a>'
                 p_copy: 'Wspólne uprawianie sportu z kolegami przełamuje hierarchiczne granice i tworzy więź. Wieść się rozchodzi. <br> <br> Członkowie Zarządu mówią nam, że żaden inny program nie prowadzi tak często do niewiążącej, pozytywnej komunikacji.'
                 title_copy: 'branding pracodawcy'
             -
                 title: '63 mrd'
-                p: 'Koszty samej otyłości rocznie w Niemczech. To ponad 60 EUR miesięcznie na każdą osobę!'
+                p: 'Koszty samej otyłości rocznie w Niemczech. To ponad 60 EUR miesięcznie na każdą osobę! <br> <br> <a target="_blank" href="http://adipositas-gesellschaft.de/ueber-adipositas/kosten-der-adipositas-in-deutschland/"> Link do źródła </a>'
                 title_copy: 'Obowiązek raportowania CSR'
                 p_copy: 'Zgodnie z CSR-RUG większe firmy mają obowiązek złożenia raportu CSR. Zgodnie z Celami Zrównoważonego Rozwoju ONZ, większa aktywność fizyczna bezpośrednio wspiera Cel nr 3 „Zdrowie i dobre samopoczucie”. Skorzystaj z tego bezpośrednio dzięki MySports Rewards.'
         app-headline:
