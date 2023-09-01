@@ -3,7 +3,7 @@ en:
         header:
             label: 'MY SPORTS REWARDS'
             title: 'CULTURE CHANGE IS FUN'
-            p: 'MySports Rewards motivates you to be physically active. Users are rewarded directly and companies save a full monthly salary for each active employee each year. And in the end, society as a whole benefits. That''s what we call a <strong> cultural change </strong> that''s also fun! Test the app right now. Completely non-binding.'
+            p: 'MySports Rewards motivates you to be physically active. Users are rewarded directly and companies save a full monthly salary for each active employee each year. And in the end, society as a whole benefits. That''s what we call a <strong> change </strong> ''s also fun! Test the app right now. Completely non-binding.'
             button: 'Test the app without obligation'
         benefits-header:
             title: 'Companies are directly affected'
@@ -47,7 +47,7 @@ en:
                 p: 'Teams then form themselves. There are those who take a little walk during their lunch break. At traffic lights you meet those who also cycle to work. And in the club there are colleagues who do sports together.'
         testimonials:
             -
-                quote: 'In no other program was I, as a board member, addressed so openly, positively and directly.'
+                quote: 'In no other program have I, as a board member, been addressed so openly, positively and directly. <br> <br> I didn''t expect that.'
             -
                 quote: 'Of course, we demand full commitment from our employees, so it''s only fair if we give our all as an employer.'
             -
