@@ -3,24 +3,24 @@ en:
         header:
             label: 'MY SPORTS REWARDS'
             title: 'CULTURE CHANGE IS FUN'
-            p: 'MySports Rewards addresses several important challenges for today''s companies through the motivation to exercise: <br> <br> Our society - and workforce - is aging, the next generation is <strong> 80 to almost 90% </strong> not moving more enough. The <strong> skill shortage </strong> is omnipresent. And sustainability goals call for the implementation of <strong> CSR guidelines </strong> .'
+            p: 'MySports Rewards motivates you to be physically active. Users are rewarded directly and companies save a full monthly salary for each active employee each year. And in the end, society as a whole benefits. That''s what we call a <strong> cultural change </strong> that''s also fun!'
             button: 'Test the app without obligation'
         benefits-header:
             title: 'Companies are directly affected'
             p: 'We live in an aging society and the next generation isn''t moving anymore! These are challenges that also have a direct impact on companies. MySports Rewards offers a simple solution that also directly saves more money than it costs.'
-            p2: 'With the MySports Rewards Fitness App, we motivate people to exercise more in everyday life. It starts off simple: we reward steps, cycling, and check-ins at sports venues. <br> <br> In companies, it is a workplace health management measure, a benefit program and a CSR tool at the same time. Above all, it''s fun and brings people together. In companies, it replaces talking about the weather with talking about sport and exercise! <br/> <br/> But it doesn''t stop there. The introduction of the program has a direct positive effect on employee retention and the recruitment of new employees. Incidentally, sustainability goals and corporate social responsibility improve, after all, health and well-being have a direct effect as one of the 17 UN sustainability goals! <br> <br> <strong> And it''s worth it: </strong>'
-            title2: 'MySports Reward can help'
+            p2: 'Companies can save money directly. A full monthly salary per active employee every year! <br> <br> It works like this: absenteeism falls by 20-30% for active BGM users, and fluctuation is reduced by up to 40%. If you calculate that, there is incredible potential. <br> <br> Especially since the employees also benefit from it, it''s not just fun and keeps you healthy. With MySports Rewards you will also be rewarded with STARS. <br> <br> The company also benefits in the areas of CSR (health is #3 of the 17 sustainability goals), employer branding and more. Above all, it''s fun and brings people together. In companies, it replaces conversations about the weather with conversations about sport and exercise! <br/> <br/> Last but not least, the company makes a valuable contribution to society. Word of this gets around and creates additional networks in the region. <br><br>Calculate for yourself what is the best solution for your company: '
+            title2: Win-win-win
         benefits:
             -
                 title: 88%
                 p: 'Girls between 11 and 17 and 80% of boys do not exercise enough according to WHO guidelines!'
                 p_copy: 'It not only increases health and well-being. It also acts directly against "diseases of civilization" such as diabetes and obesity. This is crucial for older employees, but especially for the 80-90% of young people who do not exercise enough. In terms of CSR guidelines, companies share responsibility here.'
-                title_copy: 'sport activity'
+                title_copy: 'Sport activity'
             -
                 title: '500 mio'
                 p: 'Between 2020 and 2030 people around the world are at risk of falling ill due to too little exercise! <br> <br> <a target="_blank" href="https://www.zdf.de/nachrichten/panorama/fitness-unfit-bewegung-deutschland-who-faul-100.html"> Link to source </a>'
                 p_copy: 'Doing sports together with colleagues breaks down hierarchical boundaries and creates a bond. Word gets around. <br> <br> Board members tell us that no other program leads so often to non-binding, positive communication.'
-                title_copy: 'employer branding'
+                title_copy: 'Employer branding'
             -
                 title: '63 bil'
                 p: 'Costs alone obesity per year in Germany. That''s more than 60 EUR per month for each individual! <br> <br> <a target="_blank" href="http://adipositas-gesellschaft.de/ueber-adipositas/kosten-der-adipositas-in-deutschland/"> Link to source </a>'
