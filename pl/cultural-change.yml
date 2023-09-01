@@ -3,7 +3,7 @@ pl:
         header:
             label: 'MOJE NAGRODY SPORTOWE'
             title: 'ZMIANA KULTURY JEST ZABAWĄ'
-            p: 'Program MySports Rewards motywuje Cię do aktywności fizycznej. Użytkownicy są nagradzani bezpośrednio, a firmy co roku oszczędzają pełne miesięczne wynagrodzenie na każdego aktywnego pracownika. I w ostatecznym rozrachunku zyskuje na tym całe społeczeństwo. To właśnie nazywamy zmianą <strong> </strong> daje także zabawę! Przetestuj aplikację już teraz. Całkowicie niewiążący.'
+            p: 'Program MySports Rewards motywuje Cię do aktywności fizycznej. Użytkownicy są nagradzani bezpośrednio, a firmy co roku oszczędzają pełne miesięczne wynagrodzenie na każdego aktywnego pracownika. I w ostatecznym rozrachunku zyskuje na tym całe społeczeństwo. To właśnie nazywamy zmianą <strong> </strong> daje także zabawę!'
             button: 'Wypróbuj bezpłatnie'
         benefits-header:
             title: 'Firmy są dotknięte bezpośrednio'
