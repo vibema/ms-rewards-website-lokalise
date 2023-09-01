@@ -3,7 +3,7 @@ pl:
         header:
             label: 'MOJE NAGRODY SPORTOWE'
             title: 'ZMIANA KULTURY JEST ZABAWĄ'
-            p: 'Program MySports Rewards motywuje Cię do aktywności fizycznej. Użytkownicy są nagradzani bezpośrednio, a firmy co roku oszczędzają pełne miesięczne wynagrodzenie na każdego aktywnego pracownika. I w ostatecznym rozrachunku zyskuje na tym całe społeczeństwo. To właśnie nazywamy <strong> zmianą kulturową </strong> , która daje też zabawę!'
+            p: 'Program MySports Rewards motywuje Cię do aktywności fizycznej. Użytkownicy są nagradzani bezpośrednio, a firmy co roku oszczędzają pełne miesięczne wynagrodzenie na każdego aktywnego pracownika. I w ostatecznym rozrachunku zyskuje na tym całe społeczeństwo. To właśnie nazywamy <strong> zmianą kulturową </strong> , która daje też zabawę! Przetestuj aplikację już teraz. Całkowicie niewiążący.'
             button: 'Wypróbuj bezpłatnie'
         benefits-header:
             title: 'Firmy są dotknięte bezpośrednio'
@@ -52,9 +52,6 @@ pl:
                 quote: 'Oczywiście od naszych pracowników wymagamy pełnego zaangażowania, dlatego sprawiedliwe będzie tylko wtedy, gdy jako pracodawca damy z siebie wszystko.'
             -
                 quote: 'Jako dyrektor zarządzający brałem w nim udział bardziej dla zabawy. Teraz biorę udział w codziennym wyzwaniu kolarskim z uczestnikami i faktycznie śledzę większość kroków w weekendy.'
-        cta:
-            title: 'Bądź aktywny już teraz i pobierz aplikację MySports Rewards Fitness'
-            p: 'Czy Ty też chcesz więcej się ruszać i zrobić coś dla swojej kondycji i dobrego samopoczucia? W takim razie zainstaluj już teraz aplikację MySports Rewards i daj sobie motywację do częstszych ćwiczeń w życiu codziennym. Z łatwością możesz tam zapraszać znajomych, łączyć się z pracodawcą i brać udział w wyzwaniach publicznych.'
         onboarding:
             company-name: 'Nazwa firmy'
             company-email: 'Biznesowy adres e-mail'
@@ -64,3 +61,9 @@ pl:
         example-content:
             title: 'Tak zaczyna się program MySports Rewards'
             copy: 'Rozpoczęcie pracy jest łatwe. W modelu elastycznym wybierana jest po prostu kwota, za pomocą której firma wspiera zmianę kultury.'
+        footer:
+            button-secondary: 'Skontaktuj się z nami'
+            p2: 'Lub zacznij bezpośrednio i bez zobowiązań, testując własny program firmowy na portalu pracodawcy. Możesz rozpocząć pracę z wybranymi użytkownikami w swojej firmie w ciągu 5 minut.'
+            button: 'Rejestracja w portalu pracodawcy'
+            p: 'Przekonaj się jakie to proste i umów się na niezobowiązującą rozmowę.'
+            title: 'Testuj bezpośrednio jako pracodawca!'

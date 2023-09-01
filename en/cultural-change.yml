@@ -3,7 +3,7 @@ en:
         header:
             label: 'MY SPORTS REWARDS'
             title: 'CULTURE CHANGE IS FUN'
-            p: 'MySports Rewards motivates you to be physically active. Users are rewarded directly and companies save a full monthly salary for each active employee each year. And in the end, society as a whole benefits. That''s what we call a <strong> cultural change </strong> that''s also fun!'
+            p: 'MySports Rewards motivates you to be physically active. Users are rewarded directly and companies save a full monthly salary for each active employee each year. And in the end, society as a whole benefits. That''s what we call a <strong> cultural change </strong> that''s also fun! Test the app right now. Completely non-binding.'
             button: 'Test the app without obligation'
         benefits-header:
             title: 'Companies are directly affected'
@@ -52,9 +52,6 @@ en:
                 quote: 'Of course, we demand full commitment from our employees, so it''s only fair if we give our all as an employer.'
             -
                 quote: 'As managing director, I took part more for fun. I''m now in a daily cycling challenge with the trainees and actually track most of the steps at the weekend.'
-        cta:
-            title: 'Get active now and download the MySports Rewards Fitness App'
-            p: 'Do you also want to move more and do something for your fitness and well-being? Then install the MySports Rewards app now and let yourself be motivated to exercise more in everyday life. You can easily invite your friends there, connect your employer and participate in public challenges.'
         onboarding:
             company-name: 'company name'
             company-email: 'Business email address'
@@ -64,3 +61,9 @@ en:
         example-content:
             title: 'This is how MySports Rewards starts'
             copy: 'Getting started is easy. With the flex model, an amount is simply chosen with which the company supports the culture change.'
+        footer:
+            button-secondary: 'Contact us now'
+            p2: 'Or start directly and without obligation by testing your own company program in the employer portal. Within 5 minutes you can get started with a selection of users in your own company.'
+            button: 'Registration in the employer portal'
+            p: 'As an employer, try the app out for yourself and let yourself be inspired.'
+            title: 'Test directly as an employer!'

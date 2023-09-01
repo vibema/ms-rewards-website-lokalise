@@ -3,7 +3,7 @@ de:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'KULTURWANDEL MACHT SPAß'
-            p: 'MySports Rewards motiviert zu sportlicher Aktivität. Die Nutzer werden direkt belohnt, die Firmen sparen pro Jahr ein komplettes Monatsgehalt für jeden aktiven Mitarbeiter. Und am Ende profitiert die Gesellschaft als Ganzes. Das nennen wir eine <strong>Kulturwandel</strong> der zudem noch Spaß macht! '
+            p: 'MySports Rewards motiviert zu sportlicher Aktivität. Die Nutzer werden direkt belohnt, die Firmen sparen pro Jahr ein komplettes Monatsgehalt für jeden aktiven Mitarbeiter. Und am Ende profitiert die Gesellschaft als Ganzes. Das nennen wir eine <strong>Kulturwandel</strong> der zudem noch Spaß macht!  Teste die App jetzt gleich. Komplett unverbindlich.'
             button: 'App unverbindlich testen'
         benefits-header:
             title: 'Unternehmen sind direkt betroffen'
@@ -52,9 +52,6 @@ de:
                 quote: 'Natürlich verlangen wir vollen Einsatz von unseren Mitarbeitern, es ist dann nur fair, wenn wir als Arbeitgeber genauso alles geben.'
             -
                 quote: 'Ich habe als Geschäftsführer eher zum Spaß mitgemacht. Inzwischen bin ich in einer täglichen Radfahr-Challenge mit den Azubis und tracke eigentlich am Wochenende die meisten Schritte.'
-        cta:
-            title: 'Jetzt aktiv werden und MySports Rewards Fitness App downloaden'
-            p: 'Du willst dich auch mehr bewegen und etwas für deine Fitness und dein Wohlbefinden tun? Dann installiere dir jetzt die MySports Rewards App und lass dich zu mehr Bewegung im Alltag motivieren. Du kannst dort ganz einfach deine Freunde einladen, deinen Arbeitgeber verbinden und an öffentlichen Challenges teilnehmen.'
         onboarding:
             company-name: Firmenname
             company-email: 'Geschäftliche E-Mail-Adresse'
@@ -64,3 +61,9 @@ de:
         example-content:
             title: 'So startet MySports Rewards'
             copy: 'Der Start ist ganz einfach. Über das Flex-Modell wird einfach ein Betrag gewählt, mit dem das Unternehmen den Kulturwandel unterstützt.'
+        footer:
+            button-secondary: 'Jetzt beraten lassen'
+            p2: 'Oder starte direkt und unverbindlich mit dem Test eines eigenen Firmenprogramms im Arbeitgeberportal. Binnen 5 Minuten kann man mit einer Auswahl an Nutzer im eigenen Unternehmen loslegen.'
+            button: 'Registrierung im Arbeitgeberportal'
+            p: 'Probiere die App als Arbeitgeber am besten direkt selbst aus und lasse dich begeistern.'
+            title: 'Als Arbeitgeber direkt testen!'
