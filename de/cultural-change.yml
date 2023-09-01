@@ -3,7 +3,7 @@ de:
         header:
             label: 'MYSPORTS REWARDS'
             title: 'KULTURWANDEL MACHT SPAß'
-            p: 'MySports Rewards motiviert zu sportlicher Aktivität. Die Nutzer werden direkt belohnt, die Firmen sparen pro Jahr ein komplettes Monatsgehalt für jeden aktiven Mitarbeiter. Und am Ende profitiert die Gesellschaft als Ganzes. Das nennen wir eine <strong>Kulturwandel</strong> der zudem noch Spaß macht!  Teste die App jetzt gleich. Komplett unverbindlich.'
+            p: 'MySports Rewards motiviert zu sportlicher Aktivität. Die Nutzer werden direkt belohnt, die Firmen sparen pro Jahr ein komplettes Monatsgehalt für jeden aktiven Mitarbeiter. Und am Ende profitiert die Gesellschaft als Ganzes. Das nennen wir einen Kultur<strong>wandel</strong> der zudem noch Spaß macht!  Teste die App jetzt gleich. Komplett unverbindlich.'
             button: 'App unverbindlich testen'
         benefits-header:
             title: 'Unternehmen sind direkt betroffen'
@@ -47,7 +47,7 @@ de:
                 p: 'Teams bilden sich anschließend ganz von alleine. Es gibt die, die in der Mittagspause einen kleinen Spaziergang machen. An der Ampel trifft man die, die auch mit dem Rad zur Arbeit fahren. Und im Verein finden sich Kollegen die zusammen Sport machen.'
         testimonials:
             -
-                quote: 'Bei keinem anderen Programm wurde ich als Vorstand so offen, positiv und direkt angesprochen.'
+                quote: 'Bei keinem anderen Programm wurde ich als Vorstand so offen, positiv und direkt angesprochen.<br><br>Das hätte ich nicht erwartet.'
             -
                 quote: 'Natürlich verlangen wir vollen Einsatz von unseren Mitarbeitern, es ist dann nur fair, wenn wir als Arbeitgeber genauso alles geben.'
             -

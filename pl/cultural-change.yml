@@ -3,7 +3,7 @@ pl:
         header:
             label: 'MOJE NAGRODY SPORTOWE'
             title: 'ZMIANA KULTURY JEST ZABAWĄ'
-            p: 'Program MySports Rewards motywuje Cię do aktywności fizycznej. Użytkownicy są nagradzani bezpośrednio, a firmy co roku oszczędzają pełne miesięczne wynagrodzenie na każdego aktywnego pracownika. I w ostatecznym rozrachunku zyskuje na tym całe społeczeństwo. To właśnie nazywamy <strong> zmianą kulturową </strong> , która daje też zabawę! Przetestuj aplikację już teraz. Całkowicie niewiążący.'
+            p: 'Program MySports Rewards motywuje Cię do aktywności fizycznej. Użytkownicy są nagradzani bezpośrednio, a firmy co roku oszczędzają pełne miesięczne wynagrodzenie na każdego aktywnego pracownika. I w ostatecznym rozrachunku zyskuje na tym całe społeczeństwo. To właśnie nazywamy zmianą <strong> </strong> daje także zabawę! Przetestuj aplikację już teraz. Całkowicie niewiążący.'
             button: 'Wypróbuj bezpłatnie'
         benefits-header:
             title: 'Firmy są dotknięte bezpośrednio'
@@ -47,7 +47,7 @@ pl:
                 p: 'Następnie zespoły tworzą się same. Są tacy, którzy podczas przerwy na lunch wybierają się na mały spacer. Na światłach spotykasz tych, którzy również dojeżdżają rowerem do pracy. A w klubie są koledzy, którzy razem uprawiają sport.'
         testimonials:
             -
-                quote: 'W żadnym innym programie nie zwrócono się do mnie, jako członka zarządu, tak otwarcie, pozytywnie i bezpośrednio.'
+                quote: 'W żadnym innym programie do mnie, jako członka zarządu, nie zwrócono się tak otwarcie, pozytywnie i bezpośrednio. <br> <br> Tego się nie spodziewałem.'
             -
                 quote: 'Oczywiście od naszych pracowników wymagamy pełnego zaangażowania, dlatego sprawiedliwe będzie tylko wtedy, gdy jako pracodawca damy z siebie wszystko.'
             -
