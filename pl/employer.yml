@@ -67,10 +67,10 @@ pl:
             -
                 quote: 'MySports Rewards można łatwo włączyć do codziennej rutyny większości pracowników. W zasadzie spełnia oczekiwania wszystkich, nie stawiając nikogo w gorszej sytuacji. Zarówno młodzi, jak i starsi koledzy mogą w równym stopniu zdobywać punkty premiowe dzięki swojej aktywności sportowej.'
         footer:
-            title: 'TWOJA FIRMA RÓWNIEŻ CHCIAŁABY SKORZYSTAĆ Z MYSPORTS REWARDS?'
+            title: 'Testuj bezpośrednio jako pracodawca!'
             p: 'Przekonaj się jakie to proste i umów się na niezobowiązującą rozmowę.'
-            button: ''
-            p2: ''
+            button: 'Rejestracja w portalu pracodawcy'
+            p2: 'Lub zacznij bezpośrednio i bez zobowiązań, testując własny program firmowy na portalu pracodawcy. Możesz rozpocząć pracę z wybranymi użytkownikami w swojej firmie w ciągu 5 minut.'
             button-secondary: 'Skontaktuj się z nami'
         onboarding:
             company-name: 'Nazwa firmy'
