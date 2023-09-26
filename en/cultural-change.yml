@@ -70,31 +70,31 @@ en:
         preise:
             p: "We understand only too well how stubborn our weaker self can be. But we have a clever solution for you: Reward yourself when you achieve your goals. Take advantage of our outstanding reward packages, specifically designed to invest in your health and fitness. With every activity you collect valuable STARS, which you can then exchange for fantastic rewards in our Reward Shop. <br> <br>\n Stop procrastinating and reward yourself for your success! Discover our Premium+ offer now and let yourself be pampered for your efforts."
             hl: 'Pamper yourself with our exclusive MySports Rewards PLUS offer.'
-            small: ''
-            extra: ''
-            button: ''
+            small: 'including €2.50 platform fee'
+            extra: 'Service packages, net, monthly, per participant'
+            button: Buy
         pakete:
             -
-                size: ''
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: ''
+                size: package
+                preis: '1,500 STARS'
+                benefit-one: 'Costs €19.17/month'
+                benefit-two: 'including platform fee and 19% VAT.'
+                benefit-three: 'corresponds to the premium value of €15'
             -
-                size: ''
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: ''
+                size: package
+                preis: '2,500 STARS'
+                benefit-one: 'Costs €30.67/month'
+                benefit-two: 'including platform fee and 19% VAT.'
+                benefit-three: 'corresponds to the premium value of €25'
             -
-                size: ''
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: ''
+                size: package
+                preis: '3,500 STARS'
+                benefit-one: 'Costs €41.16/month'
+                benefit-two: 'including platform fee and 19% VAT.'
+                benefit-three: 'corresponds to the premium value of €35'
             -
-                size: ''
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: ''
+                size: package
+                preis: '5,000 STARS'
+                benefit-one: 'Costs €54.17/month'
+                benefit-two: 'including platform fee and 19% VAT.'
+                benefit-three: 'corresponds to the premium value of €50'
