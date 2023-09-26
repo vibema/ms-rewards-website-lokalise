@@ -70,3 +70,31 @@ de:
         preise:
             p: "Wir verstehen nur allzu gut, wie hartnäckig der innere Schweinehund sein kann. Doch wir haben eine clevere Lösung für dich: Belohne dich selbst, wenn du deine Ziele erreichst. Nutze dazu unsere herausragenden Belohnungspakete, die speziell darauf ausgerichtet sind, in deine Gesundheit und Fitness zu investieren. Mit jeder Aktivität sammelst du wertvolle STARS, die du dann in unserem Reward Shop gegen fantastische Prämien eintauschen kannst.<br><br>\nMach Schluss mit dem Aufschieben und belohne dich für deinen Erfolg! Entdecke jetzt unser Premium+ Angebot und lass dich für deine Anstrengungen gebührend verwöhnen."
             hl: 'Verwöhne dich selbst mit unserem exklusiven MySports Rewards PLUS Angebot.'
+            small: 'inkl. 2,50€ Plattform Gebühr'
+            extra: 'Leistungspakete, netto, monatlich, je Teilnehmer'
+            button: 'Jetzt kostenfrei testen'
+        pakete:
+            -
+                size: Paket
+                preis: '1.500 STARS'
+                benefit-one: 'Kosten 19,17€/Monat'
+                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
+                benefit-three: 'entspricht Prämienwert von 15€'
+            -
+                size: Paket
+                preis: '2.500 STARS'
+                benefit-one: 'Kosten 30,67€/Monat'
+                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
+                benefit-three: 'entspricht Prämienwert von 25€'
+            -
+                size: Paket
+                preis: '3.500 STARS'
+                benefit-one: 'Kosten 41,16€/Monat'
+                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
+                benefit-three: 'entspricht Prämienwert von 35€'
+            -
+                size: Paket
+                preis: '5.000 STARS'
+                benefit-one: 'Kosten 54,17€/Monat'
+                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
+                benefit-three: 'entspricht Prämienwert von 50€'
