@@ -10,8 +10,6 @@ en:
             p: 'We live in an aging society and the next generation isn''t moving anymore! These are challenges that also have a direct impact on companies. MySports Rewards offers a simple solution that also directly saves more money than it costs.'
             p2: "Companies can save money directly - and on a large scale! - Up to a full monthly salary per active employee each year. <br> <br>\n The secret? Absenteeism falls by a whopping 20-30% among active users of our offer, while fluctuation is reduced by up to 40%. The potential that opens up here is simply impressive. <br> <br>\n But that is not all. The employees also benefit from this, and not just in terms of fun and health. Thanks to MySports Rewards, you will also be rewarded with STARS and can exchange them for exciting vouchers in our shop. <br> <br>\n And last but not least, your company makes a valuable contribution to society, which quickly gets around in the region and ensures additional networking."
             title2: Win-win-win
-            p3: "We understand only too well how stubborn our weaker self can be. But we have a clever solution for you: Reward yourself when you achieve your goals. Take advantage of our outstanding reward packages, specifically designed to invest in your health and fitness. With every activity you collect valuable STARS, which you can then exchange for fantastic rewards in our Reward Shop. <br> <br>\n Stop procrastinating and reward yourself for your success! Discover our Premium+ offer now and let yourself be pampered for your efforts."
-            title3: 'Pamper yourself with our exclusive MySports Rewards PLUS offer.'
         benefits:
             -
                 title: 88%
@@ -69,3 +67,6 @@ en:
             button: 'Registration in the employer portal'
             p: 'As an employer, try the app out for yourself and let yourself be inspired.'
             title: 'Test directly as an employer!'
+        preise:
+            p: "We understand only too well how stubborn our weaker self can be. But we have a clever solution for you: Reward yourself when you achieve your goals. Take advantage of our outstanding reward packages, specifically designed to invest in your health and fitness. With every activity you collect valuable STARS, which you can then exchange for fantastic rewards in our Reward Shop. <br> <br>\n Stop procrastinating and reward yourself for your success! Discover our Premium+ offer now and let yourself be pampered for your efforts."
+            hl: 'Pamper yourself with our exclusive MySports Rewards PLUS offer.'
