@@ -70,3 +70,31 @@ pl:
         preise:
             p: "Aż za dobrze rozumiemy, jak uparte może być nasze słabsze ja. Mamy jednak dla Ciebie sprytne rozwiązanie: nagradzaj się, gdy osiągniesz swoje cele. Skorzystaj z naszych wyjątkowych pakietów nagród, zaprojektowanych specjalnie z myślą o inwestowaniu w Twoje zdrowie i kondycję. Z każdą aktywnością zbierasz cenne GWIAZDKI, które możesz następnie wymienić na fantastyczne nagrody w naszym sklepie z nagrodami. <br> <br>\n Przestań zwlekać i nagradzaj się za swój sukces! Odkryj już teraz naszą ofertę Premium+ i pozwól się rozpieszczać swoimi wysiłkami."
             hl: 'Odpręż się dzięki naszej ekskluzywnej ofercie MySports Rewards PLUS.'
+            small: ''
+            extra: ''
+            button: ''
+        pakete:
+            -
+                size: ''
+                preis: ''
+                benefit-one: ''
+                benefit-two: ''
+                benefit-three: ''
+            -
+                size: ''
+                preis: ''
+                benefit-one: ''
+                benefit-two: ''
+                benefit-three: ''
+            -
+                size: ''
+                preis: ''
+                benefit-one: ''
+                benefit-two: ''
+                benefit-three: ''
+            -
+                size: ''
+                preis: ''
+                benefit-one: ''
+                benefit-two: ''
+                benefit-three: ''

@@ -70,3 +70,31 @@ en:
         preise:
             p: "We understand only too well how stubborn our weaker self can be. But we have a clever solution for you: Reward yourself when you achieve your goals. Take advantage of our outstanding reward packages, specifically designed to invest in your health and fitness. With every activity you collect valuable STARS, which you can then exchange for fantastic rewards in our Reward Shop. <br> <br>\n Stop procrastinating and reward yourself for your success! Discover our Premium+ offer now and let yourself be pampered for your efforts."
             hl: 'Pamper yourself with our exclusive MySports Rewards PLUS offer.'
+            small: ''
+            extra: ''
+            button: ''
+        pakete:
+            -
+                size: ''
+                preis: ''
+                benefit-one: ''
+                benefit-two: ''
+                benefit-three: ''
+            -
+                size: ''
+                preis: ''
+                benefit-one: ''
+                benefit-two: ''
+                benefit-three: ''
+            -
+                size: ''
+                preis: ''
+                benefit-one: ''
+                benefit-two: ''
+                benefit-three: ''
+            -
+                size: ''
+                preis: ''
+                benefit-one: ''
+                benefit-two: ''
+                benefit-three: ''
