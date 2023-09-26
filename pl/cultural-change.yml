@@ -10,8 +10,6 @@ pl:
             p: 'Żyjemy w starzejącym się społeczeństwie, a następne pokolenie już się nie rusza! To wyzwania, które mają bezpośredni wpływ także na przedsiębiorstwa. MySports Rewards oferuje proste rozwiązanie, które bezpośrednio pozwala zaoszczędzić więcej pieniędzy niż kosztuje.'
             p2: "Firmy mogą oszczędzać pieniądze bezpośrednio – i to na dużą skalę! - Do pełnego miesięcznego wynagrodzenia na aktywnego pracownika każdego roku. <br> <br>\n Tajemnica? Absencja spada aż o 20-30% wśród aktywnych użytkowników naszej oferty, a fluktuacja zmniejsza się nawet o 40%. Potencjał, jaki się tu otwiera, jest po prostu imponujący. <br> <br>\n Ale to nie wszystko. Korzystają na tym także pracownicy, i to nie tylko pod względem zabawy i zdrowia. Dzięki MySports Rewards Ty również zostaniesz nagrodzony GWIAZDAMI, które będziesz mógł wymienić na ekscytujące kupony w naszym sklepie. <br> <br>\n I wreszcie, Twoja firma wnosi cenny wkład w społeczeństwo, które szybko rozprzestrzenia się w regionie i zapewnia dodatkowe sieciowanie."
             title2: Wygrana-wygrana
-            p3: "Aż za dobrze rozumiemy, jak uparte może być nasze słabsze ja. Mamy jednak dla Ciebie sprytne rozwiązanie: nagradzaj się, gdy osiągniesz swoje cele. Skorzystaj z naszych wyjątkowych pakietów nagród, zaprojektowanych specjalnie z myślą o inwestowaniu w Twoje zdrowie i kondycję. Z każdą aktywnością zbierasz cenne GWIAZDKI, które możesz następnie wymienić na fantastyczne nagrody w naszym sklepie z nagrodami. <br> <br>\n Przestań zwlekać i nagradzaj się za swój sukces! Odkryj już teraz naszą ofertę Premium+ i pozwól się rozpieszczać swoimi wysiłkami."
-            title3: 'Odpręż się dzięki naszej ekskluzywnej ofercie MySports Rewards PLUS.'
         benefits:
             -
                 title: 88%
@@ -69,3 +67,6 @@ pl:
             button: 'Rejestracja w portalu pracodawcy'
             p: 'Przekonaj się jakie to proste i umów się na niezobowiązującą rozmowę.'
             title: 'Testuj bezpośrednio jako pracodawca!'
+        preise:
+            p: "Aż za dobrze rozumiemy, jak uparte może być nasze słabsze ja. Mamy jednak dla Ciebie sprytne rozwiązanie: nagradzaj się, gdy osiągniesz swoje cele. Skorzystaj z naszych wyjątkowych pakietów nagród, zaprojektowanych specjalnie z myślą o inwestowaniu w Twoje zdrowie i kondycję. Z każdą aktywnością zbierasz cenne GWIAZDKI, które możesz następnie wymienić na fantastyczne nagrody w naszym sklepie z nagrodami. <br> <br>\n Przestań zwlekać i nagradzaj się za swój sukces! Odkryj już teraz naszą ofertę Premium+ i pozwól się rozpieszczać swoimi wysiłkami."
+            hl: 'Odpręż się dzięki naszej ekskluzywnej ofercie MySports Rewards PLUS.'

@@ -1,0 +1,31 @@
+de:
+    cultural-change:
+        preise:
+            small: 'inkl. 2,50€ Plattform Gebühr'
+            extra: 'Leistungspakete, netto, monatlich, je Teilnehmer'
+            button: 'Jetzt kostenfrei testen'
+        pakete:
+            -
+                size: Paket
+                preis: '1.500 STARS'
+                benefit-one: 'Kosten 19,17€/Monat'
+                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
+                benefit-three: 'entspricht Prämienwert von 15€'
+            -
+                size: Paket
+                preis: '2.500 STARS'
+                benefit-one: 'Kosten 30,67€/Monat'
+                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
+                benefit-three: 'entspricht Prämienwert von 25€'
+            -
+                size: Paket
+                preis: '3.500 STARS'
+                benefit-one: 'Kosten 41,16€/Monat'
+                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
+                benefit-three: 'entspricht Prämienwert von 35€'
+            -
+                size: Paket
+                preis: '5.000 STARS'
+                benefit-one: 'Kosten 54,17€/Monat'
+                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
+                benefit-three: 'entspricht Prämienwert von 50€'

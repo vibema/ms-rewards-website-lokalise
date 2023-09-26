@@ -10,8 +10,6 @@ de:
             p: 'Wir leben in einer alternden Gesellschaft und die nachwachsende Generation bewegt sich nicht mehr! Dies sind Herausforderungen, die sich auch direkt auf die Unternehmen auswirken. MySports Rewards bietet eine einfache Lösung, die zudem direkt mehr Geld einspart, als sie kostet.'
             p2: "Firmen können direkt Geld sparen - und das in großem Stil! -  Pro aktivem Mitarbeiter jedes Jahr bis zu einem vollen Monatsgehalt.<br><br>\nDas Geheimnis? Fehltage gehen bei aktiven Nutzern unseres Angebots um satte 20-30% zurück, während sich die Fluktuation um bis zu 40% reduziert. Die Potenziale, die sich hier eröffnen, sind schlichtweg beeindruckend.<br><br>\nAber das ist noch nicht alles. Auch die Mitarbeiter profitieren davon, und zwar nicht nur in Sachen Spaß und Gesundheit. Dank MySports Rewards werden sie zusätzlich mit STARS belohnt und können sich in unserem Shop dafür spannende Gutscheine eintauschen.<br><br>\nUnd nicht zuletzt leistet dein Unternehmen damit einen wertvollen Beitrag zur Gesellschaft, der sich schnell in der Region herumspricht und für zusätzliche Vernetzung sorgt."
             title2: 'Win - Win - Win'
-            p3: "Wir verstehen nur allzu gut, wie hartnäckig der innere Schweinehund sein kann. Doch wir haben eine clevere Lösung für dich: Belohne dich selbst, wenn du deine Ziele erreichst. Nutze dazu unsere herausragenden Belohnungspakete, die speziell darauf ausgerichtet sind, in deine Gesundheit und Fitness zu investieren. Mit jeder Aktivität sammelst du wertvolle STARS, die du dann in unserem Reward Shop gegen fantastische Prämien eintauschen kannst.<br><br>\nMach Schluss mit dem Aufschieben und belohne dich für deinen Erfolg! Entdecke jetzt unser Premium+ Angebot und lass dich für deine Anstrengungen gebührend verwöhnen."
-            title3: 'Verwöhne dich selbst mit unserem exklusiven MySports Rewards PLUS Angebot.'
         benefits:
             -
                 title: 88%
@@ -69,3 +67,6 @@ de:
             button: 'Registrierung im Arbeitgeberportal'
             p: 'Probiere die App als Arbeitgeber am besten direkt selbst aus und lasse dich begeistern.'
             title: 'Als Arbeitgeber direkt testen!'
+        preise:
+            p: "Wir verstehen nur allzu gut, wie hartnäckig der innere Schweinehund sein kann. Doch wir haben eine clevere Lösung für dich: Belohne dich selbst, wenn du deine Ziele erreichst. Nutze dazu unsere herausragenden Belohnungspakete, die speziell darauf ausgerichtet sind, in deine Gesundheit und Fitness zu investieren. Mit jeder Aktivität sammelst du wertvolle STARS, die du dann in unserem Reward Shop gegen fantastische Prämien eintauschen kannst.<br><br>\nMach Schluss mit dem Aufschieben und belohne dich für deinen Erfolg! Entdecke jetzt unser Premium+ Angebot und lass dich für deine Anstrengungen gebührend verwöhnen."
+            hl: 'Verwöhne dich selbst mit unserem exklusiven MySports Rewards PLUS Angebot.'
