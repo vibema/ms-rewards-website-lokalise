@@ -70,31 +70,31 @@ pl:
         preise:
             p: "Aż za dobrze rozumiemy, jak uparte może być nasze słabsze ja. Mamy jednak dla Ciebie sprytne rozwiązanie: nagradzaj się, gdy osiągniesz swoje cele. Skorzystaj z naszych wyjątkowych pakietów nagród, zaprojektowanych specjalnie z myślą o inwestowaniu w Twoje zdrowie i kondycję. Z każdą aktywnością zbierasz cenne GWIAZDKI, które możesz następnie wymienić na fantastyczne nagrody w naszym sklepie z nagrodami. <br> <br>\n Przestań zwlekać i nagradzaj się za swój sukces! Odkryj już teraz naszą ofertę Premium+ i pozwól się rozpieszczać swoimi wysiłkami."
             hl: 'Odpręż się dzięki naszej ekskluzywnej ofercie MySports Rewards PLUS.'
-            small: ''
-            extra: ''
-            button: ''
+            small: 'w tym opłata za platformę w wysokości 2,50 €'
+            extra: 'Pakiety usług netto, miesięcznie, na uczestnika'
+            button: Kupić
         pakete:
             -
-                size: ''
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: ''
+                size: pakiet
+                preis: '1500 GWIAZD'
+                benefit-one: 'Kosztuje 19,17 €/miesiąc'
+                benefit-two: 'w tym opłata za platformę i 19% VAT.'
+                benefit-three: 'odpowiada wartości składki wynoszącej 15 EUR'
             -
-                size: ''
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: ''
+                size: pakiet
+                preis: '2500 GWIAZD'
+                benefit-one: 'Kosztuje 30,67 €/miesiąc'
+                benefit-two: 'w tym opłata za platformę i 19% VAT.'
+                benefit-three: 'odpowiada wartości składki wynoszącej 25 €'
             -
-                size: ''
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: ''
+                size: pakiet
+                preis: '3500 GWIAZD'
+                benefit-one: 'Kosztuje 41,16 €/miesiąc'
+                benefit-two: 'w tym opłata za platformę i 19% VAT.'
+                benefit-three: 'odpowiada wartości składki wynoszącej 35 EUR'
             -
-                size: ''
-                preis: ''
-                benefit-one: ''
-                benefit-two: ''
-                benefit-three: ''
+                size: pakiet
+                preis: '5000 GWIAZD'
+                benefit-one: 'Kosztuje 54,17 €/miesiąc'
+                benefit-two: 'w tym opłata za platformę i 19% VAT.'
+                benefit-three: 'odpowiada wartości składki wynoszącej 50 EUR'
