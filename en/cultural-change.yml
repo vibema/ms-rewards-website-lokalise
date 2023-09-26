@@ -80,21 +80,25 @@ en:
                 benefit-one: 'Costs €19.17/month'
                 benefit-two: 'including platform fee and 19% VAT.'
                 benefit-three: 'corresponds to the premium value of €15'
+                link: ''
             -
                 size: package
                 preis: '2,500 STARS'
                 benefit-one: 'Costs €30.67/month'
                 benefit-two: 'including platform fee and 19% VAT.'
                 benefit-three: 'corresponds to the premium value of €25'
+                link: ''
             -
                 size: package
                 preis: '3,500 STARS'
                 benefit-one: 'Costs €41.16/month'
                 benefit-two: 'including platform fee and 19% VAT.'
                 benefit-three: 'corresponds to the premium value of €35'
+                link: ''
             -
                 size: package
                 preis: '5,000 STARS'
                 benefit-one: 'Costs €54.17/month'
                 benefit-two: 'including platform fee and 19% VAT.'
                 benefit-three: 'corresponds to the premium value of €50'
+                link: ''

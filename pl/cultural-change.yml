@@ -80,21 +80,25 @@ pl:
                 benefit-one: 'Kosztuje 19,17 €/miesiąc'
                 benefit-two: 'w tym opłata za platformę i 19% VAT.'
                 benefit-three: 'odpowiada wartości składki wynoszącej 15 EUR'
+                link: ''
             -
                 size: pakiet
                 preis: '2500 GWIAZD'
                 benefit-one: 'Kosztuje 30,67 €/miesiąc'
                 benefit-two: 'w tym opłata za platformę i 19% VAT.'
                 benefit-three: 'odpowiada wartości składki wynoszącej 25 €'
+                link: ''
             -
                 size: pakiet
                 preis: '3500 GWIAZD'
                 benefit-one: 'Kosztuje 41,16 €/miesiąc'
                 benefit-two: 'w tym opłata za platformę i 19% VAT.'
                 benefit-three: 'odpowiada wartości składki wynoszącej 35 EUR'
+                link: ''
             -
                 size: pakiet
                 preis: '5000 GWIAZD'
                 benefit-one: 'Kosztuje 54,17 €/miesiąc'
                 benefit-two: 'w tym opłata za platformę i 19% VAT.'
                 benefit-three: 'odpowiada wartości składki wynoszącej 50 EUR'
+                link: ''
