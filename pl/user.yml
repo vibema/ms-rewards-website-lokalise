@@ -46,6 +46,41 @@ pl:
         cta:
             title: 'Stań się bardziej aktywny już teraz i pobierz aplikację MySports Rewards'
             p: 'Jeśli też zależy Ci na kondycji i dobrym samopoczuciu, to już teraz zainstaluj aplikację MySports Rewards i daj się ponieść większej motywacji do bycia w ruchu. Możesz łatwo zapraszać znajomych, współzawodniczyć w otwartych wyzwaniach lub dołączyć do programu Twojego pracodawcy.'
+        preise:
+            p: "Aż za dobrze rozumiemy, jak uparte może być nasze słabsze ja. Mamy jednak dla Ciebie sprytne rozwiązanie: nagradzaj się, gdy osiągniesz swoje cele. Skorzystaj z naszych wyjątkowych pakietów nagród, zaprojektowanych specjalnie z myślą o inwestowaniu w Twoje zdrowie i kondycję. Z każdą aktywnością zbierasz cenne GWIAZDKI, które możesz następnie wymienić na fantastyczne nagrody w naszym sklepie z nagrodami. <br> <br>\n Przestań zwlekać i nagradzaj się za swój sukces! Odkryj już teraz naszą ofertę Premium+ i pozwól się rozpieszczać swoimi wysiłkami."
+            hl: 'Odpręż się dzięki naszej ekskluzywnej ofercie MySports Rewards PLUS.'
+            small: 'w tym opłata za platformę w wysokości 2,50 €'
+            extra: 'Pakiety usług netto, miesięcznie, na uczestnika'
+            button: Kupić
+        pakete:
+            -
+                size: pakiet
+                preis: '1500 GWIAZD'
+                benefit-one: 'Kosztuje 19,17 €/miesiąc'
+                benefit-two: 'w tym opłata za platformę i 19% VAT.'
+                benefit-three: 'odpowiada wartości składki wynoszącej 15 EUR'
+                link: 'mailto:move@mysports-rewards.com?subject=Zarezerwuj pakiet MySports Rewards 1500 STARS&body=Witam, %0D% 0A %0D% 0AI %20das% 20MySports %20Rewards% 201,500 %20STARS% 20Pakiet %20buchen:% 0D %0A% 0D %0AVorname:% 20 %0D% 0ALNazwisko: %20% 0D %0AStartzeitpunkt:% 0D %0AAnmerkungen:% 0D %0A% %0AViele% 20Pozdrowienia,'
+            -
+                size: pakiet
+                preis: '2500 GWIAZD'
+                benefit-one: 'Kosztuje 30,67 €/miesiąc'
+                benefit-two: 'w tym opłata za platformę i 19% VAT.'
+                benefit-three: 'odpowiada wartości składki wynoszącej 25 €'
+                link: 'mailto:move@mysports-rewards.com?subject=Zarezerwuj pakiet MySports Rewards 2500 STARS&body=Witam, %0D% 0A %0D% 0AI %20das% 20MySports %20Rewards% 202,500 %20STARS% 20Pakiet %20buchen:% 0D %0A% 0D %0AVorname:% 20 %0D% 0ALNazwisko: %20% 0D %0AStartzeitpunkt:% 0D %0AAnmerkungen:% 0D %0A% %0AViele% 20Pozdrowienia,'
+            -
+                size: pakiet
+                preis: '3500 GWIAZD'
+                benefit-one: 'Kosztuje 41,16 €/miesiąc'
+                benefit-two: 'w tym opłata za platformę i 19% VAT.'
+                benefit-three: 'odpowiada wartości składki wynoszącej 35 EUR'
+                link: 'mailto:move@mysports-rewards.com?subject=Zarezerwuj pakiet MySports Rewards 3500 STARS&body=Witajcie, %0D% 0A %0D% 0AI %20das% 20MySports %20Rewards% 203,500 %20STARS% 20Pakiet %20buchen:% 0D %0A% 0D %0AVorname:% 20 %0D% 0ALNazwisko: %20% 0D %0AStartzeitpunkt:% 0D %0AAnmerkungen:% 0D %0A% %0AViele% 20Pozdrowienia,'
+            -
+                size: pakiet
+                preis: '5000 GWIAZD'
+                benefit-one: 'Kosztuje 54,17 €/miesiąc'
+                benefit-two: 'w tym opłata za platformę i 19% VAT.'
+                benefit-three: 'odpowiada wartości składki wynoszącej 50 EUR'
+                link: 'mailto:move@mysports-rewards.com?subject=Zarezerwuj pakiet MySports Rewards 5000 STARS&body=Witam, %0D% 0A %0D% 0AI %20das% 20MySports %20Rewards% 205 000 %20STARS% 20Pakiet %20buchen:% 0D %0A% 0D %0AVorname:% 20 %0D% 0ALNazwisko: %20% 0D %0AStartzeitpunkt:% 0D %0AAnmerkungen:% 0D %0A% %0AViele% 20Pozdrowienia,'
     challenges:
         cta:
             p: 'Jeśli też zależy Ci na kondycji i dobrym samopoczuciu, to już teraz zainstaluj aplikację MySports Rewards i daj się ponieść większej motywacji do bycia w ruchu. Możesz łatwo zapraszać znajomych, współzawodniczyć w otwartych wyzwaniach lub dołączyć do programu Twojego pracodawcy.'

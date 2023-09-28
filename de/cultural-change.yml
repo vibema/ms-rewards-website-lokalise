@@ -67,38 +67,3 @@ de:
             button: 'Registrierung im Arbeitgeberportal'
             p: 'Probiere die App als Arbeitgeber am besten direkt selbst aus und lasse dich begeistern.'
             title: 'Als Arbeitgeber direkt testen!'
-        preise:
-            p: "Wir verstehen nur allzu gut, wie hartnäckig der innere Schweinehund sein kann. Doch wir haben eine clevere Lösung für dich: Belohne dich selbst, wenn du deine Ziele erreichst. Nutze dazu unsere herausragenden Belohnungspakete, die speziell darauf ausgerichtet sind, in deine Gesundheit und Fitness zu investieren. Mit jeder Aktivität sammelst du wertvolle STARS, die du dann in unserem Reward Shop gegen fantastische Prämien eintauschen kannst.<br><br>\nMach Schluss mit dem Aufschieben und belohne dich für deinen Erfolg! Entdecke jetzt unser Premium+ Angebot und lass dich für deine Anstrengungen gebührend verwöhnen."
-            hl: 'Verwöhne dich selbst mit unserem exklusiven MySports Rewards PLUS Angebot.'
-            small: 'inkl. 2,50€ Plattform Gebühr'
-            extra: 'Leistungspakete, netto, monatlich, je Teilnehmer'
-            button: Kaufen
-        pakete:
-            -
-                size: Paket
-                preis: '1.500 STARS'
-                benefit-one: 'Kosten 19,17€/Monat'
-                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
-                benefit-three: 'entspricht Prämienwert von 15€'
-                link: 'mailto:move@mysports-rewards.com?subject=MySports Rewards 1.500 STARS Paket buchen&body=Hallo,%0D%0A%0D%0AIch%20möchte%20das%20MySports%20Rewards%201.500%20STARS%20Paket%20buchen:%0D%0A%0D%0AVorname:%20%0D%0ANachname:%20%0D%0AStartzeitpunkt:%0D%0AAnmerkungen:%0D%0A%0A%0AViele%20Grüße,'
-            -
-                size: Paket
-                preis: '2.500 STARS'
-                benefit-one: 'Kosten 30,67€/Monat'
-                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
-                benefit-three: 'entspricht Prämienwert von 25€'
-                link: 'mailto:move@mysports-rewards.com?subject=MySports Rewards 2.500 STARS Paket buchen&body=Hallo,%0D%0A%0D%0AIch%20möchte%20das%20MySports%20Rewards%202.500%20STARS%20Paket%20buchen:%0D%0A%0D%0AVorname:%20%0D%0ANachname:%20%0D%0AStartzeitpunkt:%0D%0AAnmerkungen:%0D%0A%0A%0AViele%20Grüße,'
-            -
-                size: Paket
-                preis: '3.500 STARS'
-                benefit-one: 'Kosten 41,16€/Monat'
-                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
-                benefit-three: 'entspricht Prämienwert von 35€'
-                link: 'mailto:move@mysports-rewards.com?subject=MySports Rewards 3.500 STARS Paket buchen&body=Hallo,%0D%0A%0D%0AIch%20möchte%20das%20MySports%20Rewards%203.500%20STARS%20Paket%20buchen:%0D%0A%0D%0AVorname:%20%0D%0ANachname:%20%0D%0AStartzeitpunkt:%0D%0AAnmerkungen:%0D%0A%0A%0AViele%20Grüße,'
-            -
-                size: Paket
-                preis: '5.000 STARS'
-                benefit-one: 'Kosten 54,17€/Monat'
-                benefit-two: 'inkl. Plattformgebühr und 19% MwSt.'
-                benefit-three: 'entspricht Prämienwert von 50€'
-                link: 'mailto:move@mysports-rewards.com?subject=MySports Rewards 5.000 STARS Paket buchen&body=Hallo,%0D%0A%0D%0AIch%20möchte%20das%20MySports%20Rewards%205.000%20STARS%20Paket%20buchen:%0D%0A%0D%0AVorname:%20%0D%0ANachname:%20%0D%0AStartzeitpunkt:%0D%0AAnmerkungen:%0D%0A%0A%0AViele%20Grüße,'
