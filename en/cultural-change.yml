@@ -67,38 +67,3 @@ en:
             button: 'Registration in the employer portal'
             p: 'As an employer, try the app out for yourself and let yourself be inspired.'
             title: 'Test directly as an employer!'
-        preise:
-            p: "We understand only too well how stubborn our weaker self can be. But we have a clever solution for you: Reward yourself when you achieve your goals. Take advantage of our outstanding reward packages, specifically designed to invest in your health and fitness. With every activity you collect valuable STARS, which you can then exchange for fantastic rewards in our Reward Shop. <br> <br>\n Stop procrastinating and reward yourself for your success! Discover our Premium+ offer now and let yourself be pampered for your efforts."
-            hl: 'Pamper yourself with our exclusive MySports Rewards PLUS offer.'
-            small: 'including €2.50 platform fee'
-            extra: 'Service packages, net, monthly, per participant'
-            button: Buy
-        pakete:
-            -
-                size: package
-                preis: '1,500 STARS'
-                benefit-one: 'Costs €19.17/month'
-                benefit-two: 'including platform fee and 19% VAT.'
-                benefit-three: 'corresponds to the premium value of €15'
-                link: 'mailto:move@mysports-rewards.com?subject=Book MySports Rewards 1,500 STARS package&body=Hello, %0D% 0A %0D% 0AI %20das% 20MySports %20Rewards% 201,500 %20STARS% 20Package %20buchen:% 0D %0A% 0D %0AVorname:% 20 %0D% 0ALast name: %20% 0D %0AStartzeitpunkt:% 0D %0AAnmerkungen:% 0D %0A% %0AViele% 20Greetings,'
-            -
-                size: package
-                preis: '2,500 STARS'
-                benefit-one: 'Costs €30.67/month'
-                benefit-two: 'including platform fee and 19% VAT.'
-                benefit-three: 'corresponds to the premium value of €25'
-                link: 'mailto:move@mysports-rewards.com?subject=Book MySports Rewards 2,500 STARS package&body=Hello, %0D% 0A %0D% 0AI %20das% 20MySports %20Rewards% 202,500 %20STARS% 20Package %20buchen:% 0D %0A% 0D %0AVorname:% 20 %0D% 0ALast name: %20% 0D %0AStartzeitpunkt:% 0D %0AAnmerkungen:% 0D %0A% %0AViele% 20Greetings,'
-            -
-                size: package
-                preis: '3,500 STARS'
-                benefit-one: 'Costs €41.16/month'
-                benefit-two: 'including platform fee and 19% VAT.'
-                benefit-three: 'corresponds to the premium value of €35'
-                link: 'mailto:move@mysports-rewards.com?subject=Book MySports Rewards 3,500 STARS package&body=Hello, %0D% 0A %0D% 0AI %20das% 20MySports %20Rewards% 203,500 %20STARS% 20Package %20buchen:% 0D %0A% 0D %0AVorname:% 20 %0D% 0ALast name: %20% 0D %0AStartzeitpunkt:% 0D %0AAnmerkungen:% 0D %0A% %0AViele% 20Greetings,'
-            -
-                size: package
-                preis: '5,000 STARS'
-                benefit-one: 'Costs €54.17/month'
-                benefit-two: 'including platform fee and 19% VAT.'
-                benefit-three: 'corresponds to the premium value of €50'
-                link: 'mailto:move@mysports-rewards.com?subject=Book MySports Rewards 5,000 STARS package&body=Hello, %0D% 0A %0D% 0AI %20das% 20MySports %20Rewards% 205,000 %20STARS% 20Package %20buchen:% 0D %0A% 0D %0AVorname:% 20 %0D% 0ALast name: %20% 0D %0AStartzeitpunkt:% 0D %0AAnmerkungen:% 0D %0A% %0AViele% 20Greetings,'
