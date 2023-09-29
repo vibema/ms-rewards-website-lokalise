@@ -1,5 +1,15 @@
 en:
     cultural-change:
+        testimonials-header:
+            title: 'HOW OTHER COMPANIES SCORE WITH MYSPORTS REWARDS'
+            p: 'These companies are already participating in the MySports Rewards Corporate program to promote employee fitness, resilience and employer branding.'
+        testimonials:
+            -
+                quote: 'A clever application that makes it easier for us to achieve our goals - exactly to our taste! In the meantime, the whole team joined the program and we cheer each other on. After a few months, it''s clear: we are actually more active.'
+            -
+                quote: 'I am positively surprised that so many employees are motivated to exercise regularly thanks to MySports Rewards. There are twice as many participating as I expected when I decided to introduce MySports Rewards.'
+            -
+                quote: 'MySports Rewards is easy to integrate into the daily routine of almost all employees. Actually all interests are addressed, no one is at a disadvantage, young and also older colleagues can equally earn their STARS through sports activity.'
         header:
             label: 'MY SPORTS REWARDS'
             title: 'CULTURE CHANGE IS FUN'
@@ -45,13 +55,6 @@ en:
             -
                 title: Teams
                 p: 'Teams then form themselves. There are those who take a little walk during their lunch break. At traffic lights you meet those who also cycle to work. And in the club there are colleagues who do sports together.'
-        testimonials:
-            -
-                quote: 'In no other program have I, as a board member, been addressed so openly, positively and directly. <br> <br> I didn''t expect that.'
-            -
-                quote: 'Of course, we demand full commitment from our employees, so it''s only fair if we give our all as an employer.'
-            -
-                quote: 'As managing director, I took part more for fun. I''m now in a daily cycling challenge with the trainees and actually track most of the steps at the weekend.'
         onboarding:
             company-name: 'company name'
             company-email: 'Business email address'
