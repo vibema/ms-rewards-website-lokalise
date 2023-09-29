@@ -1,5 +1,15 @@
 de:
     cultural-change:
+        testimonials-header:
+            title: 'So punkten andere Unternehmen mit MySports Rewards'
+            p: 'Diese Unternehmen nehmen bereits am MySports Rewards Corporate Programm teil um die Fitness für Mitarbeiter zu fördern, sowie Resilienz und ihre Arbeitgebermarke zu stärken.'
+        testimonials:
+            -
+                quote: 'Eine smarte App, die uns das Erreichen unserer Ziele vereinfacht – genau unser Geschmack! Mittlerweile macht das gesamte Team mit und wir heizen uns gegenseitig an. Nach mehreren Monaten ist klar&#58; Wir bewegen uns tatsächlich dauerhaft mehr.'
+            -
+                quote: 'Ich bin positiv überrascht, dass so viele Mitarbeiter*innen mit MySports Rewards zu regelmäßigem Sporttreiben motiviert werden. Es machen doppelt so viele Kolleg*innen mit, wie von mir erwartet, als ich mich für MySports Rewards entschieden habe.'
+            -
+                quote: 'MySports Rewards ist leichtgängig in den Alltag fast aller Mitarbeiter einzubinden. Es werden eigentlich alle Interessen angesprochen, keiner ist im Nachteil, junge und auch ältere Kolleg:innen können gleichermaßen ihre STARS durch sportliche Aktivität verdienen.'
         header:
             label: 'MYSPORTS REWARDS'
             title: 'KULTURWANDEL MACHT SPAß'
@@ -45,13 +55,6 @@ de:
             -
                 title: Teams
                 p: 'Teams bilden sich anschließend ganz von alleine. Es gibt die, die in der Mittagspause einen kleinen Spaziergang machen. An der Ampel trifft man die, die auch mit dem Rad zur Arbeit fahren. Und im Verein finden sich Kollegen die zusammen Sport machen.'
-        testimonials:
-            -
-                quote: 'Bei keinem anderen Programm wurde ich als Vorstand so offen, positiv und direkt angesprochen.<br><br>Das hätte ich nicht erwartet.'
-            -
-                quote: 'Natürlich verlangen wir vollen Einsatz von unseren Mitarbeitern, es ist dann nur fair, wenn wir als Arbeitgeber genauso alles geben.'
-            -
-                quote: 'Ich habe als Geschäftsführer eher zum Spaß mitgemacht. Inzwischen bin ich in einer täglichen Radfahr-Challenge mit den Azubis und tracke eigentlich am Wochenende die meisten Schritte.'
         onboarding:
             company-name: Firmenname
             company-email: 'Geschäftliche E-Mail-Adresse'

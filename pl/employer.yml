@@ -56,16 +56,6 @@ pl:
                 benefit-one: 'plus 16 zł za platformę'
                 benefit-two: 'Nagrody do 4.000 STARS'
                 benefit-three: 'odpowiada nagrodom wartości 200 zł (brutto)'
-        testimonials-header:
-            title: 'JAK INNE FIRMY DOCENIAJĄ MYSPORTS REWARDS'
-            p: 'Firmy te już uczestniczą w programie MySports Rewards, by wzmacniać sprawność fizyczną i odporność pracowników oraz budować silną markę pracodawcy.'
-        testimonials:
-            -
-                quote: 'Sprytna aplikacja, która ułatwia nam osiąganie celów - dokładnie w naszym guście! W międzyczasie cały zespół przystąpił do programu i wzajemnie się dopingujemy. Po kilku miesiącach widać wyraźnie: faktycznie jesteśmy bardziej aktywni.'
-            -
-                quote: 'Jestem mile zaskoczona, jak wielu pracowników czuje się zmotywowanych do regularnych ćwiczeń dzięki MySports Rewards. Uczestników jest dwa razy więcej niż zakładałam, gdy zdecydowałam się na skorzystanie z MySports Rewards.'
-            -
-                quote: 'MySports Rewards można łatwo włączyć do codziennej rutyny większości pracowników. W zasadzie spełnia oczekiwania wszystkich, nie stawiając nikogo w gorszej sytuacji. Zarówno młodzi, jak i starsi koledzy mogą w równym stopniu zdobywać punkty premiowe dzięki swojej aktywności sportowej.'
         footer:
             title: 'Testuj bezpośrednio jako pracodawca!'
             p: 'Przekonaj się jakie to proste i umów się na niezobowiązującą rozmowę.'

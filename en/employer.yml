@@ -56,16 +56,6 @@ en:
                 benefit-one: 'plus 3.50€ platform fee'
                 benefit-two: 'includes up to 5,000 STARS'
                 benefit-three: 'corresponds to a premium value of €50 (gross)'
-        testimonials-header:
-            title: 'HOW OTHER COMPANIES SCORE WITH MYSPORTS REWARDS'
-            p: 'These companies are already participating in the MySports Rewards Corporate program to promote employee fitness, resilience and employer branding.'
-        testimonials:
-            -
-                quote: 'A clever application that makes it easier for us to achieve our goals - exactly to our taste! In the meantime, the whole team joined the program and we cheer each other on. After a few months, it''s clear: we are actually more active.'
-            -
-                quote: 'I am positively surprised that so many employees are motivated to exercise regularly thanks to MySports Rewards. There are twice as many participating as I expected when I decided to introduce MySports Rewards.'
-            -
-                quote: 'MySports Rewards is easy to integrate into the daily routine of almost all employees. Actually all interests are addressed, no one is at a disadvantage, young and also older colleagues can equally earn their STARS through sports activity.'
         footer:
             title: 'Test directly as an employer!'
             p: 'As an employer, try the app out for yourself and let yourself be inspired.'

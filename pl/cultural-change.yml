@@ -1,5 +1,15 @@
 pl:
     cultural-change:
+        testimonials-header:
+            title: 'JAK INNE FIRMY DOCENIAJĄ MYSPORTS REWARDS'
+            p: 'Firmy te już uczestniczą w programie MySports Rewards, by wzmacniać sprawność fizyczną i odporność pracowników oraz budować silną markę pracodawcy.'
+        testimonials:
+            -
+                quote: 'Sprytna aplikacja, która ułatwia nam osiąganie celów - dokładnie w naszym guście! W międzyczasie cały zespół przystąpił do programu i wzajemnie się dopingujemy. Po kilku miesiącach widać wyraźnie: faktycznie jesteśmy bardziej aktywni.'
+            -
+                quote: 'Jestem mile zaskoczona, jak wielu pracowników czuje się zmotywowanych do regularnych ćwiczeń dzięki MySports Rewards. Uczestników jest dwa razy więcej niż zakładałam, gdy zdecydowałam się na skorzystanie z MySports Rewards.'
+            -
+                quote: 'MySports Rewards można łatwo włączyć do codziennej rutyny większości pracowników. W zasadzie spełnia oczekiwania wszystkich, nie stawiając nikogo w gorszej sytuacji. Zarówno młodzi, jak i starsi koledzy mogą w równym stopniu zdobywać punkty premiowe dzięki swojej aktywności sportowej.'
         header:
             label: 'MOJE NAGRODY SPORTOWE'
             title: 'ZMIANA KULTURY JEST ZABAWĄ'
@@ -45,13 +55,6 @@ pl:
             -
                 title: Zespoły
                 p: 'Następnie zespoły tworzą się same. Są tacy, którzy podczas przerwy na lunch wybierają się na mały spacer. Na światłach spotykasz tych, którzy również dojeżdżają rowerem do pracy. A w klubie są koledzy, którzy razem uprawiają sport.'
-        testimonials:
-            -
-                quote: 'W żadnym innym programie do mnie, jako członka zarządu, nie zwrócono się tak otwarcie, pozytywnie i bezpośrednio. <br> <br> Tego się nie spodziewałem.'
-            -
-                quote: 'Oczywiście od naszych pracowników wymagamy pełnego zaangażowania, dlatego sprawiedliwe będzie tylko wtedy, gdy jako pracodawca damy z siebie wszystko.'
-            -
-                quote: 'Jako dyrektor zarządzający brałem w nim udział bardziej dla zabawy. Teraz biorę udział w codziennym wyzwaniu kolarskim z uczestnikami i faktycznie śledzę większość kroków w weekendy.'
         onboarding:
             company-name: 'Nazwa firmy'
             company-email: 'Biznesowy adres e-mail'
