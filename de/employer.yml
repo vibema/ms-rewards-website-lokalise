@@ -68,3 +68,13 @@ de:
             company-success-title: 'Registrierung erfolgreich!'
             company-success-copy: 'Vielen Dank, dass du das MySports Rewards Benefit Programm ausprobieren möchtest. Du erhältst sofort per E-Mail einen individuellen Downloadlink für unsere APP und kannst dort alles nach Herzenslust testen.'
             unknown-error: 'Bei der Registrierung ist ein unbekannter Fehler aufgetreten. Bitte kontaktiere unseren Support unter <a href="mailto:move@mysports-rewards.com">move@mysports-rewards.com</a>.'
+        testimonials-header:
+            title: 'So punkten andere Unternehmen mit MySports Rewards'
+            p: 'Diese Unternehmen nehmen bereits am MySports Rewards Corporate Programm teil um die Fitness für Mitarbeiter zu fördern, sowie Resilienz und ihre Arbeitgebermarke zu stärken.'
+        testimonials:
+            -
+                quote: 'Eine smarte App, die uns das Erreichen unserer Ziele vereinfacht – genau unser Geschmack! Mittlerweile macht das gesamte Team mit und wir heizen uns gegenseitig an. Nach mehreren Monaten ist klar&#58; Wir bewegen uns tatsächlich dauerhaft mehr.'
+            -
+                quote: 'Ich bin positiv überrascht, dass so viele Mitarbeiter*innen mit MySports Rewards zu regelmäßigem Sporttreiben motiviert werden. Es machen doppelt so viele Kolleg*innen mit, wie von mir erwartet, als ich mich für MySports Rewards entschieden habe.'
+            -
+                quote: 'MySports Rewards ist leichtgängig in den Alltag fast aller Mitarbeiter einzubinden. Es werden eigentlich alle Interessen angesprochen, keiner ist im Nachteil, junge und auch ältere Kolleg:innen können gleichermaßen ihre STARS durch sportliche Aktivität verdienen.'
